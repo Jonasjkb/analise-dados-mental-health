@@ -3,7 +3,7 @@ name: Bug report
 about: Reportar um problema ou comportamento inesperado
 title: "[BUG] - "
 labels: ''
-assignees: ''
+assignees: Jonasjkb
 
 ---
 
