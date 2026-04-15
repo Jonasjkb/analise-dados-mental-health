@@ -1,0 +1,19 @@
+# ambiente virtual
+venv/
+
+# arquivos Python
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# variáveis de ambiente
+.env
+
+# arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
