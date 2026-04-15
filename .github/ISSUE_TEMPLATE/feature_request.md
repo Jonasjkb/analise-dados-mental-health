@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Sugerir uma nova funcionalidade ou melhoria
-title: ''
+title: "[FEATURE] - "
 labels: ''
-assignees: ''
+assignees: Jonasjkb
 
 ---
 
