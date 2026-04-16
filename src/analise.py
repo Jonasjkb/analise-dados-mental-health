@@ -48,6 +48,7 @@ def uso_vs_saude(df: pd.DataFrame) -> pd.DataFrame:
         df.groupby("FAIXA_USO")["PONTUAÇÃO_SAÚDE_MENTAL"]
         .agg(["mean", "median"])
         .reset_index()
+        .round(2)
     )
     return df_grouped
 
@@ -134,7 +135,7 @@ def impacto_academico_percentual(df: pd.DataFrame) -> pd.DataFrame:
 def plataforma_vs_saude(df: pd.DataFrame) -> pd.DataFrame:
     df_grouped = (
         df.groupby("PLATAFORMA_MAIS_UTILIZADA")["PONTUAÇÃO_SAÚDE_MENTAL"]
-        .median()
+        .mean()
         .reset_index()
         .sort_values(by="PONTUAÇÃO_SAÚDE_MENTAL", ascending=True)
     )
