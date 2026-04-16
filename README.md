@@ -24,7 +24,7 @@ Explorar e identificar padrões que expliquem como o comportamento digital pode 
 
 O projeto conta com um dashboard desenvolvido em Streamlit, permitindo a exploração dinâmica dos dados.
 
-👉 (adicione aqui o link do deploy quando publicar)
+👉 https://portfolio-mental-health.streamlit.app/
 
 ---
 
@@ -70,7 +70,7 @@ O projeto conta com um dashboard desenvolvido em Streamlit, permitindo a explora
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/Jonasjkb/analise-dados-mental-health.git
 
 # Acesse a pasta
 cd Portfolio-Analise-Dados-Mental-Health
@@ -107,8 +107,8 @@ Sou um profissional de tecnologia focado em análise de dados, com experiência 
 
 ## 📬 Contato
 
-* LinkedIn: (adicione aqui)
-* GitHub: (adicione aqui)
+* LinkedIn: https://www.linkedin.com/in/jonas-barbosa1/
+* GitHub: https://github.com/Jonasjkb
 
 ---
 
