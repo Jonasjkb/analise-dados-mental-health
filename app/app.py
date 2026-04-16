@@ -2,6 +2,11 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 from src.analise import (
     preparar_dados,
     uso_vs_saude,
@@ -29,7 +34,7 @@ st.title("📊 Análise de Saúde Mental e Redes Sociais")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("data/processed/dados_tratados.csv")
+    df = pd.read_csv("https://raw.githubusercontent.com/Jonasjkb/analise-dados-mental-health/refs/heads/main/data/raw_mental_health.csv")
     df = preparar_dados(df)
     return df
 
