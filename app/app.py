@@ -34,7 +34,7 @@ st.title("📊 Análise de Saúde Mental e Redes Sociais")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("https://raw.githubusercontent.com/Jonasjkb/analise-dados-mental-health/refs/heads/main/data/raw_mental_health.csv")
+    df = pd.read_csv("https://raw.githubusercontent.com/Jonasjkb/analise-dados-mental-health/refs/heads/main/data/processed_mental_health.csv")
     df = preparar_dados(df)
     return df
 
