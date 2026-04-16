@@ -1,0 +1,1706 @@
+ID_ALUNO,IDADE,GÊNERO,NÍVEL_ACADÊMICO,PAÍS,MÉDIA_HORAS_USO_DIÁRIO,PLATAFORMA_MAIS_UTILIZADA,AFETA_DESEMPENHO_ACADÊMICO,HORAS_SONO_POR_NOITE,PONTUAÇÃO_SAÚDE_MENTAL,IMPACTO_GERAL,USO_SEVERO,SONO_RUIM,FAIXA_USO,FAIXA_SONO
+232,21,Masculino,Graduação,Outro,4.0,Facebook,Não,6.7,6.8,Neutro,False,False,2-4h,6-8h
+564,23,Feminino,Graduação,Outro,1.6,LinkedIn,Não,8.6,7.6,Positivo,False,False,0-2h,8h+
+788,22,Masculino,Pós-graduação,Canadá,4.6,Instagram,Não,6.7,7.0,Neutro,False,False,4-6h,6-8h
+686,18,Masculino,Graduação,Outro,7.0,Snapchat,Sim,5.4,5.3,Negativo,True,False,6-8h,4-6h
+608,24,Feminino,Ensino Médio,Outro,7.5,Facebook,Sim,5.0,4.4,Negativo,True,False,6-8h,4-6h
+370,19,Feminino,Ensino Médio,Outro,4.1,Twitter,Sim,6.8,6.8,Neutro,False,False,4-6h,6-8h
+862,22,Feminino,Pós-graduação,Outro,8.0,Instagram,Sim,5.2,5.3,Negativo,True,False,6-8h,4-6h
+520,21,Feminino,Pós-graduação,Outro,6.0,Facebook,Sim,5.7,4.7,Negativo,True,False,4-6h,4-6h
+703,24,Masculino,Graduação,EUA,4.7,YouTube,Não,7.0,6.2,Neutro,False,False,4-6h,6-8h
+33,19,Masculino,Ensino Médio,Outro,3.6,TikTok,Não,8.1,8.6,Positivo,False,False,2-4h,8h+
+519,18,Masculino,Pós-graduação,Outro,4.1,LinkedIn,Não,7.3,6.8,Neutro,False,False,4-6h,6-8h
+738,18,Masculino,Ensino Médio,Outro,7.6,Snapchat,Sim,5.3,5.5,Negativo,True,False,6-8h,4-6h
+119,20,Masculino,Graduação,Outro,2.4,Facebook,Não,8.8,8.5,Positivo,False,False,2-4h,8h+
+287,23,Feminino,Graduação,Outro,6.2,LinkedIn,Não,5.3,5.4,Negativo,True,False,6-8h,4-6h
+610,24,Masculino,Pós-graduação,Índia,2.7,Instagram,Não,8.6,7.8,Positivo,False,False,2-4h,8h+
+383,18,Feminino,Pós-graduação,Outro,5.2,Twitter,Sim,7.0,6.3,Neutro,True,False,4-6h,6-8h
+699,22,Feminino,Pós-graduação,EUA,6.5,YouTube,Sim,5.4,5.0,Negativo,True,False,6-8h,4-6h
+302,21,Masculino,Ensino Médio,Austrália,6.8,YouTube,Sim,5.7,5.0,Negativo,True,False,6-8h,4-6h
+277,21,Masculino,Pós-graduação,Canadá,6.9,Facebook,Sim,5.9,5.0,Negativo,True,False,6-8h,4-6h
+631,20,Masculino,Graduação,Outro,5.5,Instagram,Não,6.8,6.8,Neutro,True,False,4-6h,6-8h
+567,23,Feminino,Ensino Médio,Outro,2.0,Facebook,Não,7.9,7.1,Positivo,False,False,0-2h,6-8h
+110,19,Feminino,Graduação,Outro,5.1,Snapchat,Sim,7.1,6.5,Neutro,True,False,4-6h,6-8h
+261,24,Masculino,Graduação,Outro,2.0,Facebook,Sim,7.8,8.5,Positivo,False,False,0-2h,6-8h
+691,23,Masculino,Graduação,Índia,2.0,TikTok,Não,7.2,8.6,Positivo,False,False,0-2h,6-8h
+109,23,Feminino,Pós-graduação,Outro,7.1,LinkedIn,Sim,5.4,5.1,Negativo,True,False,6-8h,4-6h
+537,21,Masculino,Graduação,Outro,6.2,Instagram,Sim,4.7,5.7,Negativo,True,True,6-8h,4-6h
+824,20,Feminino,Graduação,Outro,2.8,LinkedIn,Não,8.3,8.2,Positivo,False,False,2-4h,8h+
+270,21,Feminino,Ensino Médio,Outro,7.4,TikTok,Sim,4.6,4.7,Negativo,True,True,6-8h,4-6h
+932,20,Feminino,Pós-graduação,EUA,5.6,TikTok,Sim,5.7,5.1,Negativo,True,False,4-6h,4-6h
+2,23,Feminino,Graduação,EUA,2.7,YouTube,Não,7.8,7.7,Positivo,False,False,2-4h,6-8h
+808,20,Masculino,Ensino Médio,Austrália,7.3,YouTube,Não,6.0,5.7,Negativo,True,False,6-8h,4-6h
+143,24,Masculino,Pós-graduação,Outro,2.3,Snapchat,Não,8.2,8.1,Positivo,False,False,2-4h,8h+
+671,19,Masculino,Ensino Médio,Índia,5.6,LinkedIn,Não,6.9,6.6,Neutro,True,False,4-6h,6-8h
+363,22,Feminino,Pós-graduação,Índia,7.5,Facebook,Sim,5.2,4.0,Negativo,True,False,6-8h,4-6h
+725,24,Masculino,Ensino Médio,Reino Unido,5.9,TikTok,Não,5.9,4.9,Negativo,True,False,4-6h,4-6h
+120,18,Masculino,Graduação,Reino Unido,6.8,Instagram,Sim,5.5,4.2,Negativo,True,False,6-8h,4-6h
+925,23,Masculino,Ensino Médio,Outro,6.7,Snapchat,Sim,5.5,5.0,Negativo,True,False,6-8h,4-6h
+223,22,Masculino,Pós-graduação,Outro,4.5,Instagram,Não,6.1,6.6,Neutro,False,False,4-6h,6-8h
+305,22,Masculino,Pós-graduação,EUA,5.7,LinkedIn,Sim,6.8,6.3,Neutro,True,False,4-6h,6-8h
+70,19,Feminino,Graduação,Outro,2.3,Facebook,Não,8.0,8.5,Positivo,False,False,2-4h,6-8h
+890,24,Masculino,Graduação,Outro,8.3,Twitter,Sim,5.5,4.3,Negativo,True,False,8h+,4-6h
+84,21,Feminino,Graduação,Outro,6.5,Twitter,Sim,5.7,4.2,Negativo,True,False,6-8h,4-6h
+246,22,Feminino,Pós-graduação,Outro,6.9,Twitter,Sim,5.3,4.5,Negativo,True,False,6-8h,4-6h
+64,20,Masculino,Graduação,Outro,8.1,TikTok,Não,4.5,5.7,Negativo,True,True,8h+,4-6h
+851,20,Feminino,Ensino Médio,Outro,7.2,Instagram,Não,4.8,4.2,Negativo,True,True,6-8h,4-6h
+827,20,Masculino,Pós-graduação,Outro,4.1,Twitter,Sim,6.6,6.7,Neutro,False,False,4-6h,6-8h
+104,18,Masculino,Pós-graduação,Outro,7.2,LinkedIn,Sim,4.5,5.9,Negativo,True,True,6-8h,4-6h
+103,19,Feminino,Ensino Médio,Outro,5.2,Twitter,Não,7.5,6.4,Neutro,True,False,4-6h,6-8h
+577,20,Masculino,Ensino Médio,Reino Unido,7.4,Instagram,Sim,5.2,5.0,Negativo,True,False,6-8h,4-6h
+692,21,Masculino,Ensino Médio,Alemanha,3.6,Instagram,Não,7.1,8.5,Positivo,False,False,2-4h,6-8h
+124,22,Feminino,Ensino Médio,Outro,8.0,YouTube,Sim,5.4,4.7,Negativo,True,False,6-8h,4-6h
+78,19,Feminino,Graduação,Outro,7.9,Twitter,Não,5.0,4.9,Negativo,True,False,6-8h,4-6h
+315,21,Feminino,Graduação,Índia,6.8,YouTube,Sim,5.3,4.6,Negativo,True,False,6-8h,4-6h
+483,22,Masculino,Ensino Médio,Austrália,7.3,Twitter,Sim,5.5,4.7,Negativo,True,False,6-8h,4-6h
+512,21,Masculino,Graduação,Outro,3.4,LinkedIn,Não,8.6,8.8,Positivo,False,False,2-4h,8h+
+147,21,Feminino,Pós-graduação,Reino Unido,4.4,LinkedIn,Sim,6.4,6.6,Neutro,False,False,4-6h,6-8h
+603,22,Masculino,Pós-graduação,Outro,5.9,Twitter,Não,4.7,5.4,Negativo,True,True,4-6h,4-6h
+102,23,Masculino,Pós-graduação,Reino Unido,6.0,TikTok,Não,4.8,5.5,Negativo,True,True,4-6h,4-6h
+654,24,Feminino,Ensino Médio,Outro,3.0,TikTok,Não,8.1,8.0,Positivo,False,False,2-4h,8h+
+614,19,Masculino,Ensino Médio,Outro,2.7,Instagram,Não,8.5,7.6,Positivo,False,False,2-4h,8h+
+552,24,Masculino,Graduação,Outro,1.7,Instagram,Não,7.7,8.7,Positivo,False,False,0-2h,6-8h
+441,22,Feminino,Pós-graduação,Outro,6.2,YouTube,Sim,5.3,5.5,Negativo,True,False,6-8h,4-6h
+847,21,Masculino,Graduação,Outro,1.8,TikTok,Não,7.9,8.1,Positivo,False,False,0-2h,6-8h
+23,24,Feminino,Ensino Médio,Outro,7.1,Twitter,Sim,5.2,4.8,Negativo,True,False,6-8h,4-6h
+46,20,Feminino,Ensino Médio,Índia,6.5,Snapchat,Sim,5.7,4.1,Negativo,True,False,6-8h,4-6h
+620,22,Masculino,Ensino Médio,Outro,7.6,Snapchat,Sim,5.9,6.0,Negativo,True,False,6-8h,4-6h
+845,19,Feminino,Ensino Médio,Outro,4.9,LinkedIn,Não,6.8,6.6,Neutro,False,False,4-6h,6-8h
+434,24,Feminino,Ensino Médio,Outro,8.2,Instagram,Não,5.3,4.4,Negativo,True,False,8h+,4-6h
+933,21,Masculino,Graduação,Outro,5.2,Snapchat,Sim,6.4,6.1,Neutro,True,False,4-6h,6-8h
+7,19,Feminino,Pós-graduação,Outro,2.9,Instagram,Não,7.9,7.7,Positivo,False,False,2-4h,6-8h
+30,23,Feminino,Ensino Médio,Outro,4.4,YouTube,Não,7.3,6.2,Neutro,False,False,4-6h,6-8h
+395,20,Feminino,Graduação,Outro,4.0,Snapchat,Não,7.5,7.2,Positivo,False,False,2-4h,6-8h
+425,23,Masculino,Ensino Médio,Outro,6.4,TikTok,Sim,5.2,4.6,Negativo,True,False,6-8h,4-6h
+865,22,Masculino,Graduação,Reino Unido,8.2,Facebook,Sim,4.6,4.1,Negativo,True,True,8h+,4-6h
+776,22,Masculino,Graduação,Outro,5.1,Twitter,Não,6.5,6.9,Neutro,True,False,4-6h,6-8h
+867,19,Masculino,Pós-graduação,Outro,2.5,YouTube,Não,7.6,8.4,Positivo,False,False,2-4h,6-8h
+295,22,Masculino,Ensino Médio,Outro,6.5,Facebook,Não,5.8,5.5,Negativo,True,False,6-8h,4-6h
+786,24,Feminino,Pós-graduação,Austrália,7.5,YouTube,Sim,4.7,5.3,Negativo,True,True,6-8h,4-6h
+809,24,Masculino,Pós-graduação,Outro,3.2,LinkedIn,Não,7.1,8.6,Positivo,False,False,2-4h,6-8h
+156,23,Masculino,Graduação,Alemanha,7.3,Facebook,Sim,5.7,5.3,Negativo,True,False,6-8h,4-6h
+778,18,Feminino,Ensino Médio,EUA,5.7,Instagram,Não,5.1,4.9,Negativo,True,False,4-6h,4-6h
+814,23,Feminino,Graduação,Outro,4.7,Instagram,Sim,6.1,6.6,Neutro,False,False,4-6h,6-8h
+100,22,Masculino,Pós-graduação,Outro,5.9,Twitter,Não,6.0,7.0,Neutro,True,False,4-6h,4-6h
+732,18,Masculino,Ensino Médio,Outro,7.4,YouTube,Sim,5.0,4.7,Negativo,True,False,6-8h,4-6h
+43,18,Masculino,Graduação,Índia,8.4,TikTok,Sim,5.9,5.3,Negativo,True,False,8h+,4-6h
+708,19,Masculino,Graduação,Índia,8.1,Instagram,Sim,4.8,4.1,Negativo,True,True,8h+,4-6h
+337,22,Feminino,Graduação,Outro,3.6,LinkedIn,Não,8.6,8.6,Positivo,False,False,2-4h,8h+
+904,20,Masculino,Ensino Médio,Canadá,5.8,Twitter,Sim,5.6,5.5,Negativo,True,False,4-6h,4-6h
+201,21,Feminino,Graduação,EUA,8.0,Snapchat,Sim,5.8,5.1,Negativo,True,False,6-8h,4-6h
+790,23,Masculino,Ensino Médio,Índia,5.7,Snapchat,Não,5.9,5.2,Negativo,True,False,4-6h,4-6h
+335,18,Masculino,Graduação,Austrália,8.0,TikTok,Não,4.6,5.8,Negativo,True,True,6-8h,4-6h
+230,23,Masculino,Graduação,Reino Unido,3.7,Instagram,Não,8.4,7.2,Positivo,False,False,2-4h,8h+
+4,20,Masculino,Graduação,Outro,3.4,Facebook,Sim,8.6,8.7,Positivo,False,False,2-4h,8h+
+161,23,Feminino,Pós-graduação,Austrália,3.3,Facebook,Sim,8.6,8.3,Positivo,False,False,2-4h,8h+
+73,18,Feminino,Graduação,Canadá,3.1,Snapchat,Não,7.8,7.5,Positivo,False,False,2-4h,6-8h
+489,21,Masculino,Pós-graduação,Outro,8.2,LinkedIn,Sim,6.0,5.4,Negativo,True,False,8h+,4-6h
+679,20,Masculino,Pós-graduação,EUA,4.1,LinkedIn,Não,7.2,6.8,Neutro,False,False,4-6h,6-8h
+118,18,Feminino,Ensino Médio,Outro,3.5,TikTok,Não,7.0,6.5,Neutro,False,False,2-4h,6-8h
+130,21,Masculino,Ensino Médio,Outro,5.9,Facebook,Não,6.0,6.7,Neutro,True,False,4-6h,4-6h
+970,22,Masculino,Ensino Médio,Alemanha,5.6,YouTube,Sim,5.6,5.7,Negativo,True,False,4-6h,4-6h
+220,22,Masculino,Pós-graduação,Canadá,3.8,YouTube,Não,7.5,7.9,Positivo,False,False,2-4h,6-8h
+209,20,Masculino,Graduação,Outro,3.8,Facebook,Não,7.6,8.7,Positivo,False,False,2-4h,6-8h
+188,21,Feminino,Pós-graduação,Outro,5.8,Facebook,Sim,5.8,4.9,Negativo,True,False,4-6h,4-6h
+706,18,Masculino,Graduação,Outro,3.7,Snapchat,Sim,7.5,7.0,Positivo,False,False,2-4h,6-8h
+328,20,Feminino,Ensino Médio,Outro,2.9,LinkedIn,Não,8.3,8.4,Positivo,False,False,2-4h,8h+
+662,21,Masculino,Ensino Médio,Índia,4.5,LinkedIn,Sim,7.5,7.0,Neutro,False,False,4-6h,6-8h
+400,21,Masculino,Ensino Médio,Outro,3.8,Snapchat,Sim,7.2,6.1,Neutro,False,False,2-4h,6-8h
+931,20,Masculino,Graduação,Outro,2.9,Twitter,Não,8.2,7.6,Positivo,False,False,2-4h,8h+
+752,23,Masculino,Graduação,Outro,5.0,Twitter,Não,6.7,6.8,Neutro,False,False,4-6h,6-8h
+542,21,Masculino,Graduação,Outro,6.5,Instagram,Sim,5.6,4.3,Negativo,True,False,6-8h,4-6h
+570,22,Feminino,Ensino Médio,Reino Unido,3.6,Instagram,Sim,7.1,6.0,Neutro,False,False,2-4h,6-8h
+369,18,Masculino,Pós-graduação,Outro,6.9,LinkedIn,Sim,5.9,4.9,Negativo,True,False,6-8h,4-6h
+48,23,Feminino,Pós-graduação,Outro,2.3,TikTok,Não,8.3,8.8,Positivo,False,False,2-4h,8h+
+444,19,Masculino,Graduação,Outro,2.6,Snapchat,Não,7.8,8.8,Positivo,False,False,2-4h,6-8h
+352,22,Masculino,Pós-graduação,Outro,6.2,Instagram,Sim,4.8,5.9,Negativo,True,True,6-8h,4-6h
+644,24,Feminino,Pós-graduação,Austrália,3.8,Instagram,Não,7.3,6.5,Neutro,False,False,2-4h,6-8h
+296,20,Feminino,Pós-graduação,Outro,7.5,Instagram,Sim,4.7,4.6,Negativo,True,True,6-8h,4-6h
+866,20,Masculino,Pós-graduação,Índia,3.8,Instagram,Não,8.2,7.8,Positivo,False,False,2-4h,8h+
+183,21,Feminino,Graduação,Outro,8.4,TikTok,Não,5.3,5.9,Negativo,True,False,8h+,4-6h
+557,24,Feminino,Graduação,Outro,5.9,Twitter,Sim,4.9,4.1,Negativo,True,True,4-6h,4-6h
+971,22,Masculino,Ensino Médio,Austrália,6.0,YouTube,Sim,6.8,6.9,Neutro,True,False,4-6h,6-8h
+458,23,Masculino,Graduação,Outro,3.5,TikTok,Sim,8.5,7.3,Positivo,False,False,2-4h,8h+
+864,21,Masculino,Graduação,Outro,3.1,LinkedIn,Não,8.5,8.5,Positivo,False,False,2-4h,8h+
+504,19,Feminino,Graduação,Canadá,4.5,Instagram,Sim,6.1,6.6,Neutro,False,False,4-6h,6-8h
+987,21,Feminino,Pós-graduação,Outro,5.6,Instagram,Sim,5.4,5.1,Negativo,True,False,4-6h,4-6h
+419,21,Feminino,Graduação,Outro,3.6,Facebook,Não,7.2,9.0,Positivo,False,False,2-4h,6-8h
+869,18,Masculino,Graduação,Reino Unido,7.3,LinkedIn,Não,5.3,4.0,Negativo,True,False,6-8h,4-6h
+117,21,Feminino,Ensino Médio,Outro,8.3,YouTube,Sim,5.1,4.2,Negativo,True,False,8h+,4-6h
+800,20,Feminino,Ensino Médio,Índia,5.1,LinkedIn,Não,6.3,6.1,Neutro,True,False,4-6h,6-8h
+6,24,Feminino,Graduação,Índia,3.4,YouTube,Não,8.0,7.5,Positivo,False,False,2-4h,6-8h
+558,22,Feminino,Ensino Médio,Outro,8.0,Instagram,Sim,4.9,4.0,Negativo,True,True,6-8h,4-6h
+983,18,Masculino,Ensino Médio,Outro,3.7,LinkedIn,Sim,6.9,6.9,Neutro,False,False,2-4h,6-8h
+79,18,Feminino,Pós-graduação,Outro,3.3,Instagram,Não,8.3,8.5,Positivo,False,False,2-4h,8h+
+225,21,Masculino,Ensino Médio,Outro,5.3,Twitter,Sim,7.3,6.7,Neutro,True,False,4-6h,6-8h
+3,23,Feminino,Ensino Médio,EUA,3.8,Instagram,Não,7.4,7.1,Positivo,False,False,2-4h,6-8h
+634,24,Masculino,Ensino Médio,Outro,3.7,Instagram,Não,7.4,8.7,Positivo,False,False,2-4h,6-8h
+712,22,Feminino,Ensino Médio,Outro,1.9,Twitter,Não,9.0,8.6,Positivo,False,False,0-2h,8h+
+656,21,Feminino,Graduação,Alemanha,4.4,Facebook,Sim,6.5,6.5,Neutro,False,False,4-6h,6-8h
+873,18,Feminino,Pós-graduação,Reino Unido,4.0,LinkedIn,Não,6.9,6.1,Neutro,False,False,2-4h,6-8h
+975,20,Masculino,Graduação,Outro,5.6,YouTube,Sim,5.3,5.4,Negativo,True,False,4-6h,4-6h
+469,22,Feminino,Ensino Médio,Outro,3.2,YouTube,Não,8.3,7.5,Positivo,False,False,2-4h,8h+
+421,21,Feminino,Graduação,Reino Unido,6.1,Snapchat,Sim,4.5,4.1,Negativo,True,True,6-8h,4-6h
+325,18,Feminino,Pós-graduação,Austrália,5.3,TikTok,Sim,7.1,6.4,Neutro,True,False,4-6h,6-8h
+76,18,Feminino,Graduação,Outro,5.6,LinkedIn,Sim,5.9,5.2,Negativo,True,False,4-6h,4-6h
+371,24,Masculino,Graduação,Outro,6.3,TikTok,Sim,5.5,5.6,Negativo,True,False,6-8h,4-6h
+617,23,Feminino,Ensino Médio,Outro,5.8,Snapchat,Não,6.9,6.1,Neutro,True,False,4-6h,6-8h
+101,23,Masculino,Graduação,Canadá,2.8,Twitter,Sim,7.7,8.1,Positivo,False,False,2-4h,6-8h
+831,18,Feminino,Graduação,Outro,6.5,YouTube,Não,5.6,4.3,Negativo,True,False,6-8h,4-6h
+900,23,Feminino,Graduação,Austrália,4.6,Snapchat,Sim,6.9,6.6,Neutro,False,False,4-6h,6-8h
+828,18,Feminino,Graduação,EUA,7.0,TikTok,Não,4.9,5.4,Negativo,True,True,6-8h,4-6h
+312,18,Masculino,Graduação,Outro,1.8,Twitter,Não,8.0,8.0,Positivo,False,False,0-2h,6-8h
+583,18,Masculino,Ensino Médio,Outro,3.7,Instagram,Não,6.3,6.5,Neutro,False,False,2-4h,6-8h
+285,18,Masculino,Pós-graduação,Outro,7.9,TikTok,Sim,5.9,4.7,Negativo,True,False,6-8h,4-6h
+267,22,Masculino,Graduação,Índia,4.6,Snapchat,Sim,6.6,6.9,Neutro,False,False,4-6h,6-8h
+460,20,Feminino,Graduação,Outro,8.2,Twitter,Sim,5.8,4.6,Negativo,True,False,8h+,4-6h
+248,21,Feminino,Graduação,Outro,8.4,TikTok,Não,5.9,5.0,Negativo,True,False,8h+,4-6h
+652,22,Feminino,Graduação,Outro,3.7,TikTok,Sim,7.1,6.7,Neutro,False,False,2-4h,6-8h
+385,23,Feminino,Pós-graduação,Outro,7.3,TikTok,Sim,5.5,5.7,Negativo,True,False,6-8h,4-6h
+909,24,Feminino,Graduação,Outro,2.9,Twitter,Sim,7.7,8.1,Positivo,False,False,2-4h,6-8h
+422,18,Masculino,Graduação,Outro,1.8,Twitter,Não,8.9,8.6,Positivo,False,False,0-2h,8h+
+767,23,Feminino,Graduação,Outro,6.3,Snapchat,Sim,5.7,5.9,Negativo,True,False,6-8h,4-6h
+950,19,Masculino,Graduação,Outro,3.4,YouTube,Não,8.6,7.6,Positivo,False,False,2-4h,8h+
+16,24,Masculino,Ensino Médio,Outro,5.7,Facebook,Sim,6.8,6.6,Neutro,True,False,4-6h,6-8h
+546,24,Feminino,Pós-graduação,Outro,3.8,Facebook,Não,7.4,6.3,Neutro,False,False,2-4h,6-8h
+199,21,Masculino,Ensino Médio,Outro,3.6,TikTok,Não,7.4,7.8,Positivo,False,False,2-4h,6-8h
+496,18,Feminino,Pós-graduação,Outro,6.5,Facebook,Não,4.7,4.8,Negativo,True,True,6-8h,4-6h
+364,24,Feminino,Graduação,Outro,7.8,YouTube,Sim,5.4,5.6,Negativo,True,False,6-8h,4-6h
+587,22,Masculino,Pós-graduação,EUA,3.7,TikTok,Não,7.1,7.5,Positivo,False,False,2-4h,6-8h
+838,18,Masculino,Ensino Médio,Outro,3.7,LinkedIn,Sim,6.7,6.2,Neutro,False,False,2-4h,6-8h
+155,19,Masculino,Graduação,Índia,5.7,Facebook,Sim,7.2,6.2,Neutro,True,False,4-6h,6-8h
+956,18,Feminino,Graduação,EUA,3.3,Facebook,Não,8.0,8.8,Positivo,False,False,2-4h,6-8h
+632,21,Feminino,Graduação,Outro,3.3,Facebook,Não,8.2,8.6,Positivo,False,False,2-4h,8h+
+897,20,Masculino,Graduação,Outro,1.8,Snapchat,Não,8.5,7.5,Positivo,False,False,0-2h,8h+
+457,23,Feminino,Pós-graduação,Canadá,5.4,Snapchat,Sim,7.1,6.5,Neutro,True,False,4-6h,6-8h
+358,20,Feminino,Ensino Médio,Outro,5.9,YouTube,Sim,4.9,5.1,Negativo,True,True,4-6h,4-6h
+842,20,Masculino,Ensino Médio,Austrália,3.3,LinkedIn,Não,8.8,7.9,Positivo,False,False,2-4h,8h+
+432,24,Masculino,Graduação,Outro,7.2,Snapchat,Sim,4.7,5.4,Negativo,True,True,6-8h,4-6h
+688,18,Masculino,Pós-graduação,Outro,1.6,Snapchat,Não,8.1,8.6,Positivo,False,False,0-2h,8h+
+777,24,Feminino,Ensino Médio,Outro,3.4,YouTube,Não,8.2,8.2,Positivo,False,False,2-4h,8h+
+982,22,Feminino,Graduação,Outro,2.6,Twitter,Não,7.5,8.5,Positivo,False,False,2-4h,6-8h
+548,20,Feminino,Graduação,EUA,5.1,Twitter,Sim,6.5,6.9,Neutro,True,False,4-6h,6-8h
+15,23,Feminino,Graduação,Outro,5.8,Instagram,Não,6.2,6.2,Neutro,True,False,4-6h,6-8h
+815,19,Masculino,Graduação,Austrália,4.3,Instagram,Sim,6.7,6.3,Neutro,False,False,4-6h,6-8h
+914,20,Feminino,Graduação,Outro,2.5,TikTok,Sim,7.7,8.5,Positivo,False,False,2-4h,6-8h
+375,22,Feminino,Pós-graduação,Outro,5.8,YouTube,Sim,6.0,4.7,Negativo,True,False,4-6h,4-6h
+859,20,Masculino,Ensino Médio,Outro,2.5,LinkedIn,Não,7.4,8.2,Positivo,False,False,2-4h,6-8h
+834,19,Feminino,Pós-graduação,Austrália,6.4,TikTok,Sim,5.5,4.4,Negativo,True,False,6-8h,4-6h
+965,20,Masculino,Graduação,Outro,7.8,Twitter,Sim,5.2,5.2,Negativo,True,False,6-8h,4-6h
+678,20,Masculino,Pós-graduação,EUA,6.5,Twitter,Sim,4.5,4.2,Negativo,True,True,6-8h,4-6h
+791,22,Feminino,Pós-graduação,Índia,3.0,YouTube,Sim,8.9,7.1,Positivo,False,False,2-4h,8h+
+377,24,Feminino,Graduação,Outro,1.5,Facebook,Sim,7.2,7.6,Positivo,False,False,0-2h,6-8h
+368,19,Feminino,Graduação,Outro,8.1,TikTok,Sim,5.6,5.5,Negativo,True,False,8h+,4-6h
+193,21,Feminino,Ensino Médio,Outro,2.6,Snapchat,Sim,7.4,7.4,Positivo,False,False,2-4h,6-8h
+782,18,Masculino,Ensino Médio,Outro,2.7,Snapchat,Não,8.5,7.6,Positivo,False,False,2-4h,8h+
+442,23,Feminino,Graduação,Outro,2.4,Snapchat,Sim,7.6,7.6,Positivo,False,False,2-4h,6-8h
+722,23,Feminino,Ensino Médio,Outro,6.6,TikTok,Sim,6.0,5.0,Negativo,True,False,6-8h,4-6h
+674,22,Masculino,Graduação,EUA,3.8,YouTube,Não,7.9,7.3,Positivo,False,False,2-4h,6-8h
+174,21,Feminino,Pós-graduação,EUA,5.8,LinkedIn,Não,7.0,6.4,Neutro,True,False,4-6h,6-8h
+374,20,Masculino,Graduação,Outro,8.2,LinkedIn,Sim,6.0,5.7,Negativo,True,False,8h+,4-6h
+348,22,Masculino,Ensino Médio,Outro,4.5,Facebook,Sim,6.0,6.3,Neutro,False,False,4-6h,4-6h
+730,18,Feminino,Pós-graduação,Outro,5.6,Twitter,Sim,4.8,5.9,Negativo,True,True,4-6h,4-6h
+281,20,Masculino,Ensino Médio,Outro,3.5,TikTok,Não,7.9,7.8,Positivo,False,False,2-4h,6-8h
+957,23,Feminino,Pós-graduação,Outro,2.9,YouTube,Sim,7.3,8.5,Positivo,False,False,2-4h,6-8h
+819,19,Masculino,Graduação,EUA,6.6,TikTok,Sim,5.9,5.0,Negativo,True,False,6-8h,4-6h
+27,24,Masculino,Graduação,Índia,8.0,Twitter,Sim,5.1,5.3,Negativo,True,False,6-8h,4-6h
+639,18,Masculino,Graduação,Outro,7.3,LinkedIn,Sim,5.1,4.1,Negativo,True,False,6-8h,4-6h
+826,19,Feminino,Ensino Médio,Outro,2.5,Twitter,Não,7.3,8.3,Positivo,False,False,2-4h,6-8h
+723,19,Masculino,Pós-graduação,Canadá,2.6,TikTok,Não,8.4,8.2,Positivo,False,False,2-4h,8h+
+206,24,Masculino,Pós-graduação,Índia,2.3,Twitter,Não,8.3,8.9,Positivo,False,False,2-4h,8h+
+28,21,Masculino,Graduação,Outro,5.3,Twitter,Sim,7.3,6.1,Neutro,True,False,4-6h,6-8h
+728,19,Feminino,Ensino Médio,Outro,7.7,Snapchat,Sim,5.7,5.3,Negativo,True,False,6-8h,4-6h
+594,19,Feminino,Ensino Médio,Outro,4.6,Snapchat,Não,6.2,6.2,Neutro,False,False,4-6h,6-8h
+153,21,Masculino,Pós-graduação,Outro,5.9,YouTube,Não,7.1,6.4,Neutro,True,False,4-6h,6-8h
+784,18,Masculino,Ensino Médio,Outro,7.5,LinkedIn,Sim,5.0,5.4,Negativo,True,False,6-8h,4-6h
+913,18,Masculino,Pós-graduação,Canadá,6.3,LinkedIn,Sim,6.0,6.0,Negativo,True,False,6-8h,4-6h
+11,19,Masculino,Pós-graduação,Outro,5.3,YouTube,Não,7.0,6.7,Neutro,True,False,4-6h,6-8h
+451,23,Feminino,Graduação,Outro,1.6,TikTok,Sim,8.7,8.9,Positivo,False,False,0-2h,8h+
+985,20,Masculino,Ensino Médio,Outro,6.5,LinkedIn,Sim,4.5,4.7,Negativo,True,True,6-8h,4-6h
+724,20,Feminino,Graduação,Outro,8.2,Twitter,Sim,5.0,5.9,Negativo,True,False,8h+,4-6h
+239,23,Masculino,Ensino Médio,Outro,6.1,LinkedIn,Sim,5.9,4.8,Negativo,True,False,6-8h,4-6h
+160,22,Masculino,Graduação,Outro,5.7,LinkedIn,Não,7.3,6.9,Neutro,True,False,4-6h,6-8h
+793,19,Feminino,Graduação,Outro,5.1,Twitter,Sim,7.1,6.6,Neutro,True,False,4-6h,6-8h
+389,24,Masculino,Pós-graduação,Outro,3.8,Twitter,Sim,6.3,6.2,Neutro,False,False,2-4h,6-8h
+437,20,Masculino,Pós-graduação,Índia,5.7,YouTube,Sim,5.1,4.2,Negativo,True,False,4-6h,4-6h
+935,20,Feminino,Pós-graduação,Reino Unido,6.6,Facebook,Sim,5.3,4.6,Negativo,True,False,6-8h,4-6h
+321,20,Masculino,Graduação,EUA,8.3,Instagram,Sim,5.1,5.8,Negativo,True,False,8h+,4-6h
+186,20,Masculino,Pós-graduação,Outro,7.1,Instagram,Sim,6.0,4.5,Negativo,True,False,6-8h,4-6h
+123,18,Masculino,Pós-graduação,Outro,3.0,Facebook,Não,8.4,7.9,Positivo,False,False,2-4h,8h+
+198,22,Masculino,Pós-graduação,Outro,8.5,Instagram,Não,6.0,5.3,Negativo,True,False,8h+,4-6h
+111,24,Feminino,Pós-graduação,Outro,3.5,Twitter,Não,7.2,7.3,Positivo,False,False,2-4h,6-8h
+743,18,Feminino,Graduação,EUA,3.8,Twitter,Não,8.4,7.2,Positivo,False,False,2-4h,8h+
+953,19,Masculino,Graduação,Outro,2.0,Instagram,Não,7.1,8.2,Positivo,False,False,0-2h,6-8h
+998,18,Feminino,Pós-graduação,Outro,4.2,Twitter,Sim,6.9,6.8,Neutro,False,False,4-6h,6-8h
+802,21,Feminino,Ensino Médio,Outro,4.5,YouTube,Não,6.1,6.3,Neutro,False,False,4-6h,6-8h
+742,24,Feminino,Graduação,Outro,4.2,YouTube,Não,7.3,6.1,Neutro,False,False,4-6h,6-8h
+224,24,Feminino,Ensino Médio,Outro,5.6,Facebook,Sim,5.5,4.1,Negativo,True,False,4-6h,4-6h
+131,21,Feminino,Graduação,Índia,3.1,Facebook,Sim,7.2,8.5,Positivo,False,False,2-4h,6-8h
+169,19,Feminino,Graduação,Outro,5.9,Instagram,Não,5.5,4.0,Negativo,True,False,4-6h,4-6h
+382,22,Feminino,Ensino Médio,Índia,7.5,YouTube,Sim,5.5,4.7,Negativo,True,False,6-8h,4-6h
+918,20,Masculino,Pós-graduação,Outro,3.8,Snapchat,Não,6.7,6.2,Neutro,False,False,2-4h,6-8h
+593,21,Feminino,Ensino Médio,Outro,3.3,LinkedIn,Não,8.9,7.9,Positivo,False,False,2-4h,8h+
+52,24,Masculino,Pós-graduação,Outro,4.1,Facebook,Não,6.1,6.0,Neutro,False,False,4-6h,6-8h
+90,19,Feminino,Graduação,Outro,6.8,YouTube,Sim,5.6,5.0,Negativo,True,False,6-8h,4-6h
+60,23,Masculino,Ensino Médio,Outro,3.5,Snapchat,Não,7.0,6.0,Neutro,False,False,2-4h,6-8h
+338,19,Masculino,Ensino Médio,Canadá,3.4,YouTube,Sim,8.5,8.0,Positivo,False,False,2-4h,8h+
+452,19,Masculino,Ensino Médio,Outro,5.8,LinkedIn,Sim,6.3,6.4,Neutro,True,False,4-6h,6-8h
+736,19,Feminino,Ensino Médio,Índia,6.0,TikTok,Sim,6.8,6.5,Neutro,True,False,4-6h,6-8h
+746,23,Feminino,Ensino Médio,Outro,3.0,TikTok,Não,8.6,7.7,Positivo,False,False,2-4h,8h+
+44,19,Masculino,Graduação,EUA,5.0,Twitter,Não,7.5,6.6,Neutro,False,False,4-6h,6-8h
+773,24,Feminino,Pós-graduação,Índia,5.5,Twitter,Sim,4.6,5.1,Negativo,True,True,4-6h,4-6h
+721,20,Feminino,Graduação,Índia,5.3,TikTok,Sim,6.0,6.5,Neutro,True,False,4-6h,4-6h
+129,21,Masculino,Graduação,Canadá,5.6,Facebook,Não,6.0,6.3,Neutro,True,False,4-6h,4-6h
+606,19,Feminino,Graduação,Índia,5.8,Facebook,Sim,7.4,6.5,Neutro,True,False,4-6h,6-8h
+961,18,Masculino,Graduação,Outro,2.2,Twitter,Não,8.3,7.4,Positivo,False,False,2-4h,8h+
+780,24,Masculino,Pós-graduação,Outro,1.7,LinkedIn,Não,8.4,7.6,Positivo,False,False,0-2h,8h+
+215,21,Masculino,Ensino Médio,Índia,3.0,Instagram,Não,7.2,7.2,Positivo,False,False,2-4h,6-8h
+290,18,Feminino,Pós-graduação,Outro,4.7,TikTok,Não,6.6,7.0,Neutro,False,False,4-6h,6-8h
+53,23,Masculino,Pós-graduação,Outro,6.2,YouTube,Não,5.9,5.6,Negativo,True,False,6-8h,4-6h
+408,18,Masculino,Pós-graduação,Outro,6.2,TikTok,Sim,5.9,4.9,Negativo,True,False,6-8h,4-6h
+310,20,Feminino,Pós-graduação,Outro,1.9,Instagram,Não,7.8,7.8,Positivo,False,False,0-2h,6-8h
+702,23,Masculino,Ensino Médio,Reino Unido,2.6,LinkedIn,Não,8.8,8.1,Positivo,False,False,2-4h,8h+
+660,18,Masculino,Ensino Médio,Outro,5.9,Facebook,Não,6.1,6.2,Neutro,True,False,4-6h,6-8h
+14,20,Masculino,Graduação,Outro,3.9,LinkedIn,Não,6.9,6.6,Neutro,False,False,2-4h,6-8h
+288,22,Feminino,Ensino Médio,Índia,7.1,Instagram,Não,5.1,4.1,Negativo,True,False,6-8h,4-6h
+350,19,Masculino,Graduação,EUA,3.9,Twitter,Sim,6.1,6.0,Neutro,False,False,2-4h,6-8h
+611,20,Masculino,Graduação,Outro,8.0,TikTok,Não,4.9,4.8,Negativo,True,True,6-8h,4-6h
+735,24,Masculino,Pós-graduação,Outro,5.9,Snapchat,Não,6.1,6.1,Neutro,True,False,4-6h,6-8h
+402,24,Feminino,Ensino Médio,Austrália,8.4,Facebook,Sim,5.9,5.5,Negativo,True,False,8h+,4-6h
+488,21,Feminino,Pós-graduação,Outro,7.5,YouTube,Sim,4.7,6.0,Negativo,True,True,6-8h,4-6h
+524,20,Feminino,Pós-graduação,Austrália,7.5,Snapchat,Sim,5.2,4.8,Negativo,True,False,6-8h,4-6h
+535,19,Masculino,Ensino Médio,Índia,5.3,Snapchat,Sim,7.0,6.8,Neutro,True,False,4-6h,6-8h
+431,18,Masculino,Graduação,Canadá,6.2,Twitter,Não,4.7,4.2,Negativo,True,True,6-8h,4-6h
+664,19,Masculino,Ensino Médio,Outro,5.2,Facebook,Sim,6.5,6.1,Neutro,True,False,4-6h,6-8h
+572,21,Masculino,Graduação,Outro,5.5,Facebook,Sim,5.7,6.0,Negativo,True,False,4-6h,4-6h
+428,20,Masculino,Graduação,Canadá,7.9,Instagram,Sim,4.7,5.2,Negativo,True,True,6-8h,4-6h
+430,23,Masculino,Pós-graduação,Outro,7.7,Snapchat,Sim,5.3,4.5,Negativo,True,False,6-8h,4-6h
+238,20,Masculino,Ensino Médio,Outro,3.9,YouTube,Sim,6.7,6.0,Neutro,False,False,2-4h,6-8h
+179,21,Feminino,Ensino Médio,Outro,3.9,LinkedIn,Sim,6.9,6.1,Neutro,False,False,2-4h,6-8h
+289,21,Feminino,Ensino Médio,Canadá,5.9,YouTube,Sim,6.0,5.1,Negativo,True,False,4-6h,4-6h
+958,18,Masculino,Ensino Médio,Outro,3.8,Facebook,Não,8.4,8.3,Positivo,False,False,2-4h,8h+
+991,19,Masculino,Graduação,Outro,7.4,TikTok,Sim,5.5,4.1,Negativo,True,False,6-8h,4-6h
+894,20,Feminino,Graduação,Outro,7.2,LinkedIn,Sim,5.9,4.2,Negativo,True,False,6-8h,4-6h
+22,19,Masculino,Graduação,Outro,6.1,TikTok,Sim,4.6,4.9,Negativo,True,True,6-8h,4-6h
+919,22,Masculino,Ensino Médio,Índia,3.9,Facebook,Não,8.6,8.3,Positivo,False,False,2-4h,8h+
+487,20,Feminino,Graduação,Austrália,5.6,LinkedIn,Sim,4.9,5.9,Negativo,True,True,4-6h,4-6h
+177,22,Feminino,Ensino Médio,Outro,6.3,Snapchat,Sim,5.1,5.7,Negativo,True,False,6-8h,4-6h
+405,22,Feminino,Pós-graduação,Outro,2.3,Facebook,Não,9.0,7.1,Positivo,False,False,2-4h,8h+
+45,19,Masculino,Graduação,Índia,6.4,YouTube,Sim,5.9,5.9,Negativo,True,False,6-8h,4-6h
+682,19,Feminino,Ensino Médio,EUA,5.2,YouTube,Não,7.0,6.7,Neutro,True,False,4-6h,6-8h
+698,21,Feminino,Pós-graduação,Alemanha,7.1,LinkedIn,Sim,5.5,4.4,Negativo,True,False,6-8h,4-6h
+384,23,Feminino,Graduação,Índia,6.1,Instagram,Sim,4.6,5.2,Negativo,True,True,6-8h,4-6h
+677,20,Masculino,Ensino Médio,Outro,7.9,Twitter,Sim,5.4,5.3,Negativo,True,False,6-8h,4-6h
+858,19,Feminino,Ensino Médio,Canadá,7.4,Twitter,Sim,4.6,5.8,Negativo,True,True,6-8h,4-6h
+283,20,Feminino,Pós-graduação,Reino Unido,7.1,TikTok,Sim,5.9,4.2,Negativo,True,False,6-8h,4-6h
+718,24,Masculino,Graduação,Outro,5.2,YouTube,Sim,6.5,6.0,Neutro,True,False,4-6h,6-8h
+936,21,Masculino,Pós-graduação,Outro,5.8,Twitter,Não,5.4,4.9,Negativo,True,False,4-6h,4-6h
+98,21,Feminino,Ensino Médio,Outro,5.8,YouTube,Sim,4.9,4.1,Negativo,True,True,4-6h,4-6h
+895,19,Feminino,Graduação,Outro,2.2,Twitter,Não,7.6,8.9,Positivo,False,False,2-4h,6-8h
+242,24,Masculino,Pós-graduação,Alemanha,6.9,Snapchat,Sim,5.3,4.3,Negativo,True,False,6-8h,4-6h
+602,22,Feminino,Ensino Médio,Outro,6.9,Snapchat,Sim,4.6,4.3,Negativo,True,True,6-8h,4-6h
+207,20,Feminino,Graduação,Outro,6.3,Facebook,Sim,5.9,5.3,Negativo,True,False,6-8h,4-6h
+185,24,Feminino,Ensino Médio,Outro,4.4,Twitter,Não,6.2,6.2,Neutro,False,False,4-6h,6-8h
+286,23,Masculino,Graduação,Alemanha,3.2,TikTok,Não,8.9,8.0,Positivo,False,False,2-4h,8h+
+926,21,Feminino,Ensino Médio,Reino Unido,7.6,Facebook,Não,5.9,4.7,Negativo,True,False,6-8h,4-6h
+65,22,Feminino,Pós-graduação,Outro,3.5,Instagram,Sim,8.7,8.0,Positivo,False,False,2-4h,8h+
+214,24,Masculino,Ensino Médio,Austrália,4.6,Snapchat,Sim,6.4,6.8,Neutro,False,False,4-6h,6-8h
+997,21,Feminino,Graduação,Outro,6.1,Twitter,Sim,4.5,5.3,Negativo,True,True,6-8h,4-6h
+166,22,Masculino,Graduação,Outro,3.3,TikTok,Não,8.2,7.4,Positivo,False,False,2-4h,8h+
+213,24,Masculino,Ensino Médio,Outro,5.2,LinkedIn,Sim,6.9,6.9,Neutro,True,False,4-6h,6-8h
+977,20,Feminino,Pós-graduação,Reino Unido,5.9,LinkedIn,Sim,5.5,4.3,Negativo,True,False,4-6h,4-6h
+856,23,Feminino,Graduação,Outro,6.1,Twitter,Sim,5.1,4.9,Negativo,True,False,6-8h,4-6h
+24,21,Masculino,Pós-graduação,Outro,3.9,TikTok,Não,7.7,7.5,Positivo,False,False,2-4h,6-8h
+745,20,Masculino,Graduação,Outro,7.2,Facebook,Sim,4.6,4.4,Negativo,True,True,6-8h,4-6h
+574,22,Feminino,Graduação,Outro,7.9,LinkedIn,Não,5.6,5.3,Negativo,True,False,6-8h,4-6h
+467,18,Feminino,Graduação,Outro,7.5,TikTok,Sim,5.8,4.6,Negativo,True,False,6-8h,4-6h
+157,24,Feminino,Graduação,EUA,6.4,Twitter,Sim,6.0,5.2,Negativo,True,False,6-8h,4-6h
+596,21,Masculino,Graduação,Índia,7.6,Facebook,Sim,5.8,4.8,Negativo,True,False,6-8h,4-6h
+41,18,Feminino,Ensino Médio,Outro,5.8,Twitter,Sim,5.0,5.6,Negativo,True,False,4-6h,4-6h
+618,23,Feminino,Pós-graduação,Canadá,2.8,Twitter,Não,7.4,8.4,Positivo,False,False,2-4h,6-8h
+392,20,Masculino,Graduação,Reino Unido,6.3,Facebook,Não,4.7,4.3,Negativo,True,True,6-8h,4-6h
+753,23,Feminino,Graduação,Canadá,4.3,Snapchat,Sim,7.4,6.1,Neutro,False,False,4-6h,6-8h
+530,20,Feminino,Ensino Médio,Alemanha,8.2,Snapchat,Sim,4.8,4.0,Negativo,True,True,8h+,4-6h
+518,18,Masculino,Pós-graduação,Outro,6.9,Twitter,Sim,5.9,4.1,Negativo,True,False,6-8h,4-6h
+459,22,Masculino,Graduação,Outro,5.7,Facebook,Sim,4.6,4.8,Negativo,True,True,4-6h,4-6h
+116,24,Feminino,Ensino Médio,Outro,5.9,TikTok,Não,5.8,5.6,Negativo,True,False,4-6h,4-6h
+599,22,Feminino,Ensino Médio,Outro,1.9,Snapchat,Não,8.4,8.1,Positivo,False,False,0-2h,8h+
+272,23,Masculino,Ensino Médio,Outro,7.7,Snapchat,Sim,5.1,5.7,Negativo,True,False,6-8h,4-6h
+630,24,Masculino,Graduação,Outro,3.2,Twitter,Não,7.8,8.4,Positivo,False,False,2-4h,6-8h
+672,24,Feminino,Pós-graduação,Outro,1.7,TikTok,Não,8.7,8.0,Positivo,False,False,0-2h,8h+
+453,21,Masculino,Pós-graduação,Índia,7.8,TikTok,Sim,5.0,4.5,Negativo,True,False,6-8h,4-6h
+549,21,Masculino,Ensino Médio,Alemanha,1.9,Instagram,Sim,8.7,8.1,Positivo,False,False,0-2h,8h+
+462,19,Masculino,Pós-graduação,EUA,7.5,TikTok,Sim,4.9,4.2,Negativo,True,True,6-8h,4-6h
+426,21,Masculino,Graduação,EUA,7.1,YouTube,Sim,5.9,4.7,Negativo,True,False,6-8h,4-6h
+750,20,Feminino,Ensino Médio,Canadá,4.3,Facebook,Não,6.4,6.2,Neutro,False,False,4-6h,6-8h
+31,23,Masculino,Graduação,Outro,8.2,Twitter,Não,5.7,4.9,Negativo,True,False,8h+,4-6h
+391,21,Feminino,Graduação,Outro,8.3,TikTok,Não,4.6,4.8,Negativo,True,True,8h+,4-6h
+247,18,Feminino,Ensino Médio,Outro,8.1,Facebook,Não,4.7,5.6,Negativo,True,True,8h+,4-6h
+219,19,Masculino,Ensino Médio,Outro,4.8,TikTok,Sim,7.0,6.1,Neutro,False,False,4-6h,6-8h
+994,20,Feminino,Pós-graduação,Outro,2.7,YouTube,Não,7.8,7.5,Positivo,False,False,2-4h,6-8h
+929,18,Masculino,Pós-graduação,Reino Unido,7.5,LinkedIn,Sim,5.4,4.2,Negativo,True,False,6-8h,4-6h
+107,24,Masculino,Ensino Médio,Outro,3.8,LinkedIn,Não,7.9,8.8,Positivo,False,False,2-4h,6-8h
+218,21,Feminino,Graduação,Outro,5.9,Instagram,Sim,4.9,5.6,Negativo,True,True,4-6h,4-6h
+57,23,Masculino,Ensino Médio,Outro,3.4,Instagram,Não,8.4,7.3,Positivo,False,False,2-4h,8h+
+576,19,Masculino,Graduação,EUA,3.9,Twitter,Sim,6.6,6.9,Neutro,False,False,2-4h,6-8h
+17,19,Masculino,Graduação,Outro,7.9,TikTok,Sim,5.4,4.2,Negativo,True,False,6-8h,4-6h
+765,24,Masculino,Pós-graduação,Outro,2.1,Instagram,Sim,7.2,7.2,Positivo,False,False,2-4h,6-8h
+260,18,Masculino,Graduação,Outro,6.3,Snapchat,Sim,4.5,5.2,Negativo,True,True,6-8h,4-6h
+189,24,Masculino,Graduação,Outro,4.4,LinkedIn,Sim,7.5,6.8,Neutro,False,False,4-6h,6-8h
+500,21,Feminino,Graduação,Austrália,3.7,Twitter,Não,6.7,6.6,Neutro,False,False,2-4h,6-8h
+495,24,Feminino,Ensino Médio,EUA,7.4,YouTube,Sim,5.9,4.3,Negativo,True,False,6-8h,4-6h
+663,21,Feminino,Graduação,Índia,4.4,LinkedIn,Sim,6.4,6.4,Neutro,False,False,4-6h,6-8h
+774,23,Masculino,Graduação,Outro,2.5,LinkedIn,Não,7.1,8.8,Positivo,False,False,2-4h,6-8h
+915,19,Feminino,Ensino Médio,Alemanha,6.5,Facebook,Não,5.9,5.3,Negativo,True,False,6-8h,4-6h
+739,21,Feminino,Ensino Médio,Outro,3.7,Twitter,Não,8.2,7.3,Positivo,False,False,2-4h,8h+
+40,22,Feminino,Pós-graduação,Austrália,7.6,TikTok,Sim,5.2,4.5,Negativo,True,False,6-8h,4-6h
+152,18,Masculino,Pós-graduação,Índia,6.8,Instagram,Sim,4.6,4.1,Negativo,True,True,6-8h,4-6h
+684,23,Masculino,Pós-graduação,Outro,7.5,Instagram,Sim,5.7,4.5,Negativo,True,False,6-8h,4-6h
+979,24,Feminino,Ensino Médio,Outro,7.1,YouTube,Sim,4.7,4.0,Negativo,True,True,6-8h,4-6h
+94,24,Masculino,Ensino Médio,Canadá,6.7,Twitter,Sim,6.0,4.5,Negativo,True,False,6-8h,4-6h
+9,19,Masculino,Graduação,Outro,3.6,Twitter,Sim,6.9,6.8,Neutro,False,False,2-4h,6-8h
+72,21,Masculino,Ensino Médio,Outro,3.1,Snapchat,Sim,7.5,8.9,Positivo,False,False,2-4h,6-8h
+787,21,Masculino,Pós-graduação,Outro,5.2,TikTok,Sim,6.4,7.0,Neutro,True,False,4-6h,6-8h
+764,18,Feminino,Graduação,Outro,4.7,LinkedIn,Não,6.2,6.4,Neutro,False,False,4-6h,6-8h
+347,19,Masculino,Ensino Médio,Outro,2.9,YouTube,Não,8.0,7.4,Positivo,False,False,2-4h,6-8h
+63,23,Feminino,Pós-graduação,Outro,3.6,Snapchat,Não,8.4,8.4,Positivo,False,False,2-4h,8h+
+758,20,Feminino,Ensino Médio,EUA,5.6,TikTok,Não,6.8,6.5,Neutro,True,False,4-6h,6-8h
+737,22,Masculino,Pós-graduação,Outro,5.2,Facebook,Sim,7.2,6.0,Neutro,True,False,4-6h,6-8h
+892,24,Feminino,Graduação,Canadá,1.7,YouTube,Não,7.1,7.5,Positivo,False,False,0-2h,6-8h
+379,19,Masculino,Pós-graduação,Outro,3.7,YouTube,Não,7.0,6.7,Neutro,False,False,2-4h,6-8h
+406,22,Masculino,Graduação,Austrália,1.5,Instagram,Não,8.7,8.6,Positivo,False,False,0-2h,8h+
+878,21,Masculino,Pós-graduação,Índia,4.4,Instagram,Não,7.3,6.1,Neutro,False,False,4-6h,6-8h
+323,21,Masculino,Graduação,Outro,7.4,Instagram,Sim,4.8,4.8,Negativo,True,True,6-8h,4-6h
+146,22,Feminino,Ensino Médio,Outro,4.0,Facebook,Sim,6.0,6.2,Neutro,False,False,2-4h,4-6h
+314,20,Masculino,Pós-graduação,Outro,2.0,Twitter,Não,7.7,7.7,Positivo,False,False,0-2h,6-8h
+141,20,Masculino,Ensino Médio,Outro,5.7,LinkedIn,Sim,5.5,6.0,Negativo,True,False,4-6h,4-6h
+555,18,Masculino,Graduação,Outro,4.5,LinkedIn,Não,6.1,6.4,Neutro,False,False,4-6h,6-8h
+751,24,Masculino,Ensino Médio,Canadá,3.2,TikTok,Não,7.5,8.0,Positivo,False,False,2-4h,6-8h
+170,20,Feminino,Ensino Médio,Outro,6.7,Twitter,Sim,5.1,5.7,Negativo,True,False,6-8h,4-6h
+343,21,Masculino,Graduação,Outro,8.3,Snapchat,Sim,4.7,5.0,Negativo,True,True,8h+,4-6h
+959,18,Feminino,Graduação,Outro,3.2,Snapchat,Não,7.8,8.5,Positivo,False,False,2-4h,6-8h
+853,19,Feminino,Ensino Médio,Outro,5.9,TikTok,Não,6.3,6.8,Neutro,True,False,4-6h,6-8h
+619,21,Masculino,Graduação,Outro,5.2,YouTube,Sim,6.6,6.3,Neutro,True,False,4-6h,6-8h
+275,22,Masculino,Graduação,Outro,3.5,LinkedIn,Não,8.1,7.2,Positivo,False,False,2-4h,8h+
+928,22,Masculino,Ensino Médio,EUA,8.0,YouTube,Sim,5.2,4.7,Negativo,True,False,6-8h,4-6h
+294,21,Feminino,Pós-graduação,Outro,7.3,TikTok,Sim,5.8,5.6,Negativo,True,False,6-8h,4-6h
+150,21,Masculino,Pós-graduação,Outro,6.3,YouTube,Sim,5.9,4.5,Negativo,True,False,6-8h,4-6h
+300,21,Masculino,Pós-graduação,Outro,8.4,Snapchat,Sim,4.7,5.4,Negativo,True,True,8h+,4-6h
+257,19,Masculino,Ensino Médio,EUA,2.4,LinkedIn,Não,7.2,8.6,Positivo,False,False,2-4h,6-8h
+5,23,Feminino,Pós-graduação,Outro,6.4,Instagram,Sim,5.4,5.4,Negativo,True,False,6-8h,4-6h
+47,24,Feminino,Ensino Médio,Outro,4.8,LinkedIn,Sim,6.7,6.4,Neutro,False,False,4-6h,6-8h
+627,23,Feminino,Ensino Médio,Outro,7.7,Snapchat,Sim,5.3,5.3,Negativo,True,False,6-8h,4-6h
+575,21,Masculino,Graduação,Outro,6.7,Facebook,Sim,4.6,4.5,Negativo,True,True,6-8h,4-6h
+871,20,Feminino,Ensino Médio,Outro,2.9,Facebook,Não,8.4,8.4,Positivo,False,False,2-4h,8h+
+436,19,Feminino,Ensino Médio,Outro,8.3,LinkedIn,Sim,5.0,4.5,Negativo,True,False,8h+,4-6h
+106,18,Masculino,Graduação,Outro,2.5,LinkedIn,Não,8.7,8.6,Positivo,False,False,2-4h,8h+
+990,18,Feminino,Pós-graduação,Outro,6.2,Facebook,Sim,5.1,5.2,Negativo,True,False,6-8h,4-6h
+301,24,Masculino,Pós-graduação,Outro,2.8,Snapchat,Não,8.5,7.6,Positivo,False,False,2-4h,8h+
+917,18,Feminino,Ensino Médio,Outro,4.8,LinkedIn,Sim,6.8,6.3,Neutro,False,False,4-6h,6-8h
+178,20,Masculino,Ensino Médio,Índia,7.6,Instagram,Sim,5.4,4.1,Negativo,True,False,6-8h,4-6h
+386,19,Feminino,Graduação,Outro,4.5,Facebook,Não,6.2,6.6,Neutro,False,False,4-6h,6-8h
+840,21,Masculino,Ensino Médio,Outro,2.6,TikTok,Não,7.4,8.9,Positivo,False,False,2-4h,6-8h
+168,22,Feminino,Graduação,Outro,2.3,YouTube,Não,8.8,9.0,Positivo,False,False,2-4h,8h+
+843,20,Masculino,Graduação,Outro,2.8,Twitter,Não,8.2,7.3,Positivo,False,False,2-4h,8h+
+355,19,Masculino,Pós-graduação,Outro,7.0,Instagram,Sim,4.7,5.5,Negativo,True,True,6-8h,4-6h
+658,23,Feminino,Graduação,Outro,5.6,YouTube,Não,6.6,6.5,Neutro,True,False,4-6h,6-8h
+539,21,Masculino,Ensino Médio,Reino Unido,3.5,Instagram,Não,8.5,8.4,Positivo,False,False,2-4h,8h+
+566,18,Feminino,Ensino Médio,EUA,5.9,Twitter,Não,4.5,5.8,Negativo,True,True,4-6h,4-6h
+37,19,Masculino,Pós-graduação,Outro,2.4,LinkedIn,Não,8.4,7.6,Positivo,False,False,2-4h,8h+
+515,20,Feminino,Pós-graduação,Outro,6.4,Facebook,Não,5.5,4.3,Negativo,True,False,6-8h,4-6h
+789,21,Feminino,Pós-graduação,Outro,2.7,Twitter,Não,7.5,7.9,Positivo,False,False,2-4h,6-8h
+92,24,Masculino,Ensino Médio,Índia,8.2,Instagram,Sim,4.8,4.5,Negativo,True,True,8h+,4-6h
+164,22,Masculino,Graduação,Outro,1.9,Instagram,Não,7.2,8.2,Positivo,False,False,0-2h,6-8h
+50,21,Masculino,Ensino Médio,Outro,5.4,Instagram,Sim,6.6,6.5,Neutro,True,False,4-6h,6-8h
+20,21,Feminino,Graduação,EUA,6.1,Snapchat,Sim,5.3,6.0,Negativo,True,False,6-8h,4-6h
+85,23,Feminino,Pós-graduação,Outro,7.4,Instagram,Não,5.3,5.5,Negativo,True,False,6-8h,4-6h
+1000,24,Masculino,Graduação,Alemanha,7.1,LinkedIn,Sim,5.8,4.2,Negativo,True,False,6-8h,4-6h
+941,21,Masculino,Graduação,Austrália,5.7,Instagram,Sim,7.5,6.6,Neutro,True,False,4-6h,6-8h
+13,20,Feminino,Ensino Médio,Outro,1.8,Twitter,Não,7.2,7.5,Positivo,False,False,0-2h,6-8h
+532,22,Feminino,Graduação,Outro,7.9,YouTube,Sim,5.1,4.9,Negativo,True,False,6-8h,4-6h
+250,24,Masculino,Pós-graduação,Outro,8.1,Twitter,Sim,6.0,4.8,Negativo,True,False,8h+,4-6h
+889,24,Feminino,Ensino Médio,Outro,3.6,Instagram,Não,6.9,6.5,Neutro,False,False,2-4h,6-8h
+633,21,Masculino,Pós-graduação,Índia,7.8,Facebook,Sim,5.5,5.7,Negativo,True,False,6-8h,4-6h
+761,22,Feminino,Graduação,Outro,7.0,Instagram,Sim,5.9,4.0,Negativo,True,False,6-8h,4-6h
+960,22,Feminino,Pós-graduação,Canadá,7.7,TikTok,Sim,5.8,4.2,Negativo,True,False,6-8h,4-6h
+695,24,Feminino,Pós-graduação,Outro,5.7,Snapchat,Sim,6.9,6.4,Neutro,True,False,4-6h,6-8h
+134,19,Feminino,Graduação,Outro,4.9,LinkedIn,Sim,6.6,6.5,Neutro,False,False,4-6h,6-8h
+231,24,Feminino,Ensino Médio,EUA,7.6,Instagram,Não,5.3,4.9,Negativo,True,False,6-8h,4-6h
+731,19,Feminino,Ensino Médio,Índia,8.5,Snapchat,Sim,5.8,4.8,Negativo,True,False,8h+,4-6h
+144,22,Feminino,Ensino Médio,Índia,6.6,TikTok,Não,5.3,5.0,Negativo,True,False,6-8h,4-6h
+475,20,Feminino,Pós-graduação,Outro,7.5,Snapchat,Não,5.9,4.6,Negativo,True,False,6-8h,4-6h
+927,24,Feminino,Ensino Médio,Outro,7.5,YouTube,Sim,4.8,5.4,Negativo,True,True,6-8h,4-6h
+863,23,Masculino,Pós-graduação,Outro,8.2,Facebook,Sim,5.7,4.0,Negativo,True,False,8h+,4-6h
+418,20,Feminino,Pós-graduação,Reino Unido,5.3,YouTube,Não,7.1,6.6,Neutro,True,False,4-6h,6-8h
+353,22,Feminino,Graduação,Outro,4.9,LinkedIn,Sim,7.0,6.7,Neutro,False,False,4-6h,6-8h
+237,21,Feminino,Ensino Médio,EUA,5.8,Instagram,Sim,5.8,5.1,Negativo,True,False,4-6h,4-6h
+137,23,Masculino,Pós-graduação,Outro,6.4,LinkedIn,Sim,5.4,4.3,Negativo,True,False,6-8h,4-6h
+477,18,Feminino,Pós-graduação,Outro,3.8,Snapchat,Sim,6.2,6.8,Neutro,False,False,2-4h,6-8h
+592,22,Feminino,Pós-graduação,EUA,3.8,Facebook,Sim,6.9,6.5,Neutro,False,False,2-4h,6-8h
+506,18,Masculino,Pós-graduação,Austrália,4.0,Twitter,Sim,7.4,6.5,Neutro,False,False,2-4h,6-8h
+461,21,Masculino,Graduação,Outro,8.0,LinkedIn,Sim,5.5,5.6,Negativo,True,False,6-8h,4-6h
+330,23,Feminino,Graduação,Outro,8.3,Snapchat,Sim,5.6,5.8,Negativo,True,False,8h+,4-6h
+559,19,Masculino,Ensino Médio,EUA,5.8,LinkedIn,Sim,5.3,5.0,Negativo,True,False,4-6h,4-6h
+922,23,Masculino,Pós-graduação,Outro,6.2,Snapchat,Sim,5.3,5.0,Negativo,True,False,6-8h,4-6h
+329,18,Masculino,Graduação,Outro,2.3,Snapchat,Não,7.5,8.2,Positivo,False,False,2-4h,6-8h
+571,19,Feminino,Ensino Médio,Outro,6.2,YouTube,Sim,5.8,4.3,Negativo,True,False,6-8h,4-6h
+883,20,Feminino,Ensino Médio,Outro,7.0,Instagram,Não,4.5,5.9,Negativo,True,True,6-8h,4-6h
+766,24,Masculino,Ensino Médio,Outro,3.8,LinkedIn,Não,7.2,8.9,Positivo,False,False,2-4h,6-8h
+203,18,Feminino,Ensino Médio,Outro,3.3,TikTok,Não,8.6,8.7,Positivo,False,False,2-4h,8h+
+334,19,Feminino,Ensino Médio,EUA,1.5,Instagram,Não,8.2,8.2,Positivo,False,False,0-2h,8h+
+565,18,Masculino,Pós-graduação,Outro,6.7,YouTube,Sim,5.8,4.5,Negativo,True,False,6-8h,4-6h
+182,23,Masculino,Pós-graduação,Índia,2.9,YouTube,Não,7.7,7.6,Positivo,False,False,2-4h,6-8h
+372,24,Feminino,Graduação,Outro,3.2,YouTube,Sim,7.7,7.9,Positivo,False,False,2-4h,6-8h
+327,21,Feminino,Pós-graduação,Outro,6.0,Twitter,Sim,5.9,4.1,Negativo,True,False,4-6h,4-6h
+233,21,Feminino,Graduação,Outro,3.2,YouTube,Não,7.6,7.6,Positivo,False,False,2-4h,6-8h
+479,22,Masculino,Pós-graduação,Outro,2.3,Snapchat,Sim,8.1,7.3,Positivo,False,False,2-4h,8h+
+357,22,Masculino,Graduação,Outro,8.1,YouTube,Sim,5.6,5.4,Negativo,True,False,8h+,4-6h
+404,21,Masculino,Pós-graduação,Outro,3.5,Twitter,Não,7.5,8.9,Positivo,False,False,2-4h,6-8h
+783,21,Masculino,Pós-graduação,EUA,5.8,TikTok,Sim,5.5,5.4,Negativo,True,False,4-6h,4-6h
+781,24,Feminino,Pós-graduação,Outro,2.9,Twitter,Não,8.0,7.0,Positivo,False,False,2-4h,6-8h
+493,22,Masculino,Graduação,Outro,6.0,YouTube,Sim,6.7,6.4,Neutro,True,False,4-6h,6-8h
+854,19,Masculino,Pós-graduação,EUA,5.8,YouTube,Sim,5.3,5.8,Negativo,True,False,4-6h,4-6h
+108,19,Masculino,Pós-graduação,Outro,4.9,Facebook,Não,6.0,6.3,Neutro,False,False,4-6h,4-6h
+415,20,Masculino,Ensino Médio,Outro,5.6,TikTok,Sim,6.8,6.8,Neutro,True,False,4-6h,6-8h
+176,18,Masculino,Ensino Médio,Outro,5.6,YouTube,Sim,4.5,5.7,Negativo,True,True,4-6h,4-6h
+140,19,Masculino,Graduação,Outro,7.5,TikTok,Sim,4.7,4.1,Negativo,True,True,6-8h,4-6h
+58,20,Feminino,Ensino Médio,Outro,8.2,Instagram,Sim,5.8,4.9,Negativo,True,False,8h+,4-6h
+715,18,Feminino,Ensino Médio,Outro,7.4,YouTube,Sim,5.8,4.7,Negativo,True,False,6-8h,4-6h
+159,18,Feminino,Ensino Médio,Austrália,6.3,LinkedIn,Sim,5.9,5.4,Negativo,True,False,6-8h,4-6h
+126,23,Feminino,Ensino Médio,Outro,2.1,LinkedIn,Não,8.1,8.8,Positivo,False,False,2-4h,8h+
+56,19,Masculino,Ensino Médio,Austrália,5.7,YouTube,Sim,6.0,5.8,Negativo,True,False,4-6h,4-6h
+646,21,Masculino,Ensino Médio,Canadá,7.1,TikTok,Sim,4.5,4.5,Negativo,True,True,6-8h,4-6h
+986,23,Masculino,Pós-graduação,Outro,5.6,Snapchat,Sim,5.8,4.0,Negativo,True,False,4-6h,4-6h
+579,23,Feminino,Ensino Médio,Outro,7.5,Instagram,Sim,5.9,5.2,Negativo,True,False,6-8h,4-6h
+801,24,Feminino,Pós-graduação,Índia,3.0,Snapchat,Sim,7.1,7.2,Positivo,False,False,2-4h,6-8h
+135,21,Feminino,Ensino Médio,Alemanha,3.7,YouTube,Não,8.7,8.6,Positivo,False,False,2-4h,8h+
+874,21,Masculino,Ensino Médio,Outro,3.6,TikTok,Sim,8.5,7.1,Positivo,False,False,2-4h,8h+
+562,19,Feminino,Ensino Médio,Outro,5.4,YouTube,Não,6.4,6.6,Neutro,True,False,4-6h,6-8h
+424,23,Masculino,Graduação,Outro,2.0,Facebook,Não,7.7,7.9,Positivo,False,False,0-2h,6-8h
+304,22,Feminino,Graduação,Outro,5.8,TikTok,Sim,5.7,4.1,Negativo,True,False,4-6h,4-6h
+795,21,Feminino,Pós-graduação,Outro,4.5,Instagram,Sim,6.4,6.7,Neutro,False,False,4-6h,6-8h
+554,24,Masculino,Pós-graduação,Outro,6.3,Snapchat,Não,5.3,4.3,Negativo,True,False,6-8h,4-6h
+568,23,Feminino,Graduação,Alemanha,7.9,Instagram,Sim,5.6,5.1,Negativo,True,False,6-8h,4-6h
+420,24,Feminino,Ensino Médio,Outro,6.0,TikTok,Sim,4.9,5.4,Negativo,True,True,4-6h,4-6h
+244,19,Masculino,Pós-graduação,Outro,5.0,YouTube,Sim,6.2,6.4,Neutro,False,False,4-6h,6-8h
+534,18,Feminino,Pós-graduação,Reino Unido,6.7,Facebook,Sim,5.8,4.6,Negativo,True,False,6-8h,4-6h
+511,23,Masculino,Ensino Médio,Índia,7.2,Twitter,Sim,5.3,6.0,Negativo,True,False,6-8h,4-6h
+837,21,Feminino,Pós-graduação,Índia,3.8,LinkedIn,Não,7.2,7.5,Positivo,False,False,2-4h,6-8h
+412,22,Feminino,Ensino Médio,Outro,4.6,YouTube,Sim,6.4,6.0,Neutro,False,False,4-6h,6-8h
+380,22,Masculino,Pós-graduação,Outro,5.7,Snapchat,Não,6.6,6.4,Neutro,True,False,4-6h,6-8h
+920,22,Feminino,Graduação,Outro,6.3,YouTube,Sim,5.6,5.0,Negativo,True,False,6-8h,4-6h
+521,19,Masculino,Pós-graduação,Outro,7.9,LinkedIn,Sim,5.8,4.1,Negativo,True,False,6-8h,4-6h
+291,23,Feminino,Pós-graduação,Outro,5.0,Snapchat,Não,6.1,6.6,Neutro,False,False,4-6h,6-8h
+447,21,Feminino,Pós-graduação,Outro,3.5,TikTok,Sim,7.5,9.0,Positivo,False,False,2-4h,6-8h
+741,22,Feminino,Pós-graduação,Outro,5.2,LinkedIn,Sim,7.2,6.3,Neutro,True,False,4-6h,6-8h
+485,19,Feminino,Pós-graduação,Outro,2.7,YouTube,Não,8.6,7.5,Positivo,False,False,2-4h,8h+
+899,23,Feminino,Graduação,Outro,6.5,Twitter,Sim,5.6,4.6,Negativo,True,False,6-8h,4-6h
+852,23,Masculino,Graduação,Outro,4.1,TikTok,Sim,7.4,6.9,Neutro,False,False,4-6h,6-8h
+387,23,Masculino,Pós-graduação,Outro,2.4,LinkedIn,Não,7.1,7.1,Positivo,False,False,2-4h,6-8h
+833,22,Masculino,Ensino Médio,Índia,5.1,Twitter,Sim,6.3,6.9,Neutro,True,False,4-6h,6-8h
+399,18,Masculino,Graduação,Outro,5.9,Twitter,Sim,6.0,6.5,Neutro,True,False,4-6h,4-6h
+868,19,Feminino,Graduação,Alemanha,5.7,TikTok,Sim,5.2,4.1,Negativo,True,False,4-6h,4-6h
+586,24,Feminino,Graduação,Outro,8.2,Twitter,Sim,5.0,4.7,Negativo,True,False,8h+,4-6h
+397,19,Masculino,Graduação,Outro,6.9,TikTok,Não,5.0,5.6,Negativo,True,False,6-8h,4-6h
+322,21,Masculino,Ensino Médio,Outro,7.6,Twitter,Sim,5.0,4.1,Negativo,True,False,6-8h,4-6h
+906,19,Masculino,Graduação,Reino Unido,2.0,Snapchat,Não,7.5,7.8,Positivo,False,False,0-2h,6-8h
+184,18,Masculino,Pós-graduação,Outro,3.9,Facebook,Sim,7.3,8.5,Positivo,False,False,2-4h,6-8h
+744,19,Feminino,Ensino Médio,Outro,4.5,LinkedIn,Sim,6.1,6.3,Neutro,False,False,4-6h,6-8h
+803,20,Masculino,Pós-graduação,Outro,3.5,TikTok,Sim,7.1,8.1,Positivo,False,False,2-4h,6-8h
+934,18,Masculino,Pós-graduação,Outro,7.3,Twitter,Sim,5.3,5.0,Negativo,True,False,6-8h,4-6h
+227,21,Feminino,Ensino Médio,EUA,3.7,Facebook,Não,7.5,8.3,Positivo,False,False,2-4h,6-8h
+648,23,Masculino,Graduação,EUA,4.7,YouTube,Sim,6.9,6.2,Neutro,False,False,4-6h,6-8h
+523,18,Masculino,Ensino Médio,Outro,5.3,YouTube,Sim,6.9,6.4,Neutro,True,False,4-6h,6-8h
+388,20,Masculino,Pós-graduação,Austrália,7.3,Twitter,Sim,5.3,6.0,Negativo,True,False,6-8h,4-6h
+629,19,Feminino,Pós-graduação,Índia,3.8,LinkedIn,Não,7.4,6.9,Neutro,False,False,2-4h,6-8h
+69,22,Feminino,Pós-graduação,Índia,8.4,Instagram,Não,6.0,5.5,Negativo,True,False,8h+,4-6h
+551,19,Feminino,Graduação,Outro,8.3,Twitter,Não,4.7,4.6,Negativo,True,True,8h+,4-6h
+309,21,Masculino,Graduação,Outro,4.0,Snapchat,Não,6.6,6.9,Neutro,False,False,2-4h,6-8h
+256,23,Feminino,Graduação,Índia,7.6,YouTube,Sim,4.7,4.8,Negativo,True,True,6-8h,4-6h
+121,23,Feminino,Ensino Médio,Outro,5.3,Facebook,Sim,7.3,6.2,Neutro,True,False,4-6h,6-8h
+149,18,Masculino,Ensino Médio,Outro,5.9,Snapchat,Não,6.2,6.1,Neutro,True,False,4-6h,6-8h
+628,22,Feminino,Graduação,Outro,4.1,TikTok,Não,6.4,6.9,Neutro,False,False,4-6h,6-8h
+390,22,Masculino,Ensino Médio,Outro,5.6,TikTok,Sim,6.1,6.3,Neutro,True,False,4-6h,6-8h
+908,21,Feminino,Ensino Médio,Outro,8.4,Facebook,Sim,5.2,5.1,Negativo,True,False,8h+,4-6h
+251,20,Masculino,Graduação,Austrália,5.8,Snapchat,Sim,5.8,4.9,Negativo,True,False,4-6h,4-6h
+645,24,Feminino,Pós-graduação,Outro,8.2,YouTube,Sim,4.5,5.6,Negativo,True,True,8h+,4-6h
+771,21,Masculino,Pós-graduação,Outro,4.8,Twitter,Sim,6.6,7.0,Neutro,False,False,4-6h,6-8h
+474,21,Feminino,Ensino Médio,Alemanha,7.6,Snapchat,Sim,4.9,5.1,Negativo,True,True,6-8h,4-6h
+271,22,Feminino,Ensino Médio,Outro,3.1,Twitter,Não,8.5,7.0,Positivo,False,False,2-4h,8h+
+365,18,Masculino,Graduação,Outro,7.5,Instagram,Não,5.4,5.5,Negativo,True,False,6-8h,4-6h
+509,20,Feminino,Pós-graduação,Outro,3.9,Snapchat,Sim,6.3,6.2,Neutro,False,False,2-4h,6-8h
+317,20,Feminino,Graduação,EUA,7.1,LinkedIn,Sim,6.0,4.1,Negativo,True,False,6-8h,4-6h
+298,22,Masculino,Graduação,Outro,6.3,TikTok,Sim,5.4,6.0,Negativo,True,False,6-8h,4-6h
+729,24,Feminino,Graduação,Outro,6.2,LinkedIn,Sim,6.0,4.8,Negativo,True,False,6-8h,4-6h
+613,21,Feminino,Pós-graduação,Outro,4.9,LinkedIn,Sim,6.8,6.3,Neutro,False,False,4-6h,6-8h
+649,18,Masculino,Pós-graduação,Índia,3.0,Instagram,Sim,7.7,8.5,Positivo,False,False,2-4h,6-8h
+581,19,Masculino,Graduação,Outro,8.0,Twitter,Sim,4.8,4.9,Negativo,True,True,6-8h,4-6h
+401,21,Feminino,Graduação,Outro,8.2,Facebook,Sim,5.7,5.0,Negativo,True,False,8h+,4-6h
+967,18,Feminino,Graduação,Outro,6.0,TikTok,Sim,5.5,5.0,Negativo,True,False,4-6h,4-6h
+252,19,Feminino,Graduação,Outro,4.8,YouTube,Não,6.9,6.9,Neutro,False,False,4-6h,6-8h
+951,24,Feminino,Pós-graduação,Outro,5.3,Instagram,Não,6.4,6.8,Neutro,True,False,4-6h,6-8h
+556,22,Feminino,Graduação,Outro,4.5,Instagram,Sim,6.6,6.8,Neutro,False,False,4-6h,6-8h
+616,23,Feminino,Graduação,Índia,1.7,Twitter,Não,7.0,8.9,Positivo,False,False,0-2h,6-8h
+601,18,Masculino,Pós-graduação,Alemanha,6.1,YouTube,Sim,4.6,5.1,Negativo,True,True,6-8h,4-6h
+217,18,Masculino,Pós-graduação,Canadá,1.9,Twitter,Não,7.3,8.9,Positivo,False,False,0-2h,6-8h
+700,21,Masculino,Graduação,Outro,7.7,Instagram,Não,5.8,5.1,Negativo,True,False,6-8h,4-6h
+513,21,Feminino,Graduação,Outro,6.9,Instagram,Sim,5.2,5.9,Negativo,True,False,6-8h,4-6h
+448,24,Masculino,Pós-graduação,Outro,5.9,Twitter,Sim,5.9,4.4,Negativo,True,False,4-6h,4-6h
+598,20,Masculino,Pós-graduação,Austrália,2.4,YouTube,Não,8.7,7.2,Positivo,False,False,2-4h,8h+
+346,18,Masculino,Ensino Médio,Outro,6.5,LinkedIn,Sim,5.0,5.0,Negativo,True,False,6-8h,4-6h
+202,20,Masculino,Pós-graduação,Outro,2.6,LinkedIn,Sim,8.8,8.5,Positivo,False,False,2-4h,8h+
+525,20,Masculino,Pós-graduação,Outro,6.9,TikTok,Sim,5.3,5.1,Negativo,True,False,6-8h,4-6h
+165,19,Feminino,Pós-graduação,Alemanha,5.4,Snapchat,Sim,7.3,6.3,Neutro,True,False,4-6h,6-8h
+18,21,Masculino,Pós-graduação,Austrália,4.7,Instagram,Sim,7.4,6.6,Neutro,False,False,4-6h,6-8h
+992,21,Masculino,Ensino Médio,Outro,2.9,Facebook,Sim,8.7,8.9,Positivo,False,False,2-4h,8h+
+480,21,Masculino,Ensino Médio,Outro,1.7,Instagram,Não,8.1,7.8,Positivo,False,False,0-2h,8h+
+80,23,Feminino,Ensino Médio,Outro,6.2,TikTok,Sim,6.0,4.3,Negativo,True,False,6-8h,4-6h
+216,23,Masculino,Pós-graduação,Outro,5.6,TikTok,Sim,5.5,4.2,Negativo,True,False,4-6h,4-6h
+768,19,Feminino,Pós-graduação,Outro,4.5,TikTok,Sim,6.5,6.8,Neutro,False,False,4-6h,6-8h
+810,24,Feminino,Pós-graduação,Outro,8.0,Snapchat,Não,5.6,6.0,Negativo,True,False,6-8h,4-6h
+210,21,Masculino,Ensino Médio,Austrália,3.5,Twitter,Sim,7.4,6.7,Neutro,False,False,2-4h,6-8h
+306,22,Masculino,Graduação,Canadá,4.8,Twitter,Não,6.9,6.1,Neutro,False,False,4-6h,6-8h
+796,24,Feminino,Graduação,Outro,2.3,YouTube,Não,8.8,8.5,Positivo,False,False,2-4h,8h+
+316,22,Masculino,Pós-graduação,Outro,8.0,LinkedIn,Sim,4.5,5.4,Negativo,True,True,6-8h,4-6h
+10,22,Masculino,Pós-graduação,Outro,6.6,Snapchat,Sim,5.2,5.2,Negativo,True,False,6-8h,4-6h
+846,22,Masculino,Pós-graduação,Outro,1.6,TikTok,Sim,8.2,8.6,Positivo,False,False,0-2h,8h+
+624,22,Feminino,Pós-graduação,Canadá,6.8,Instagram,Sim,5.4,4.4,Negativo,True,False,6-8h,4-6h
+937,19,Masculino,Pós-graduação,Reino Unido,1.8,TikTok,Não,7.6,8.3,Positivo,False,False,0-2h,6-8h
+417,20,Feminino,Graduação,Outro,3.9,TikTok,Não,8.8,8.5,Positivo,False,False,2-4h,8h+
+268,24,Masculino,Ensino Médio,Outro,6.7,Snapchat,Não,5.4,5.4,Negativo,True,False,6-8h,4-6h
+825,23,Masculino,Graduação,Outro,7.8,Twitter,Sim,5.7,5.9,Negativo,True,False,6-8h,4-6h
+747,20,Feminino,Pós-graduação,Outro,5.0,TikTok,Sim,7.4,6.7,Neutro,False,False,4-6h,6-8h
+83,18,Feminino,Graduação,Outro,7.6,Facebook,Não,4.5,5.9,Negativo,True,True,6-8h,4-6h
+947,21,Feminino,Graduação,Outro,1.7,Instagram,Não,8.7,7.4,Positivo,False,False,0-2h,8h+
+794,22,Feminino,Ensino Médio,Outro,5.8,LinkedIn,Não,6.7,6.5,Neutro,True,False,4-6h,6-8h
+472,21,Masculino,Ensino Médio,Índia,6.4,Snapchat,Não,5.5,5.9,Negativo,True,False,6-8h,4-6h
+341,22,Feminino,Graduação,Outro,2.5,Snapchat,Não,8.0,8.6,Positivo,False,False,2-4h,6-8h
+491,24,Masculino,Pós-graduação,Alemanha,5.2,YouTube,Sim,6.5,6.4,Neutro,True,False,4-6h,6-8h
+563,23,Masculino,Graduação,Outro,5.2,TikTok,Sim,6.8,6.9,Neutro,True,False,4-6h,6-8h
+829,20,Feminino,Pós-graduação,Alemanha,6.8,TikTok,Sim,5.1,4.9,Negativo,True,False,6-8h,4-6h
+360,22,Feminino,Graduação,Outro,7.1,LinkedIn,Sim,6.0,4.1,Negativo,True,False,6-8h,4-6h
+282,21,Feminino,Ensino Médio,Canadá,4.7,Facebook,Não,7.1,6.5,Neutro,False,False,4-6h,6-8h
+540,19,Masculino,Graduação,Canadá,7.7,Facebook,Sim,5.4,4.4,Negativo,True,False,6-8h,4-6h
+580,21,Feminino,Ensino Médio,Outro,2.6,LinkedIn,Não,8.9,8.3,Positivo,False,False,2-4h,8h+
+625,19,Feminino,Graduação,Outro,6.2,TikTok,Sim,5.0,4.8,Negativo,True,False,6-8h,4-6h
+946,22,Masculino,Graduação,Austrália,5.7,Snapchat,Sim,7.4,6.9,Neutro,True,False,4-6h,6-8h
+615,20,Feminino,Pós-graduação,EUA,2.9,Twitter,Não,7.3,7.1,Positivo,False,False,2-4h,6-8h
+798,19,Feminino,Ensino Médio,Outro,4.2,Facebook,Sim,6.9,6.7,Neutro,False,False,4-6h,6-8h
+54,21,Masculino,Pós-graduação,Canadá,3.8,YouTube,Sim,9.0,8.5,Positivo,False,False,2-4h,8h+
+222,23,Feminino,Pós-graduação,Índia,3.6,Instagram,Não,7.6,7.9,Positivo,False,False,2-4h,6-8h
+952,24,Feminino,Graduação,Outro,2.1,Instagram,Não,8.0,8.7,Positivo,False,False,2-4h,6-8h
+875,23,Feminino,Ensino Médio,Outro,4.7,Twitter,Não,7.3,6.0,Neutro,False,False,4-6h,6-8h
+687,24,Masculino,Ensino Médio,Outro,7.7,LinkedIn,Sim,5.8,4.4,Negativo,True,False,6-8h,4-6h
+754,23,Feminino,Ensino Médio,Outro,7.2,Facebook,Não,5.6,4.6,Negativo,True,False,6-8h,4-6h
+226,23,Masculino,Pós-graduação,Índia,8.4,Twitter,Não,5.6,5.7,Negativo,True,False,8h+,4-6h
+655,22,Feminino,Pós-graduação,Índia,4.8,Instagram,Não,7.0,6.3,Neutro,False,False,4-6h,6-8h
+181,21,Feminino,Pós-graduação,Índia,2.6,TikTok,Sim,8.7,7.5,Positivo,False,False,2-4h,8h+
+59,20,Masculino,Graduação,Outro,8.1,Twitter,Sim,4.6,4.7,Negativo,True,True,8h+,4-6h
+366,19,Masculino,Ensino Médio,Outro,6.3,TikTok,Sim,5.4,4.9,Negativo,True,False,6-8h,4-6h
+171,20,Masculino,Pós-graduação,Outro,7.6,LinkedIn,Sim,4.6,5.0,Negativo,True,True,6-8h,4-6h
+582,20,Feminino,Ensino Médio,Outro,6.1,YouTube,Sim,5.1,4.1,Negativo,True,False,6-8h,4-6h
+34,24,Feminino,Pós-graduação,Outro,3.3,Facebook,Não,7.2,7.3,Positivo,False,False,2-4h,6-8h
+99,23,Feminino,Graduação,Outro,6.9,TikTok,Sim,5.9,4.6,Negativo,True,False,6-8h,4-6h
+376,20,Masculino,Ensino Médio,Outro,2.9,YouTube,Não,7.6,7.6,Positivo,False,False,2-4h,6-8h
+689,24,Masculino,Ensino Médio,Outro,5.6,TikTok,Sim,5.6,5.3,Negativo,True,False,4-6h,4-6h
+132,19,Masculino,Ensino Médio,Outro,4.3,YouTube,Sim,6.4,6.4,Neutro,False,False,4-6h,6-8h
+981,21,Masculino,Ensino Médio,Outro,6.8,Twitter,Sim,4.6,4.0,Negativo,True,True,6-8h,4-6h
+89,23,Feminino,Graduação,Outro,5.4,Instagram,Não,6.6,6.3,Neutro,True,False,4-6h,6-8h
+995,19,Masculino,Pós-graduação,Outro,8.1,YouTube,Não,4.5,5.8,Negativo,True,True,8h+,4-6h
+187,22,Feminino,Graduação,Outro,7.3,TikTok,Sim,4.8,5.7,Negativo,True,True,6-8h,4-6h
+792,24,Masculino,Pós-graduação,Outro,3.7,LinkedIn,Não,8.5,8.0,Positivo,False,False,2-4h,8h+
+823,18,Masculino,Ensino Médio,Índia,3.7,LinkedIn,Sim,8.6,7.4,Positivo,False,False,2-4h,8h+
+454,24,Masculino,Graduação,Canadá,6.3,Facebook,Sim,5.6,4.5,Negativo,True,False,6-8h,4-6h
+378,22,Masculino,Ensino Médio,Outro,5.6,Instagram,Sim,5.8,5.2,Negativo,True,False,4-6h,4-6h
+113,24,Feminino,Ensino Médio,Outro,3.7,YouTube,Sim,7.4,6.7,Neutro,False,False,2-4h,6-8h
+318,21,Masculino,Pós-graduação,Alemanha,7.2,LinkedIn,Sim,5.1,4.3,Negativo,True,False,6-8h,4-6h
+903,18,Masculino,Graduação,Outro,7.0,YouTube,Não,5.2,4.9,Negativo,True,False,6-8h,4-6h
+636,24,Feminino,Graduação,Alemanha,5.5,Twitter,Sim,4.6,4.8,Negativo,True,True,4-6h,4-6h
+573,19,Feminino,Ensino Médio,Outro,5.4,Facebook,Não,6.7,6.6,Neutro,True,False,4-6h,6-8h
+681,18,Masculino,Graduação,Outro,2.3,TikTok,Não,8.1,7.1,Positivo,False,False,2-4h,8h+
+138,18,Masculino,Ensino Médio,Outro,5.9,Facebook,Não,5.1,4.1,Negativo,True,False,4-6h,4-6h
+830,19,Masculino,Ensino Médio,Outro,5.3,Facebook,Sim,6.8,6.4,Neutro,True,False,4-6h,6-8h
+962,20,Masculino,Pós-graduação,Outro,2.0,LinkedIn,Não,8.2,7.7,Positivo,False,False,0-2h,8h+
+693,24,Masculino,Graduação,Outro,1.6,Snapchat,Não,8.9,7.4,Positivo,False,False,0-2h,8h+
+253,21,Feminino,Ensino Médio,Austrália,5.7,LinkedIn,Sim,6.8,6.6,Neutro,True,False,4-6h,6-8h
+921,23,Feminino,Ensino Médio,Alemanha,6.6,Instagram,Não,4.6,6.0,Negativo,True,True,6-8h,4-6h
+720,22,Masculino,Ensino Médio,Outro,6.6,LinkedIn,Sim,4.8,4.7,Negativo,True,True,6-8h,4-6h
+342,20,Feminino,Graduação,Outro,6.9,Instagram,Sim,4.5,4.4,Negativo,True,True,6-8h,4-6h
+813,18,Masculino,Ensino Médio,Outro,3.7,LinkedIn,Sim,7.9,8.2,Positivo,False,False,2-4h,6-8h
+446,23,Masculino,Graduação,EUA,2.3,LinkedIn,Não,7.5,7.4,Positivo,False,False,2-4h,6-8h
+517,24,Feminino,Graduação,Outro,6.7,Snapchat,Não,4.9,4.2,Negativo,True,True,6-8h,4-6h
+486,20,Feminino,Pós-graduação,Outro,6.3,LinkedIn,Sim,5.7,5.3,Negativo,True,False,6-8h,4-6h
+258,21,Feminino,Graduação,Índia,4.2,TikTok,Não,6.1,6.5,Neutro,False,False,4-6h,6-8h
+204,21,Feminino,Ensino Médio,Outro,2.3,Twitter,Sim,7.0,8.4,Positivo,False,False,2-4h,6-8h
+393,23,Feminino,Graduação,Austrália,2.2,Instagram,Não,8.6,7.7,Positivo,False,False,2-4h,8h+
+704,23,Masculino,Pós-graduação,Outro,3.6,TikTok,Não,8.6,7.9,Positivo,False,False,2-4h,8h+
+980,19,Masculino,Pós-graduação,Outro,3.3,Instagram,Não,8.2,7.3,Positivo,False,False,2-4h,8h+
+612,19,Masculino,Ensino Médio,Outro,6.5,TikTok,Sim,5.0,4.2,Negativo,True,False,6-8h,4-6h
+872,18,Masculino,Graduação,Outro,7.4,Twitter,Sim,4.9,4.3,Negativo,True,True,6-8h,4-6h
+635,23,Feminino,Pós-graduação,Outro,4.7,Twitter,Não,7.3,6.3,Neutro,False,False,4-6h,6-8h
+948,24,Feminino,Graduação,Outro,3.8,Facebook,Não,6.8,6.9,Neutro,False,False,2-4h,6-8h
+414,23,Feminino,Graduação,Alemanha,6.1,Snapchat,Sim,5.3,5.7,Negativo,True,False,6-8h,4-6h
+717,18,Masculino,Ensino Médio,Canadá,6.1,Instagram,Sim,5.6,4.6,Negativo,True,False,6-8h,4-6h
+881,18,Feminino,Graduação,Outro,7.7,Facebook,Não,5.4,4.0,Negativo,True,False,6-8h,4-6h
+39,18,Masculino,Ensino Médio,Outro,5.0,Snapchat,Sim,6.5,6.8,Neutro,False,False,4-6h,6-8h
+597,20,Feminino,Pós-graduação,Outro,5.9,YouTube,Sim,5.0,5.6,Negativo,True,False,4-6h,4-6h
+373,18,Feminino,Graduação,Outro,8.0,Twitter,Sim,5.4,5.7,Negativo,True,False,6-8h,4-6h
+407,20,Masculino,Pós-graduação,Alemanha,4.4,YouTube,Não,6.1,6.5,Neutro,False,False,4-6h,6-8h
+274,20,Masculino,Ensino Médio,Índia,7.5,LinkedIn,Não,5.2,5.2,Negativo,True,False,6-8h,4-6h
+112,22,Masculino,Pós-graduação,Índia,5.5,Twitter,Sim,7.1,7.0,Neutro,True,False,4-6h,6-8h
+969,22,Masculino,Graduação,Outro,6.0,Instagram,Sim,5.8,5.5,Negativo,True,False,4-6h,4-6h
+891,21,Masculino,Graduação,Canadá,2.1,Twitter,Não,8.8,7.0,Positivo,False,False,2-4h,8h+
+585,22,Masculino,Graduação,Outro,4.1,Facebook,Não,6.7,6.3,Neutro,False,False,4-6h,6-8h
+167,18,Feminino,Pós-graduação,Outro,5.6,Twitter,Sim,5.6,4.4,Negativo,True,False,4-6h,4-6h
+66,23,Masculino,Graduação,Índia,1.8,Instagram,Não,7.8,7.0,Positivo,False,False,0-2h,6-8h
+19,22,Masculino,Pós-graduação,Outro,4.7,Facebook,Sim,6.6,6.9,Neutro,False,False,4-6h,6-8h
+278,23,Masculino,Graduação,Reino Unido,3.9,Twitter,Não,7.3,7.0,Positivo,False,False,2-4h,6-8h
+622,22,Feminino,Graduação,Outro,6.6,YouTube,Sim,5.0,4.1,Negativo,True,False,6-8h,4-6h
+465,21,Masculino,Ensino Médio,Outro,5.9,Facebook,Sim,4.6,5.2,Negativo,True,True,4-6h,4-6h
+697,24,Feminino,Ensino Médio,Outro,3.8,Facebook,Sim,7.5,8.8,Positivo,False,False,2-4h,6-8h
+427,18,Feminino,Ensino Médio,EUA,7.2,YouTube,Sim,5.5,5.8,Negativo,True,False,6-8h,4-6h
+707,24,Feminino,Pós-graduação,Outro,7.5,YouTube,Não,4.9,4.9,Negativo,True,True,6-8h,4-6h
+526,18,Masculino,Ensino Médio,Outro,1.6,Snapchat,Não,8.4,7.7,Positivo,False,False,0-2h,8h+
+245,22,Masculino,Ensino Médio,Reino Unido,8.1,Snapchat,Sim,5.4,5.1,Negativo,True,False,8h+,4-6h
+228,18,Masculino,Graduação,Outro,7.1,Instagram,Sim,5.9,4.8,Negativo,True,False,6-8h,4-6h
+313,23,Masculino,Ensino Médio,Índia,2.7,Instagram,Não,8.8,8.4,Positivo,False,False,2-4h,8h+
+850,24,Masculino,Pós-graduação,Outro,5.8,Snapchat,Sim,4.8,4.9,Negativo,True,True,4-6h,4-6h
+455,21,Masculino,Ensino Médio,EUA,6.8,Facebook,Sim,5.7,5.6,Negativo,True,False,6-8h,4-6h
+668,24,Masculino,Graduação,Outro,7.4,Twitter,Sim,5.3,4.1,Negativo,True,False,6-8h,4-6h
+584,22,Feminino,Graduação,Canadá,4.1,YouTube,Sim,7.2,6.3,Neutro,False,False,4-6h,6-8h
+345,22,Masculino,Graduação,Outro,6.3,Snapchat,Sim,5.6,4.2,Negativo,True,False,6-8h,4-6h
+398,24,Masculino,Pós-graduação,Outro,7.5,Instagram,Sim,5.7,5.7,Negativo,True,False,6-8h,4-6h
+332,18,Feminino,Graduação,Outro,8.0,TikTok,Sim,4.8,5.3,Negativo,True,True,6-8h,4-6h
+254,19,Masculino,Pós-graduação,Índia,5.9,YouTube,Não,6.0,7.0,Neutro,True,False,4-6h,4-6h
+701,24,Masculino,Pós-graduação,EUA,4.4,TikTok,Não,6.3,6.2,Neutro,False,False,4-6h,6-8h
+896,24,Masculino,Ensino Médio,Outro,7.0,YouTube,Sim,5.6,5.7,Negativo,True,False,6-8h,4-6h
+344,21,Feminino,Pós-graduação,Outro,8.0,Twitter,Não,5.2,5.6,Negativo,True,False,6-8h,4-6h
+331,21,Masculino,Ensino Médio,Canadá,2.5,Instagram,Não,7.0,8.2,Positivo,False,False,2-4h,6-8h
+949,19,Feminino,Pós-graduação,Austrália,6.2,Facebook,Sim,5.2,5.9,Negativo,True,False,6-8h,4-6h
+262,21,Feminino,Ensino Médio,Outro,7.4,LinkedIn,Sim,4.6,5.4,Negativo,True,True,6-8h,4-6h
+755,20,Feminino,Ensino Médio,EUA,4.6,YouTube,Não,6.1,6.7,Neutro,False,False,4-6h,6-8h
+879,18,Masculino,Pós-graduação,Outro,6.3,Facebook,Sim,4.8,5.0,Negativo,True,True,6-8h,4-6h
+77,24,Feminino,Graduação,Alemanha,3.2,TikTok,Não,7.9,7.4,Positivo,False,False,2-4h,6-8h
+68,19,Feminino,Pós-graduação,Outro,5.4,LinkedIn,Não,7.1,6.5,Neutro,True,False,4-6h,6-8h
+807,24,Masculino,Graduação,Outro,2.5,LinkedIn,Não,7.9,8.8,Positivo,False,False,2-4h,6-8h
+74,21,Feminino,Pós-graduação,Outro,2.0,LinkedIn,Não,8.7,8.4,Positivo,False,False,0-2h,8h+
+326,23,Feminino,Graduação,Outro,2.8,Twitter,Não,8.5,8.3,Positivo,False,False,2-4h,8h+
+817,22,Feminino,Ensino Médio,Outro,5.2,TikTok,Sim,6.3,6.8,Neutro,True,False,4-6h,6-8h
+97,21,Masculino,Pós-graduação,Outro,5.2,YouTube,Não,6.7,6.8,Neutro,True,False,4-6h,6-8h
+560,21,Feminino,Ensino Médio,Outro,8.1,YouTube,Sim,5.6,4.5,Negativo,True,False,8h+,4-6h
+907,18,Masculino,Pós-graduação,Outro,2.8,Instagram,Não,7.3,8.2,Positivo,False,False,2-4h,6-8h
+292,19,Masculino,Ensino Médio,Outro,5.9,LinkedIn,Não,7.4,6.5,Neutro,True,False,4-6h,6-8h
+626,22,Masculino,Ensino Médio,Outro,1.6,TikTok,Não,7.7,7.8,Positivo,False,False,0-2h,6-8h
+265,18,Feminino,Ensino Médio,Outro,7.6,Snapchat,Sim,5.4,5.8,Negativo,True,False,6-8h,4-6h
+529,18,Feminino,Ensino Médio,EUA,1.9,YouTube,Não,7.9,7.2,Positivo,False,False,0-2h,6-8h
+507,18,Feminino,Ensino Médio,Outro,2.9,Snapchat,Não,8.2,7.4,Positivo,False,False,2-4h,8h+
+93,18,Feminino,Graduação,EUA,2.1,Instagram,Não,8.7,7.9,Positivo,False,False,2-4h,8h+
+42,18,Masculino,Ensino Médio,Outro,5.8,LinkedIn,Sim,5.9,5.5,Negativo,True,False,4-6h,4-6h
+816,18,Feminino,Ensino Médio,Reino Unido,3.6,Twitter,Sim,7.1,7.0,Neutro,False,False,2-4h,6-8h
+87,18,Masculino,Pós-graduação,EUA,3.9,YouTube,Sim,6.0,6.7,Neutro,False,False,2-4h,4-6h
+726,20,Masculino,Graduação,Outro,8.1,LinkedIn,Não,5.9,5.9,Negativo,True,False,8h+,4-6h
+637,20,Masculino,Ensino Médio,Outro,8.2,Twitter,Sim,5.2,5.4,Negativo,True,False,8h+,4-6h
+710,23,Masculino,Graduação,Canadá,6.0,Snapchat,Sim,6.5,6.1,Neutro,True,False,4-6h,6-8h
+75,19,Feminino,Pós-graduação,Outro,6.1,Facebook,Sim,4.6,4.3,Negativo,True,True,6-8h,4-6h
+354,22,Feminino,Ensino Médio,Outro,7.2,TikTok,Sim,4.5,5.9,Negativo,True,True,6-8h,4-6h
+340,21,Feminino,Pós-graduação,Outro,2.5,Facebook,Não,8.7,8.3,Positivo,False,False,2-4h,8h+
+145,19,Masculino,Graduação,Reino Unido,3.8,Snapchat,Sim,6.6,6.8,Neutro,False,False,2-4h,6-8h
+528,22,Masculino,Graduação,EUA,5.5,YouTube,Sim,5.2,4.6,Negativo,True,False,4-6h,4-6h
+49,20,Masculino,Pós-graduação,Índia,5.6,Snapchat,Sim,5.8,5.1,Negativo,True,False,4-6h,4-6h
+443,22,Feminino,Graduação,Outro,4.5,Snapchat,Sim,6.7,6.9,Neutro,False,False,4-6h,6-8h
+578,20,Masculino,Ensino Médio,Outro,2.8,LinkedIn,Não,8.5,8.7,Positivo,False,False,2-4h,8h+
+901,20,Feminino,Graduação,Outro,5.5,LinkedIn,Não,6.5,6.8,Neutro,True,False,4-6h,6-8h
+785,18,Feminino,Graduação,Outro,6.3,LinkedIn,Não,5.1,4.2,Negativo,True,False,6-8h,4-6h
+175,22,Masculino,Ensino Médio,Outro,4.0,YouTube,Não,8.5,8.5,Positivo,False,False,2-4h,8h+
+638,22,Feminino,Ensino Médio,Reino Unido,5.1,Facebook,Sim,7.1,6.1,Neutro,True,False,4-6h,6-8h
+516,20,Feminino,Graduação,Outro,4.9,Twitter,Não,6.0,7.0,Neutro,False,False,4-6h,4-6h
+180,24,Feminino,Graduação,Austrália,2.2,LinkedIn,Não,7.1,7.1,Positivo,False,False,2-4h,6-8h
+324,23,Feminino,Ensino Médio,Outro,4.0,Instagram,Sim,7.1,8.0,Positivo,False,False,2-4h,6-8h
+476,21,Feminino,Ensino Médio,Outro,5.1,LinkedIn,Não,6.9,6.0,Neutro,True,False,4-6h,6-8h
+86,22,Masculino,Ensino Médio,Outro,3.7,YouTube,Não,7.4,9.0,Positivo,False,False,2-4h,6-8h
+876,19,Masculino,Ensino Médio,Outro,4.4,TikTok,Não,7.0,6.2,Neutro,False,False,4-6h,6-8h
+805,20,Masculino,Graduação,EUA,7.7,TikTok,Sim,5.6,5.3,Negativo,True,False,6-8h,4-6h
+136,19,Masculino,Graduação,EUA,6.0,LinkedIn,Sim,5.5,4.7,Negativo,True,False,4-6h,4-6h
+806,22,Feminino,Pós-graduação,Outro,7.0,Instagram,Sim,5.8,4.3,Negativo,True,False,6-8h,4-6h
+955,19,Feminino,Graduação,Outro,5.2,Twitter,Não,6.8,6.2,Neutro,True,False,4-6h,6-8h
+966,18,Masculino,Ensino Médio,Outro,6.5,Snapchat,Não,5.4,4.1,Negativo,True,False,6-8h,4-6h
+319,20,Feminino,Pós-graduação,Outro,3.2,TikTok,Não,8.6,7.5,Positivo,False,False,2-4h,8h+
+749,23,Feminino,Pós-graduação,Outro,4.3,TikTok,Não,6.1,6.3,Neutro,False,False,4-6h,6-8h
+32,22,Masculino,Graduação,Austrália,6.2,YouTube,Não,5.5,4.8,Negativo,True,False,6-8h,4-6h
+569,20,Feminino,Pós-graduação,EUA,6.4,Facebook,Sim,5.5,5.7,Negativo,True,False,6-8h,4-6h
+25,24,Masculino,Pós-graduação,Índia,8.1,LinkedIn,Sim,5.1,5.1,Negativo,True,False,8h+,4-6h
+595,21,Masculino,Graduação,Outro,5.2,Facebook,Não,7.3,6.6,Neutro,True,False,4-6h,6-8h
+844,22,Masculino,Graduação,Outro,6.9,Snapchat,Sim,4.6,5.2,Negativo,True,True,6-8h,4-6h
+588,22,Masculino,Graduação,Outro,2.6,YouTube,Não,7.7,8.9,Positivo,False,False,2-4h,6-8h
+760,22,Feminino,Pós-graduação,Outro,1.6,LinkedIn,Sim,7.1,7.4,Positivo,False,False,0-2h,6-8h
+974,21,Masculino,Ensino Médio,Outro,3.8,Snapchat,Não,6.7,6.8,Neutro,False,False,2-4h,6-8h
+35,22,Feminino,Graduação,Outro,7.4,TikTok,Sim,5.2,5.1,Negativo,True,False,6-8h,4-6h
+607,20,Feminino,Graduação,Outro,6.4,TikTok,Não,5.8,4.1,Negativo,True,False,6-8h,4-6h
+229,19,Masculino,Graduação,EUA,5.1,Twitter,Não,7.3,6.6,Neutro,True,False,4-6h,6-8h
+62,18,Masculino,Pós-graduação,Reino Unido,6.3,Snapchat,Sim,5.8,5.6,Negativo,True,False,6-8h,4-6h
+545,23,Feminino,Pós-graduação,Reino Unido,5.7,Snapchat,Sim,5.5,4.5,Negativo,True,False,4-6h,4-6h
+508,24,Feminino,Pós-graduação,Outro,7.3,YouTube,Sim,5.6,5.0,Negativo,True,False,6-8h,4-6h
+499,19,Feminino,Pós-graduação,Outro,4.4,LinkedIn,Não,6.9,6.5,Neutro,False,False,4-6h,6-8h
+26,19,Masculino,Graduação,Outro,6.5,LinkedIn,Sim,5.4,5.8,Negativo,True,False,6-8h,4-6h
+114,23,Masculino,Ensino Médio,Outro,3.8,YouTube,Não,6.7,6.3,Neutro,False,False,2-4h,6-8h
+192,24,Masculino,Pós-graduação,Outro,4.8,YouTube,Não,6.7,6.1,Neutro,False,False,4-6h,6-8h
+449,18,Feminino,Graduação,Outro,2.5,LinkedIn,Não,7.3,7.3,Positivo,False,False,2-4h,6-8h
+657,18,Feminino,Pós-graduação,Outro,2.8,Twitter,Não,8.6,8.0,Positivo,False,False,2-4h,8h+
+263,21,Masculino,Pós-graduação,Austrália,7.2,TikTok,Sim,4.7,5.8,Negativo,True,True,6-8h,4-6h
+12,19,Feminino,Pós-graduação,Reino Unido,8.4,Snapchat,Sim,5.0,4.5,Negativo,True,False,8h+,4-6h
+522,20,Feminino,Ensino Médio,EUA,2.5,Facebook,Sim,8.0,9.0,Positivo,False,False,2-4h,6-8h
+82,19,Masculino,Ensino Médio,Outro,8.4,Snapchat,Sim,4.8,5.4,Negativo,True,True,8h+,4-6h
+893,21,Masculino,Ensino Médio,Índia,2.5,Snapchat,Não,7.4,8.0,Positivo,False,False,2-4h,6-8h
+984,22,Feminino,Ensino Médio,Alemanha,6.6,Snapchat,Sim,4.7,5.4,Negativo,True,True,6-8h,4-6h
+473,19,Feminino,Graduação,Outro,3.7,LinkedIn,Não,6.1,6.6,Neutro,False,False,2-4h,6-8h
+818,22,Feminino,Graduação,Outro,2.9,Facebook,Não,7.0,7.2,Positivo,False,False,2-4h,6-8h
+490,23,Masculino,Graduação,Outro,3.3,Instagram,Não,8.8,9.0,Positivo,False,False,2-4h,8h+
+973,24,Masculino,Pós-graduação,Outro,7.4,Twitter,Sim,5.6,5.1,Negativo,True,False,6-8h,4-6h
+799,22,Feminino,Graduação,Austrália,3.0,YouTube,Não,8.3,7.8,Positivo,False,False,2-4h,8h+
+71,22,Masculino,Graduação,Outro,6.8,Facebook,Sim,5.2,4.3,Negativo,True,False,6-8h,4-6h
+456,23,Feminino,Pós-graduação,Índia,2.6,Facebook,Sim,7.7,8.7,Positivo,False,False,2-4h,6-8h
+125,22,Masculino,Graduação,Outro,6.7,Facebook,Sim,5.1,4.7,Negativo,True,False,6-8h,4-6h
+821,23,Feminino,Ensino Médio,Outro,6.7,Instagram,Sim,5.8,5.5,Negativo,True,False,6-8h,4-6h
+162,21,Masculino,Graduação,Canadá,3.6,YouTube,Sim,6.2,6.1,Neutro,False,False,2-4h,6-8h
+308,23,Masculino,Ensino Médio,Austrália,3.4,YouTube,Não,8.7,7.8,Positivo,False,False,2-4h,8h+
+361,20,Masculino,Graduação,Outro,6.8,YouTube,Sim,6.0,5.1,Negativo,True,False,6-8h,4-6h
+910,18,Masculino,Graduação,Outro,2.4,Twitter,Sim,7.3,8.4,Positivo,False,False,2-4h,6-8h
+148,18,Masculino,Ensino Médio,Outro,6.0,Snapchat,Sim,5.0,5.5,Negativo,True,False,4-6h,4-6h
+939,23,Feminino,Pós-graduação,Outro,7.4,Instagram,Sim,4.6,4.3,Negativo,True,True,6-8h,4-6h
+930,23,Feminino,Graduação,Outro,4.5,Twitter,Sim,6.9,6.1,Neutro,False,False,4-6h,6-8h
+714,23,Masculino,Pós-graduação,Outro,6.6,TikTok,Não,5.6,5.0,Negativo,True,False,6-8h,4-6h
+234,19,Masculino,Ensino Médio,Índia,3.6,Facebook,Não,8.8,7.9,Positivo,False,False,2-4h,8h+
+21,20,Masculino,Pós-graduação,Outro,2.0,LinkedIn,Não,7.6,7.6,Positivo,False,False,0-2h,6-8h
+492,21,Feminino,Graduação,Índia,3.9,Facebook,Não,7.8,7.1,Positivo,False,False,2-4h,6-8h
+650,20,Masculino,Ensino Médio,Outro,5.5,Instagram,Não,6.7,6.8,Neutro,True,False,4-6h,6-8h
+993,18,Masculino,Ensino Médio,Outro,6.7,Instagram,Não,4.8,5.8,Negativo,True,True,6-8h,4-6h
+543,21,Masculino,Graduação,Outro,8.2,Snapchat,Não,4.9,5.6,Negativo,True,True,8h+,4-6h
+200,21,Feminino,Ensino Médio,Outro,5.8,TikTok,Sim,5.6,6.0,Negativo,True,False,4-6h,4-6h
+968,18,Feminino,Ensino Médio,Outro,5.9,Snapchat,Sim,4.6,5.6,Negativo,True,True,4-6h,4-6h
+128,18,Masculino,Graduação,EUA,7.2,Instagram,Sim,5.9,4.4,Negativo,True,False,6-8h,4-6h
+236,24,Masculino,Pós-graduação,Outro,6.5,Instagram,Não,5.3,4.8,Negativo,True,False,6-8h,4-6h
+822,19,Feminino,Graduação,EUA,2.9,LinkedIn,Não,8.9,7.4,Positivo,False,False,2-4h,8h+
+740,24,Masculino,Graduação,Outro,6.3,TikTok,Sim,5.7,5.6,Negativo,True,False,6-8h,4-6h
+653,18,Masculino,Ensino Médio,Austrália,4.4,Twitter,Sim,6.1,6.5,Neutro,False,False,4-6h,6-8h
+999,21,Feminino,Graduação,Outro,7.1,TikTok,Sim,5.5,4.8,Negativo,True,False,6-8h,4-6h
+772,20,Feminino,Ensino Médio,Reino Unido,3.8,TikTok,Não,7.2,8.1,Positivo,False,False,2-4h,6-8h
+590,22,Feminino,Graduação,Outro,7.9,Instagram,Sim,5.4,4.7,Negativo,True,False,6-8h,4-6h
+505,19,Feminino,Ensino Médio,Outro,5.6,LinkedIn,Sim,6.3,6.4,Neutro,True,False,4-6h,6-8h
+642,20,Feminino,Ensino Médio,Outro,6.3,YouTube,Sim,5.2,4.6,Negativo,True,False,6-8h,4-6h
+88,21,Masculino,Graduação,Outro,3.2,TikTok,Não,7.1,7.1,Positivo,False,False,2-4h,6-8h
+811,20,Masculino,Graduação,Outro,2.0,Snapchat,Sim,7.1,9.0,Positivo,False,False,0-2h,6-8h
+276,23,Masculino,Graduação,Austrália,7.6,Snapchat,Sim,5.9,4.1,Negativo,True,False,6-8h,4-6h
+898,23,Feminino,Pós-graduação,Outro,7.4,YouTube,Sim,5.7,4.2,Negativo,True,False,6-8h,4-6h
+279,21,Masculino,Graduação,Outro,5.6,YouTube,Sim,4.9,5.5,Negativo,True,True,4-6h,4-6h
+804,19,Feminino,Ensino Médio,Outro,4.6,LinkedIn,Sim,7.2,6.5,Neutro,False,False,4-6h,6-8h
+154,19,Feminino,Pós-graduação,EUA,6.1,Facebook,Sim,4.8,4.2,Negativo,True,True,6-8h,4-6h
+273,20,Feminino,Graduação,Outro,4.2,Snapchat,Não,6.2,6.7,Neutro,False,False,4-6h,6-8h
+832,22,Feminino,Graduação,Outro,3.7,LinkedIn,Não,6.2,6.9,Neutro,False,False,2-4h,6-8h
+651,23,Masculino,Graduação,Outro,6.1,LinkedIn,Não,5.6,4.5,Negativo,True,False,6-8h,4-6h
+466,19,Feminino,Pós-graduação,EUA,6.1,TikTok,Sim,5.5,5.6,Negativo,True,False,6-8h,4-6h
+849,20,Masculino,Ensino Médio,EUA,2.7,LinkedIn,Não,7.6,8.9,Positivo,False,False,2-4h,6-8h
+665,20,Masculino,Graduação,Outro,6.0,Snapchat,Não,5.8,4.9,Negativo,True,False,4-6h,4-6h
+212,23,Masculino,Pós-graduação,Outro,6.4,TikTok,Sim,5.4,4.6,Negativo,True,False,6-8h,4-6h
+498,21,Masculino,Pós-graduação,Reino Unido,5.7,YouTube,Sim,5.3,5.8,Negativo,True,False,4-6h,4-6h
+249,20,Masculino,Ensino Médio,Outro,7.0,Instagram,Sim,5.3,5.1,Negativo,True,False,6-8h,4-6h
+196,23,Feminino,Pós-graduação,Outro,7.7,Facebook,Sim,5.7,4.6,Negativo,True,False,6-8h,4-6h
+435,19,Masculino,Pós-graduação,Outro,6.3,TikTok,Sim,4.8,4.0,Negativo,True,True,6-8h,4-6h
+336,20,Feminino,Graduação,Outro,5.7,Twitter,Sim,5.2,5.5,Negativo,True,False,4-6h,4-6h
+482,18,Masculino,Graduação,Outro,8.2,LinkedIn,Sim,5.2,4.6,Negativo,True,False,8h+,4-6h
+194,19,Feminino,Graduação,Outro,6.4,Twitter,Sim,5.5,4.4,Negativo,True,False,6-8h,4-6h
+690,22,Masculino,Ensino Médio,Índia,6.6,TikTok,Sim,4.7,4.3,Negativo,True,True,6-8h,4-6h
+514,18,Feminino,Graduação,Outro,6.0,LinkedIn,Sim,4.6,5.4,Negativo,True,True,4-6h,4-6h
+779,21,Feminino,Ensino Médio,Alemanha,5.9,LinkedIn,Sim,5.1,5.9,Negativo,True,False,4-6h,4-6h
+716,23,Feminino,Graduação,Austrália,7.4,LinkedIn,Não,5.1,4.3,Negativo,True,False,6-8h,4-6h
+661,19,Masculino,Pós-graduação,Outro,5.8,Snapchat,Sim,5.6,4.5,Negativo,True,False,4-6h,4-6h
+470,21,Feminino,Ensino Médio,Outro,5.8,Instagram,Sim,6.0,4.4,Negativo,True,False,4-6h,4-6h
+553,21,Masculino,Ensino Médio,Outro,1.8,LinkedIn,Não,9.0,8.2,Positivo,False,False,0-2h,8h+
+877,18,Masculino,Pós-graduação,Outro,6.5,Snapchat,Não,5.4,4.1,Negativo,True,False,6-8h,4-6h
+797,23,Masculino,Graduação,Outro,3.8,Instagram,Sim,6.5,6.6,Neutro,False,False,2-4h,6-8h
+264,18,Masculino,Ensino Médio,Outro,8.0,TikTok,Sim,5.6,4.5,Negativo,True,False,6-8h,4-6h
+835,19,Masculino,Graduação,Índia,7.7,Twitter,Sim,5.5,4.7,Negativo,True,False,6-8h,4-6h
+61,19,Masculino,Graduação,Outro,8.1,Snapchat,Sim,5.2,5.0,Negativo,True,False,8h+,4-6h
+675,22,Masculino,Graduação,Outro,6.2,TikTok,Não,5.2,5.8,Negativo,True,False,6-8h,4-6h
+191,18,Feminino,Graduação,Outro,4.9,Facebook,Não,7.1,6.6,Neutro,False,False,4-6h,6-8h
+269,23,Masculino,Ensino Médio,Outro,3.9,YouTube,Não,8.5,8.9,Positivo,False,False,2-4h,8h+
+394,21,Masculino,Graduação,Outro,6.6,Twitter,Não,5.0,6.0,Negativo,True,False,6-8h,4-6h
+320,22,Masculino,Ensino Médio,Outro,6.2,Instagram,Não,4.7,4.4,Negativo,True,True,6-8h,4-6h
+924,24,Masculino,Pós-graduação,Reino Unido,2.4,Facebook,Não,7.5,7.1,Positivo,False,False,2-4h,6-8h
+544,19,Masculino,Graduação,Outro,3.6,Instagram,Sim,8.7,8.5,Positivo,False,False,2-4h,8h+
+8,18,Masculino,Ensino Médio,Outro,2.8,Instagram,Sim,8.8,8.6,Positivo,False,False,2-4h,8h+
+411,23,Masculino,Ensino Médio,Outro,1.6,YouTube,Não,7.1,8.1,Positivo,False,False,0-2h,6-8h
+91,22,Masculino,Ensino Médio,EUA,7.3,Facebook,Sim,5.9,4.4,Negativo,True,False,6-8h,4-6h
+221,18,Feminino,Ensino Médio,Canadá,6.8,YouTube,Sim,5.2,5.2,Negativo,True,False,6-8h,4-6h
+197,22,Masculino,Graduação,Outro,7.7,Facebook,Sim,5.0,6.0,Negativo,True,False,6-8h,4-6h
+912,23,Feminino,Pós-graduação,Alemanha,5.5,LinkedIn,Não,7.3,6.9,Neutro,True,False,4-6h,6-8h
+438,22,Masculino,Ensino Médio,Outro,6.2,TikTok,Não,5.5,5.9,Negativo,True,False,6-8h,4-6h
+885,24,Feminino,Pós-graduação,Outro,4.6,LinkedIn,Sim,6.8,6.4,Neutro,False,False,4-6h,6-8h
+589,20,Masculino,Pós-graduação,Outro,7.2,Facebook,Sim,5.6,5.6,Negativo,True,False,6-8h,4-6h
+362,24,Masculino,Pós-graduação,Outro,3.3,TikTok,Sim,7.7,7.7,Positivo,False,False,2-4h,6-8h
+297,23,Masculino,Pós-graduação,Outro,5.4,YouTube,Sim,6.6,6.4,Neutro,True,False,4-6h,6-8h
+501,23,Feminino,Graduação,Outro,3.2,TikTok,Não,7.6,9.0,Positivo,False,False,2-4h,6-8h
+841,18,Feminino,Pós-graduação,Outro,3.7,Snapchat,Não,7.9,7.3,Positivo,False,False,2-4h,6-8h
+954,19,Feminino,Ensino Médio,Outro,6.3,Snapchat,Sim,5.7,5.4,Negativo,True,False,6-8h,4-6h
+989,21,Feminino,Graduação,Austrália,7.5,YouTube,Sim,5.0,4.8,Negativo,True,False,6-8h,4-6h
+775,23,Feminino,Pós-graduação,Outro,6.0,Facebook,Sim,6.0,5.7,Negativo,True,False,4-6h,4-6h
+299,20,Masculino,Ensino Médio,Índia,8.2,TikTok,Não,5.8,5.9,Negativo,True,False,8h+,4-6h
+122,18,Feminino,Ensino Médio,Outro,6.1,YouTube,Sim,5.5,4.5,Negativo,True,False,6-8h,4-6h
+763,19,Feminino,Pós-graduação,Outro,8.2,Instagram,Sim,4.5,5.8,Negativo,True,True,8h+,4-6h
+259,24,Masculino,Pós-graduação,Outro,5.3,LinkedIn,Não,7.0,6.2,Neutro,True,False,4-6h,6-8h
+857,22,Masculino,Graduação,Outro,5.8,YouTube,Sim,7.2,6.0,Neutro,True,False,4-6h,6-8h
+115,22,Feminino,Graduação,EUA,7.2,YouTube,Sim,4.6,5.4,Negativo,True,True,6-8h,4-6h
+734,23,Masculino,Graduação,Reino Unido,4.0,Snapchat,Não,7.2,6.2,Neutro,False,False,2-4h,6-8h
+293,20,Feminino,Graduação,Outro,3.3,LinkedIn,Não,7.5,8.3,Positivo,False,False,2-4h,6-8h
+938,22,Masculino,Ensino Médio,Índia,6.1,Snapchat,Sim,4.5,5.8,Negativo,True,True,6-8h,4-6h
+211,18,Feminino,Ensino Médio,Índia,6.8,Facebook,Não,4.8,4.2,Negativo,True,True,6-8h,4-6h
+410,24,Masculino,Graduação,Outro,3.4,Snapchat,Não,7.1,8.3,Positivo,False,False,2-4h,6-8h
+541,24,Feminino,Ensino Médio,Outro,7.7,Instagram,Sim,4.8,4.8,Negativo,True,True,6-8h,4-6h
+670,23,Feminino,Ensino Médio,Outro,7.6,Instagram,Sim,4.7,5.6,Negativo,True,True,6-8h,4-6h
+510,24,Feminino,Pós-graduação,Índia,4.7,Snapchat,Não,6.6,6.8,Neutro,False,False,4-6h,6-8h
+978,20,Masculino,Pós-graduação,Outro,4.9,Facebook,Sim,7.4,6.1,Neutro,False,False,4-6h,6-8h
+133,23,Masculino,Graduação,Outro,8.0,LinkedIn,Sim,4.9,5.9,Negativo,True,True,6-8h,4-6h
+812,24,Masculino,Pós-graduação,Outro,7.2,YouTube,Não,5.9,5.9,Negativo,True,False,6-8h,4-6h
+605,22,Feminino,Ensino Médio,EUA,1.7,LinkedIn,Não,7.9,8.3,Positivo,False,False,0-2h,6-8h
+640,24,Feminino,Ensino Médio,Outro,4.6,TikTok,Não,6.8,6.5,Neutro,False,False,4-6h,6-8h
+836,18,Masculino,Ensino Médio,Austrália,4.4,Facebook,Sim,6.5,6.5,Neutro,False,False,4-6h,6-8h
+423,24,Feminino,Ensino Médio,Outro,3.7,TikTok,Não,8.8,8.8,Positivo,False,False,2-4h,8h+
+945,18,Feminino,Ensino Médio,Outro,1.8,YouTube,Não,7.9,8.0,Positivo,False,False,0-2h,6-8h
+536,23,Feminino,Ensino Médio,EUA,7.7,YouTube,Não,4.9,5.8,Negativo,True,True,6-8h,4-6h
+733,18,Masculino,Pós-graduação,EUA,4.5,Facebook,Sim,7.2,6.5,Neutro,False,False,4-6h,6-8h
+484,22,Masculino,Ensino Médio,Austrália,8.1,Facebook,Sim,5.2,5.5,Negativo,True,False,8h+,4-6h
+711,23,Masculino,Graduação,Outro,3.5,YouTube,Não,7.8,7.2,Positivo,False,False,2-4h,6-8h
+190,21,Feminino,Graduação,Canadá,3.4,Instagram,Não,7.0,7.3,Positivo,False,False,2-4h,6-8h
+762,20,Masculino,Ensino Médio,Outro,4.0,TikTok,Sim,7.1,7.3,Positivo,False,False,2-4h,6-8h
+683,24,Masculino,Pós-graduação,Outro,3.8,TikTok,Sim,6.0,6.1,Neutro,False,False,2-4h,4-6h
+478,23,Masculino,Pós-graduação,Índia,3.8,Twitter,Sim,6.6,6.7,Neutro,False,False,2-4h,6-8h
+942,18,Masculino,Graduação,Outro,5.6,Twitter,Não,6.9,6.0,Neutro,True,False,4-6h,6-8h
+860,23,Feminino,Graduação,Austrália,4.3,Instagram,Não,6.4,6.5,Neutro,False,False,4-6h,6-8h
+95,22,Feminino,Graduação,Reino Unido,4.1,Snapchat,Não,6.1,6.2,Neutro,False,False,4-6h,6-8h
+450,21,Feminino,Graduação,Índia,2.5,YouTube,Não,7.2,7.0,Positivo,False,False,2-4h,6-8h
+208,23,Masculino,Ensino Médio,Índia,4.5,LinkedIn,Sim,6.2,6.4,Neutro,False,False,4-6h,6-8h
+255,22,Feminino,Ensino Médio,Outro,7.7,Facebook,Não,5.8,5.5,Negativo,True,False,6-8h,4-6h
+944,24,Masculino,Pós-graduação,EUA,5.2,Facebook,Sim,7.3,6.1,Neutro,True,False,4-6h,6-8h
+643,22,Feminino,Ensino Médio,Austrália,8.0,Facebook,Sim,5.1,4.9,Negativo,True,False,6-8h,4-6h
+550,23,Masculino,Graduação,Outro,6.9,Snapchat,Sim,5.7,5.7,Negativo,True,False,6-8h,4-6h
+367,20,Masculino,Ensino Médio,Canadá,4.3,LinkedIn,Não,6.6,6.7,Neutro,False,False,4-6h,6-8h
+463,20,Masculino,Ensino Médio,Outro,3.5,YouTube,Não,8.3,8.2,Positivo,False,False,2-4h,8h+
+666,21,Masculino,Graduação,Reino Unido,7.6,LinkedIn,Sim,6.0,4.5,Negativo,True,False,6-8h,4-6h
+659,19,Feminino,Pós-graduação,Outro,6.1,LinkedIn,Sim,5.8,4.1,Negativo,True,False,6-8h,4-6h
+676,19,Masculino,Pós-graduação,Outro,7.0,YouTube,Sim,5.4,5.9,Negativo,True,False,6-8h,4-6h
+770,18,Masculino,Graduação,Outro,6.0,YouTube,Sim,5.9,4.1,Negativo,True,False,4-6h,4-6h
+669,24,Masculino,Ensino Médio,Outro,7.0,LinkedIn,Sim,5.0,4.5,Negativo,True,False,6-8h,4-6h
+403,23,Feminino,Pós-graduação,Outro,2.7,Instagram,Não,7.8,8.8,Positivo,False,False,2-4h,6-8h
+311,21,Masculino,Ensino Médio,EUA,3.9,Snapchat,Não,7.1,7.5,Positivo,False,False,2-4h,6-8h
+494,19,Feminino,Pós-graduação,Outro,5.5,Twitter,Sim,5.4,5.2,Negativo,True,False,4-6h,4-6h
+172,22,Masculino,Pós-graduação,Outro,1.9,Facebook,Não,8.4,8.5,Positivo,False,False,0-2h,8h+
+158,23,Feminino,Graduação,Outro,1.8,LinkedIn,Não,8.2,7.2,Positivo,False,False,0-2h,8h+
+685,23,Masculino,Ensino Médio,Outro,4.9,Facebook,Sim,6.3,6.1,Neutro,False,False,4-6h,6-8h
+748,20,Masculino,Graduação,Reino Unido,4.3,LinkedIn,Sim,6.2,6.2,Neutro,False,False,4-6h,6-8h
+440,19,Feminino,Ensino Médio,Outro,2.9,YouTube,Sim,7.1,8.8,Positivo,False,False,2-4h,6-8h
+497,22,Feminino,Pós-graduação,Alemanha,7.2,Facebook,Sim,5.4,5.7,Negativo,True,False,6-8h,4-6h
+433,22,Masculino,Graduação,Outro,7.9,LinkedIn,Sim,4.7,4.1,Negativo,True,True,6-8h,4-6h
+105,19,Feminino,Graduação,Alemanha,2.5,Instagram,Não,8.3,7.2,Positivo,False,False,2-4h,8h+
+694,21,Feminino,Pós-graduação,Outro,3.8,LinkedIn,Não,7.4,7.3,Positivo,False,False,2-4h,6-8h
+266,20,Feminino,Graduação,Outro,5.8,Snapchat,Sim,7.2,6.1,Neutro,True,False,4-6h,6-8h
+240,20,Masculino,Graduação,Outro,5.9,Facebook,Sim,5.8,4.7,Negativo,True,False,4-6h,4-6h
+151,22,Masculino,Ensino Médio,Outro,2.6,Instagram,Não,7.5,8.8,Positivo,False,False,2-4h,6-8h
+280,18,Feminino,Pós-graduação,Outro,5.2,Twitter,Sim,6.8,6.9,Neutro,True,False,4-6h,6-8h
+964,21,Masculino,Ensino Médio,Outro,1.7,Snapchat,Não,8.5,7.7,Positivo,False,False,0-2h,8h+
+719,20,Masculino,Pós-graduação,Austrália,2.8,Twitter,Não,7.0,7.8,Positivo,False,False,2-4h,6-8h
+445,19,Masculino,Pós-graduação,Outro,3.8,Facebook,Não,7.4,8.8,Positivo,False,False,2-4h,6-8h
+29,24,Masculino,Ensino Médio,Outro,5.1,LinkedIn,Sim,6.5,6.8,Neutro,True,False,4-6h,6-8h
+205,23,Masculino,Pós-graduação,Índia,3.7,Instagram,Sim,6.5,6.9,Neutro,False,False,2-4h,6-8h
+976,23,Feminino,Graduação,Índia,1.5,Snapchat,Não,7.2,7.7,Positivo,False,False,0-2h,6-8h
+531,18,Feminino,Pós-graduação,Reino Unido,3.5,Facebook,Não,7.9,8.5,Positivo,False,False,2-4h,6-8h
+439,23,Masculino,Pós-graduação,Outro,3.8,Facebook,Não,6.5,6.4,Neutro,False,False,2-4h,6-8h
+673,21,Feminino,Graduação,Outro,4.1,YouTube,Não,6.2,6.6,Neutro,False,False,4-6h,6-8h
+902,21,Feminino,Ensino Médio,Outro,5.4,Snapchat,Sim,6.3,6.5,Neutro,True,False,4-6h,6-8h
+591,21,Feminino,Pós-graduação,Outro,6.7,YouTube,Sim,5.5,4.9,Negativo,True,False,6-8h,4-6h
+888,21,Masculino,Ensino Médio,Outro,7.4,Facebook,Sim,5.3,5.5,Negativo,True,False,6-8h,4-6h
+621,24,Masculino,Graduação,Índia,3.8,Facebook,Não,6.3,6.8,Neutro,False,False,2-4h,6-8h
+471,19,Masculino,Pós-graduação,Outro,7.4,LinkedIn,Sim,5.7,5.7,Negativo,True,False,6-8h,4-6h
+709,22,Feminino,Graduação,Outro,2.0,LinkedIn,Não,7.5,8.3,Positivo,False,False,0-2h,6-8h
+356,22,Masculino,Pós-graduação,Outro,7.3,Facebook,Sim,5.8,5.3,Negativo,True,False,6-8h,4-6h
+142,24,Feminino,Ensino Médio,Canadá,5.8,Facebook,Sim,5.5,4.1,Negativo,True,False,4-6h,4-6h
+468,22,Feminino,Graduação,Canadá,7.2,Snapchat,Sim,5.1,4.6,Negativo,True,False,6-8h,4-6h
+943,24,Feminino,Pós-graduação,Outro,3.6,LinkedIn,Não,8.4,7.6,Positivo,False,False,2-4h,8h+
+680,21,Feminino,Ensino Médio,Outro,7.6,TikTok,Sim,5.2,4.1,Negativo,True,False,6-8h,4-6h
+623,22,Feminino,Graduação,Outro,3.8,TikTok,Não,7.4,6.8,Neutro,False,False,2-4h,6-8h
+757,21,Masculino,Graduação,Outro,6.1,Twitter,Sim,5.8,4.4,Negativo,True,False,6-8h,4-6h
+667,20,Feminino,Pós-graduação,Reino Unido,2.9,TikTok,Não,7.5,7.9,Positivo,False,False,2-4h,6-8h
+882,24,Feminino,Ensino Médio,Outro,3.7,Instagram,Sim,8.8,9.0,Positivo,False,False,2-4h,8h+
+641,21,Feminino,Graduação,Austrália,7.0,Facebook,Sim,5.9,4.1,Negativo,True,False,6-8h,4-6h
+67,22,Feminino,Graduação,Outro,3.9,Instagram,Não,7.7,8.3,Positivo,False,False,2-4h,6-8h
+36,19,Masculino,Ensino Médio,Outro,6.0,YouTube,Sim,5.6,4.2,Negativo,True,False,4-6h,4-6h
+81,18,Masculino,Graduação,Outro,2.3,TikTok,Não,8.0,7.2,Positivo,False,False,2-4h,6-8h
+51,22,Feminino,Graduação,Outro,2.3,TikTok,Sim,8.0,8.5,Positivo,False,False,2-4h,6-8h
+887,19,Masculino,Ensino Médio,Índia,3.5,Twitter,Sim,6.0,7.0,Neutro,False,False,2-4h,4-6h
+916,22,Masculino,Ensino Médio,Outro,7.8,Instagram,Não,6.0,5.3,Negativo,True,False,6-8h,4-6h
+886,19,Masculino,Graduação,Reino Unido,7.4,Instagram,Sim,5.2,4.7,Negativo,True,False,6-8h,4-6h
+416,20,Feminino,Graduação,Alemanha,3.2,LinkedIn,Não,8.9,7.5,Positivo,False,False,2-4h,8h+
+351,23,Masculino,Pós-graduação,Austrália,5.8,Twitter,Sim,4.8,5.0,Negativo,True,True,4-6h,4-6h
+396,21,Feminino,Graduação,Outro,6.9,Instagram,Sim,5.7,4.6,Negativo,True,False,6-8h,4-6h
+839,22,Masculino,Ensino Médio,Outro,2.6,Twitter,Não,8.2,7.2,Positivo,False,False,2-4h,8h+
+481,20,Masculino,Graduação,Outro,2.3,YouTube,Não,7.2,7.4,Positivo,False,False,2-4h,6-8h
+988,23,Masculino,Pós-graduação,EUA,5.5,Instagram,Sim,5.9,4.3,Negativo,True,False,4-6h,4-6h
+756,24,Masculino,Pós-graduação,Austrália,4.0,Snapchat,Não,8.6,8.6,Positivo,False,False,2-4h,8h+
+349,19,Masculino,Graduação,Outro,6.2,LinkedIn,Não,4.7,4.3,Negativo,True,True,6-8h,4-6h
+963,18,Masculino,Pós-graduação,Outro,4.7,Snapchat,Não,6.1,6.6,Neutro,False,False,4-6h,6-8h
+429,20,Feminino,Pós-graduação,Reino Unido,3.7,YouTube,Não,8.6,8.4,Positivo,False,False,2-4h,8h+
+855,19,Feminino,Graduação,Outro,6.0,LinkedIn,Não,6.0,5.8,Negativo,True,False,4-6h,4-6h
+538,24,Masculino,Pós-graduação,Outro,7.8,TikTok,Sim,5.0,4.8,Negativo,True,False,6-8h,4-6h
+413,20,Masculino,Pós-graduação,EUA,3.9,Instagram,Não,6.6,6.8,Neutro,False,False,2-4h,6-8h
+713,19,Feminino,Graduação,Outro,7.2,YouTube,Sim,5.9,5.0,Negativo,True,False,6-8h,4-6h
+96,21,Feminino,Ensino Médio,Outro,6.2,Twitter,Não,5.4,5.4,Negativo,True,False,6-8h,4-6h
+561,21,Feminino,Graduação,Canadá,7.7,Twitter,Sim,5.6,4.5,Negativo,True,False,6-8h,4-6h
+1,22,Masculino,Ensino Médio,EUA,4.0,Twitter,Não,7.6,8.6,Positivo,False,False,2-4h,6-8h
+647,22,Feminino,Graduação,EUA,4.2,LinkedIn,Não,6.8,6.5,Neutro,False,False,4-6h,6-8h
+769,24,Feminino,Pós-graduação,EUA,3.9,LinkedIn,Não,7.2,6.7,Neutro,False,False,2-4h,6-8h
+527,21,Masculino,Ensino Médio,Reino Unido,4.7,TikTok,Sim,6.2,6.3,Neutro,False,False,4-6h,6-8h
+195,23,Masculino,Ensino Médio,Índia,7.3,Snapchat,Não,5.0,5.8,Negativo,True,False,6-8h,4-6h
+139,23,Feminino,Ensino Médio,Índia,6.4,TikTok,Não,5.3,4.9,Negativo,True,False,6-8h,4-6h
+38,20,Feminino,Pós-graduação,Outro,3.3,YouTube,Não,7.4,7.1,Positivo,False,False,2-4h,6-8h
+696,19,Feminino,Pós-graduação,Outro,6.7,Twitter,Sim,6.0,4.6,Negativo,True,False,6-8h,4-6h
+235,21,Masculino,Ensino Médio,Outro,7.6,Facebook,Sim,5.1,4.3,Negativo,True,False,6-8h,4-6h
+464,23,Masculino,Ensino Médio,Outro,4.5,Instagram,Sim,6.6,6.3,Neutro,False,False,4-6h,6-8h
+303,19,Masculino,Pós-graduação,Outro,3.0,YouTube,Não,7.1,8.3,Positivo,False,False,2-4h,6-8h
+604,21,Feminino,Ensino Médio,Outro,6.2,Facebook,Não,5.1,4.6,Negativo,True,False,6-8h,4-6h
+727,18,Feminino,Ensino Médio,Outro,6.6,Instagram,Sim,5.4,5.4,Negativo,True,False,6-8h,4-6h
+503,23,Masculino,Pós-graduação,Outro,8.4,Twitter,Sim,4.6,5.6,Negativo,True,True,8h+,4-6h
+409,23,Feminino,Graduação,Reino Unido,7.0,Snapchat,Sim,5.6,5.9,Negativo,True,False,6-8h,4-6h
+848,23,Feminino,Ensino Médio,EUA,7.9,Snapchat,Sim,5.8,5.1,Negativo,True,False,6-8h,4-6h
+600,24,Feminino,Pós-graduação,Outro,3.6,Facebook,Não,8.4,8.9,Positivo,False,False,2-4h,8h+
+861,24,Masculino,Graduação,Canadá,5.5,Snapchat,Sim,4.6,5.1,Negativo,True,True,4-6h,4-6h
+243,21,Masculino,Pós-graduação,Outro,2.0,Instagram,Não,7.1,7.7,Positivo,False,False,0-2h,6-8h
+705,19,Masculino,Ensino Médio,Austrália,5.8,Facebook,Sim,7.4,6.2,Neutro,True,False,4-6h,6-8h
+940,18,Feminino,Pós-graduação,Outro,6.3,YouTube,Sim,5.5,4.2,Negativo,True,False,6-8h,4-6h
+127,19,Masculino,Graduação,Outro,3.2,LinkedIn,Não,9.0,8.3,Positivo,False,False,2-4h,8h+
+333,24,Feminino,Ensino Médio,Outro,1.7,YouTube,Não,8.5,8.8,Positivo,False,False,0-2h,8h+
+55,18,Feminino,Pós-graduação,Outro,7.0,Snapchat,Sim,4.8,4.4,Negativo,True,True,6-8h,4-6h
+339,22,Masculino,Graduação,Outro,4.8,Snapchat,Não,6.4,6.4,Neutro,False,False,4-6h,6-8h
+307,24,Feminino,Graduação,Outro,6.4,Facebook,Não,5.0,4.5,Negativo,True,False,6-8h,4-6h
+609,23,Masculino,Graduação,Índia,1.8,TikTok,Sim,8.7,7.5,Positivo,False,False,0-2h,8h+
+996,18,Masculino,Pós-graduação,Outro,7.0,Twitter,Sim,5.1,4.8,Negativo,True,False,6-8h,4-6h
+820,22,Masculino,Ensino Médio,Outro,2.6,YouTube,Não,7.7,8.4,Positivo,False,False,2-4h,6-8h
+533,21,Feminino,Ensino Médio,Outro,1.7,Twitter,Não,7.3,8.0,Positivo,False,False,0-2h,6-8h
+911,20,Masculino,Pós-graduação,Outro,5.0,Instagram,Não,7.0,6.8,Neutro,False,False,4-6h,6-8h
+972,23,Masculino,Graduação,Outro,6.0,Instagram,Sim,5.4,5.1,Negativo,True,False,4-6h,4-6h
+905,19,Feminino,Graduação,Outro,8.3,YouTube,Não,5.9,4.7,Negativo,True,False,8h+,4-6h
+870,21,Masculino,Ensino Médio,Outro,3.7,LinkedIn,Não,7.0,8.5,Positivo,False,False,2-4h,6-8h
+381,18,Feminino,Pós-graduação,Outro,8.4,Snapchat,Sim,5.5,5.6,Negativo,True,False,8h+,4-6h
+359,19,Feminino,Graduação,Outro,5.5,Twitter,Não,5.1,5.3,Negativo,True,False,4-6h,4-6h
+284,21,Masculino,Pós-graduação,Outro,8.0,YouTube,Sim,5.0,4.6,Negativo,True,False,6-8h,4-6h
+547,22,Masculino,Graduação,Austrália,2.2,YouTube,Não,8.6,8.6,Positivo,False,False,2-4h,8h+
+502,22,Feminino,Graduação,Outro,7.2,Twitter,Sim,5.9,5.3,Negativo,True,False,6-8h,4-6h
+173,18,Masculino,Pós-graduação,Outro,5.9,Instagram,Sim,5.6,4.5,Negativo,True,False,4-6h,4-6h
+884,24,Masculino,Graduação,Outro,7.0,Instagram,Sim,5.8,5.1,Negativo,True,False,6-8h,4-6h
+163,18,Feminino,Pós-graduação,Alemanha,1.9,YouTube,Não,7.7,7.8,Positivo,False,False,0-2h,6-8h
+759,20,Masculino,Pós-graduação,Outro,6.0,YouTube,Sim,5.3,5.0,Negativo,True,False,4-6h,4-6h
+923,18,Masculino,Ensino Médio,Índia,5.3,Snapchat,Não,6.3,6.6,Neutro,True,False,4-6h,6-8h
+241,18,Masculino,Graduação,Outro,7.1,Snapchat,Não,4.6,5.2,Negativo,True,True,6-8h,4-6h
+880,22,Feminino,Pós-graduação,Outro,6.2,YouTube,Sim,5.6,4.6,Negativo,True,False,6-8h,4-6h
+1,19,Feminino,Graduação,Bangladesh,5.2,Instagram,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+2,22,Masculino,Pós-graduação,Índia,2.1,Twitter,Não,7.5,8.0,Neutro,False,False,2-4h,6-8h
+3,20,Feminino,Graduação,EUA,6.0,TikTok,Sim,5.0,5.0,Negativo,True,False,4-6h,4-6h
+4,18,Masculino,Ensino Médio,Reino Unido,3.0,YouTube,Não,7.0,7.0,Positivo,False,False,2-4h,6-8h
+5,21,Masculino,Pós-graduação,Canadá,4.5,Facebook,Sim,6.0,6.0,Negativo,False,False,4-6h,4-6h
+6,19,Feminino,Graduação,Austrália,7.2,Instagram,Sim,4.5,4.0,Negativo,True,True,6-8h,4-6h
+7,23,Masculino,Pós-graduação,Alemanha,1.5,LinkedIn,Não,8.0,9.0,Neutro,False,False,0-2h,6-8h
+8,20,Feminino,Graduação,Brasil,5.8,Snapchat,Sim,6.0,6.0,Negativo,True,False,4-6h,4-6h
+9,18,Masculino,Ensino Médio,Japão,4.0,TikTok,Não,6.5,7.0,Positivo,False,False,2-4h,6-8h
+10,21,Feminino,Pós-graduação,Coréia do Sul,3.3,Instagram,Não,7.0,7.0,Positivo,False,False,2-4h,6-8h
+11,19,Masculino,Graduação,França,4.8,Snapchat,Sim,6.2,5.0,Negativo,False,False,4-6h,6-8h
+12,20,Feminino,Graduação,Espanha,5.5,TikTok,Sim,5.8,6.0,Negativo,True,False,4-6h,4-6h
+13,22,Masculino,Pós-graduação,Itália,2.8,LinkedIn,Não,7.2,8.0,Positivo,False,False,2-4h,6-8h
+14,18,Feminino,Ensino Médio,México,6.5,Instagram,Sim,5.5,5.0,Negativo,True,False,6-8h,4-6h
+15,21,Masculino,Graduação,Rússia,3.7,YouTube,Não,6.8,7.0,Positivo,False,False,2-4h,6-8h
+16,20,Feminino,Graduação,China,4.2,TikTok,Sim,6.0,6.0,Negativo,False,False,4-6h,4-6h
+17,24,Masculino,Pós-graduação,Suécia,2.0,LinkedIn,Não,7.8,8.0,Neutro,False,False,0-2h,6-8h
+18,19,Feminino,Ensino Médio,Noruega,5.0,Instagram,Sim,5.7,5.0,Negativo,False,False,4-6h,4-6h
+19,21,Masculino,Graduação,Dinamarca,3.5,Facebook,Não,6.7,7.0,Positivo,False,False,2-4h,6-8h
+20,20,Feminino,Graduação,Holanda,4.7,Snapchat,Sim,5.9,6.0,Negativo,False,False,4-6h,4-6h
+21,18,Masculino,Ensino Médio,Bélgica,5.3,TikTok,Sim,5.5,5.0,Negativo,True,False,4-6h,4-6h
+22,23,Feminino,Pós-graduação,Suíça,2.5,LinkedIn,Não,7.3,8.0,Positivo,False,False,2-4h,6-8h
+23,19,Masculino,Graduação,Áustria,4.9,Instagram,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+24,20,Feminino,Graduação,Portugal,5.7,TikTok,Sim,5.4,5.0,Negativo,True,False,4-6h,4-6h
+25,22,Masculino,Pós-graduação,Grécia,3.2,Facebook,Não,6.9,7.0,Positivo,False,False,2-4h,6-8h
+26,19,Feminino,Ensino Médio,Irlanda,6.1,Instagram,Sim,5.2,5.0,Negativo,True,False,6-8h,4-6h
+27,21,Masculino,Graduação,Nova Zelândia,3.8,YouTube,Não,6.6,7.0,Positivo,False,False,2-4h,6-8h
+28,20,Feminino,Graduação,Cingapura,4.4,TikTok,Sim,5.9,6.0,Negativo,False,False,4-6h,4-6h
+29,24,Masculino,Pós-graduação,Malásia,2.2,LinkedIn,Não,7.4,8.0,Neutro,False,False,2-4h,6-8h
+30,19,Feminino,Ensino Médio,Tailândia,5.9,Instagram,Sim,5.3,5.0,Negativo,True,False,4-6h,4-6h
+31,21,Masculino,Graduação,Vietnã,3.6,Facebook,Não,6.7,7.0,Positivo,False,False,2-4h,6-8h
+32,20,Feminino,Graduação,Filipinas,4.8,Snapchat,Sim,5.7,6.0,Negativo,False,False,4-6h,4-6h
+33,18,Masculino,Ensino Médio,Indonésia,5.4,TikTok,Sim,5.4,5.0,Negativo,True,False,4-6h,4-6h
+34,23,Feminino,Pós-graduação,Taiwan,2.6,LinkedIn,Não,7.2,8.0,Positivo,False,False,2-4h,6-8h
+35,19,Masculino,Graduação,Hong Kong,4.7,Instagram,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+36,20,Feminino,Graduação,Peru,5.6,TikTok,Sim,5.5,5.0,Negativo,True,False,4-6h,4-6h
+37,22,Masculino,Pós-graduação,Israel,3.1,Facebook,Não,6.8,7.0,Positivo,False,False,2-4h,6-8h
+38,19,Feminino,Ensino Médio,Emirados Árabes Unidos,6.2,Instagram,Sim,5.1,5.0,Negativo,True,False,6-8h,4-6h
+39,21,Masculino,Graduação,Egito,3.9,YouTube,Não,6.5,7.0,Negativo,False,False,2-4h,6-8h
+40,20,Feminino,Graduação,Marrocos,4.5,TikTok,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+41,24,Masculino,Pós-graduação,África do Sul,2.3,LinkedIn,Não,7.3,8.0,Positivo,False,False,2-4h,6-8h
+42,19,Feminino,Ensino Médio,Nigéria,5.8,Instagram,Sim,5.4,5.0,Negativo,True,False,4-6h,4-6h
+43,21,Masculino,Graduação,Quênia,3.7,Facebook,Não,6.6,7.0,Positivo,False,False,2-4h,6-8h
+44,20,Feminino,Graduação,Gana,4.6,Snapchat,Sim,5.7,6.0,Negativo,False,False,4-6h,4-6h
+45,18,Masculino,Ensino Médio,Argentina,5.5,TikTok,Sim,5.3,5.0,Negativo,True,False,4-6h,4-6h
+46,23,Feminino,Pós-graduação,Chile,2.7,LinkedIn,Não,7.1,8.0,Positivo,False,False,2-4h,6-8h
+47,19,Masculino,Graduação,Colômbia,4.8,Instagram,Sim,5.9,6.0,Negativo,False,False,4-6h,4-6h
+48,20,Feminino,Graduação,Peru,5.5,TikTok,Sim,5.6,5.0,Negativo,True,False,4-6h,4-6h
+49,22,Masculino,Pós-graduação,Venezuela,3.3,Facebook,Não,6.7,7.0,Positivo,False,False,2-4h,6-8h
+50,19,Feminino,Ensino Médio,Equador,6.3,Instagram,Sim,5.2,5.0,Negativo,True,False,6-8h,4-6h
+51,21,Masculino,Graduação,Uruguai,3.8,YouTube,Não,6.4,7.0,Negativo,False,False,2-4h,6-8h
+52,20,Feminino,Graduação,Paraguai,4.7,TikTok,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+53,24,Masculino,Pós-graduação,Bolívia,2.4,LinkedIn,Não,7.2,8.0,Positivo,False,False,2-4h,6-8h
+54,19,Feminino,Ensino Médio,Costa Rica,5.7,Instagram,Sim,5.5,5.0,Negativo,True,False,4-6h,4-6h
+55,21,Masculino,Graduação,Panamá,3.6,Facebook,Não,6.5,7.0,Positivo,False,False,2-4h,6-8h
+56,20,Feminino,Graduação,Jamaica,4.9,Snapchat,Sim,5.6,6.0,Negativo,False,False,4-6h,4-6h
+57,18,Masculino,Ensino Médio,Trindade,5.6,TikTok,Sim,5.2,5.0,Negativo,True,False,4-6h,4-6h
+58,23,Feminino,Pós-graduação,Bahamas,2.8,LinkedIn,Não,7.0,8.0,Positivo,False,False,2-4h,6-8h
+59,19,Masculino,Graduação,Islândia,4.6,Instagram,Sim,5.9,6.0,Negativo,False,False,4-6h,4-6h
+60,20,Feminino,Graduação,Finlândia,5.4,TikTok,Sim,5.7,5.0,Negativo,True,False,4-6h,4-6h
+61,22,Masculino,Pós-graduação,Polônia,3.1,Facebook,Não,7.1,7.0,Positivo,False,False,2-4h,6-8h
+62,19,Feminino,Graduação,Romênia,5.6,Instagram,Sim,5.6,5.0,Negativo,True,False,4-6h,4-6h
+63,20,Masculino,Graduação,Hungria,4.2,TikTok,Sim,6.0,6.0,Negativo,False,False,4-6h,4-6h
+64,18,Feminino,Ensino Médio,República Tcheca,6.1,Snapchat,Sim,5.2,4.0,Negativo,True,False,6-8h,4-6h
+65,23,Masculino,Pós-graduação,Eslováquia,2.3,LinkedIn,Não,7.4,8.0,Neutro,False,False,2-4h,6-8h
+66,21,Feminino,Graduação,Croácia,4.8,Instagram,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+67,20,Masculino,Graduação,Sérvia,3.9,YouTube,Não,6.5,7.0,Negativo,False,False,2-4h,6-8h
+68,19,Feminino,Ensino Médio,Eslovênia,5.7,TikTok,Sim,5.4,5.0,Negativo,True,False,4-6h,4-6h
+69,22,Masculino,Pós-graduação,Bulgária,2.8,LinkedIn,Não,7.2,8.0,Positivo,False,False,2-4h,6-8h
+70,20,Feminino,Graduação,Estônia,4.5,Instagram,Sim,5.9,6.0,Negativo,False,False,4-6h,4-6h
+71,18,Masculino,Ensino Médio,Letônia,5.4,Snapchat,Sim,5.5,5.0,Negativo,True,False,4-6h,4-6h
+72,21,Feminino,Pós-graduação,Lituânia,3.2,Facebook,Não,6.8,7.0,Positivo,False,False,2-4h,6-8h
+73,19,Masculino,Graduação,Ucrânia,4.9,TikTok,Sim,5.7,6.0,Negativo,False,False,4-6h,4-6h
+74,20,Feminino,Graduação,Moldávia,5.8,Instagram,Sim,5.3,5.0,Negativo,True,False,4-6h,4-6h
+75,23,Masculino,Pós-graduação,Bielorrússia,2.5,LinkedIn,Não,7.3,8.0,Positivo,False,False,2-4h,6-8h
+76,21,Feminino,Graduação,Cazaquistão,4.6,Snapchat,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+77,19,Masculino,Ensino Médio,Uzbequistão,5.5,TikTok,Sim,5.4,5.0,Negativo,True,False,4-6h,4-6h
+78,22,Feminino,Pós-graduação,Quirguistão,2.9,Facebook,Não,7.0,7.0,Positivo,False,False,2-4h,6-8h
+79,20,Masculino,Graduação,Tadjiquistão,4.7,YouTube,Sim,5.9,6.0,Negativo,False,False,4-6h,4-6h
+80,18,Feminino,Ensino Médio,Armênia,5.9,Instagram,Sim,5.2,5.0,Negativo,True,False,4-6h,4-6h
+81,21,Masculino,Pós-graduação,Geórgia,3.0,LinkedIn,Não,7.1,8.0,Positivo,False,False,2-4h,6-8h
+82,19,Feminino,Graduação,Azerbaijão,4.8,TikTok,Sim,5.7,6.0,Negativo,False,False,4-6h,4-6h
+83,20,Masculino,Graduação,Chipre,3.8,Facebook,Não,6.6,7.0,Negativo,False,False,2-4h,6-8h
+84,22,Feminino,Pós-graduação,Malta,2.7,LinkedIn,Não,7.2,8.0,Positivo,False,False,2-4h,6-8h
+85,18,Masculino,Ensino Médio,Luxemburgo,5.6,Snapchat,Sim,5.3,5.0,Negativo,True,False,4-6h,4-6h
+86,21,Feminino,Graduação,Mônaco,4.5,Instagram,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+87,19,Masculino,Ensino Médio,Andorra,5.3,TikTok,Sim,5.5,5.0,Negativo,True,False,4-6h,4-6h
+88,23,Feminino,Pós-graduação,São Marino,2.6,LinkedIn,Não,7.3,8.0,Positivo,False,False,2-4h,6-8h
+89,20,Masculino,Graduação,Cidade do Vaticano,4.4,YouTube,Sim,6.0,6.0,Negativo,False,False,4-6h,4-6h
+90,18,Feminino,Ensino Médio,Liechtenstein,5.8,Instagram,Sim,5.2,5.0,Negativo,True,False,4-6h,4-6h
+91,22,Masculino,Pós-graduação,Montenegro,2.9,Facebook,Não,7.0,7.0,Positivo,False,False,2-4h,6-8h
+92,19,Feminino,Graduação,Albânia,4.7,TikTok,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+93,21,Masculino,Graduação,Macedônia do Norte,3.7,Snapchat,Não,6.5,7.0,Negativo,False,False,2-4h,6-8h
+94,20,Feminino,Ensino Médio,Kosovo,5.5,Instagram,Sim,5.4,5.0,Negativo,True,False,4-6h,4-6h
+95,23,Masculino,Pós-graduação,Bósnia,2.4,LinkedIn,Não,7.4,8.0,Positivo,False,False,2-4h,6-8h
+96,19,Feminino,Graduação,Catar,4.9,TikTok,Sim,5.7,6.0,Negativo,False,False,4-6h,4-6h
+97,18,Masculino,Ensino Médio,Kuwait,5.7,Snapchat,Sim,5.3,5.0,Negativo,True,False,4-6h,4-6h
+98,22,Feminino,Pós-graduação,Bahrein,2.8,LinkedIn,Não,7.1,8.0,Positivo,False,False,2-4h,6-8h
+99,20,Masculino,Graduação,Omã,4.6,Instagram,Sim,5.9,6.0,Negativo,False,False,4-6h,4-6h
+100,21,Feminino,Graduação,Jordânia,5.4,TikTok,Sim,5.5,5.0,Negativo,True,False,4-6h,4-6h
+101,19,Masculino,Ensino Médio,Líbano,5.8,YouTube,Sim,5.2,5.0,Negativo,True,False,4-6h,4-6h
+102,23,Feminino,Pós-graduação,Iraque,2.5,LinkedIn,Não,7.3,8.0,Positivo,False,False,2-4h,6-8h
+103,20,Masculino,Graduação,Iémen,4.7,Facebook,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+104,18,Feminino,Ensino Médio,Síria,5.6,Instagram,Sim,5.4,5.0,Negativo,True,False,4-6h,4-6h
+105,22,Masculino,Pós-graduação,Afeganistão,2.9,LinkedIn,Não,7.0,7.0,Positivo,False,False,2-4h,6-8h
+106,19,Feminino,Graduação,Paquistão,4.8,TikTok,Sim,5.7,6.0,Negativo,False,False,4-6h,4-6h
+107,21,Masculino,Graduação,Nepal,3.8,YouTube,Não,6.6,7.0,Negativo,False,False,2-4h,6-8h
+108,20,Feminino,Ensino Médio,Butão,5.5,Snapchat,Sim,5.5,5.0,Negativo,True,False,4-6h,4-6h
+109,23,Masculino,Pós-graduação,Sri Lanka,2.6,LinkedIn,Não,7.2,8.0,Positivo,False,False,2-4h,6-8h
+110,19,Feminino,Graduação,Maldivas,4.9,Instagram,Sim,5.8,6.0,Negativo,False,False,4-6h,4-6h
+111,20,Masculino,Graduação,Bangladesh,6.1,Instagram,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+112,21,Feminino,Graduação,Índia,5.8,TikTok,Sim,5.9,6.0,Negativo,True,False,4-6h,4-6h
+113,19,Masculino,Graduação,Nepal,4.9,Facebook,Não,7.1,7.0,Positivo,False,False,4-6h,6-8h
+114,22,Feminino,Pós-graduação,Paquistão,5.5,Instagram,Sim,6.0,5.0,Negativo,True,False,4-6h,4-6h
+115,20,Masculino,Graduação,Sri Lanka,5.2,TikTok,Sim,6.3,6.0,Negativo,True,False,4-6h,6-8h
+116,19,Feminino,Graduação,Maldivas,4.8,Instagram,Não,7.2,8.0,Positivo,False,False,4-6h,6-8h
+117,21,Masculino,Pós-graduação,Bangladesh,6.0,Facebook,Sim,5.8,5.0,Negativo,True,False,4-6h,4-6h
+118,20,Feminino,Graduação,Índia,5.7,Instagram,Sim,6.1,6.0,Negativo,True,False,4-6h,6-8h
+119,22,Masculino,Pós-graduação,Nepal,4.7,TikTok,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+120,19,Feminino,Graduação,Paquistão,5.4,Instagram,Sim,6.2,5.0,Negativo,True,False,4-6h,6-8h
+121,20,Masculino,Graduação,Sri Lanka,5.9,Facebook,Sim,5.9,6.0,Negativo,True,False,4-6h,4-6h
+122,21,Feminino,Pós-graduação,Maldivas,4.6,Instagram,Não,7.4,8.0,Positivo,False,False,4-6h,6-8h
+123,19,Masculino,Graduação,Bangladesh,5.3,TikTok,Sim,6.3,5.0,Negativo,True,False,4-6h,6-8h
+124,22,Feminino,Pós-graduação,Índia,5.8,Instagram,Sim,5.8,6.0,Negativo,True,False,4-6h,4-6h
+125,20,Masculino,Graduação,Nepal,4.5,Facebook,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+126,21,Feminino,Pós-graduação,Paquistão,5.2,Instagram,Sim,6.4,5.0,Negativo,True,False,4-6h,6-8h
+127,19,Masculino,Graduação,Sri Lanka,5.7,TikTok,Sim,5.7,6.0,Negativo,True,False,4-6h,4-6h
+128,20,Feminino,Graduação,Maldivas,4.4,Instagram,Não,7.6,8.0,Positivo,False,False,4-6h,6-8h
+129,22,Masculino,Pós-graduação,Bangladesh,5.1,Facebook,Sim,6.5,5.0,Negativo,True,False,4-6h,6-8h
+130,21,Feminino,Pós-graduação,Índia,5.6,Instagram,Sim,5.6,6.0,Negativo,True,False,4-6h,4-6h
+131,19,Masculino,Graduação,Nepal,4.3,TikTok,Não,7.7,7.0,Positivo,False,False,4-6h,6-8h
+132,20,Feminino,Graduação,Paquistão,5.0,Instagram,Sim,6.6,5.0,Negativo,False,False,4-6h,6-8h
+133,22,Masculino,Pós-graduação,Sri Lanka,5.5,Facebook,Sim,5.5,6.0,Negativo,True,False,4-6h,4-6h
+134,21,Feminino,Pós-graduação,Maldivas,4.2,Instagram,Não,7.8,8.0,Positivo,False,False,4-6h,6-8h
+135,19,Masculino,Graduação,Bangladesh,4.9,TikTok,Sim,6.7,5.0,Negativo,False,False,4-6h,6-8h
+136,20,Feminino,Graduação,Índia,5.4,Instagram,Sim,5.4,6.0,Negativo,True,False,4-6h,4-6h
+137,22,Masculino,Pós-graduação,Nepal,4.1,Facebook,Não,7.9,7.0,Positivo,False,False,4-6h,6-8h
+138,21,Feminino,Pós-graduação,Paquistão,4.8,Instagram,Sim,6.8,5.0,Negativo,False,False,4-6h,6-8h
+139,19,Masculino,Graduação,Sri Lanka,5.3,TikTok,Sim,5.3,6.0,Negativo,True,False,4-6h,4-6h
+140,20,Feminino,Graduação,Maldivas,4.0,Instagram,Não,8.0,8.0,Positivo,False,False,2-4h,6-8h
+141,22,Masculino,Pós-graduação,Bangladesh,4.7,Facebook,Sim,6.9,5.0,Negativo,False,False,4-6h,6-8h
+142,21,Feminino,Pós-graduação,Índia,5.2,Instagram,Sim,5.2,6.0,Negativo,True,False,4-6h,4-6h
+143,19,Masculino,Graduação,Nepal,3.9,TikTok,Não,8.1,7.0,Positivo,False,False,2-4h,8h+
+144,20,Feminino,Graduação,Paquistão,4.6,Instagram,Sim,7.0,5.0,Negativo,False,False,4-6h,6-8h
+145,22,Masculino,Pós-graduação,Sri Lanka,5.1,Facebook,Sim,5.1,6.0,Negativo,True,False,4-6h,4-6h
+146,21,Feminino,Pós-graduação,Maldivas,3.8,Instagram,Não,8.2,8.0,Positivo,False,False,2-4h,8h+
+147,19,Masculino,Graduação,Bangladesh,4.5,TikTok,Sim,7.1,5.0,Negativo,False,False,4-6h,6-8h
+148,20,Feminino,Graduação,Índia,5.0,Instagram,Sim,5.0,6.0,Negativo,False,False,4-6h,4-6h
+149,22,Masculino,Pós-graduação,Nepal,3.7,Facebook,Não,8.3,7.0,Positivo,False,False,2-4h,8h+
+150,21,Feminino,Pós-graduação,Paquistão,4.4,Instagram,Sim,7.2,5.0,Negativo,False,False,4-6h,6-8h
+151,19,Masculino,Graduação,Sri Lanka,4.9,TikTok,Sim,4.9,6.0,Negativo,False,True,4-6h,4-6h
+152,20,Feminino,Graduação,Maldivas,3.6,Instagram,Não,8.4,8.0,Positivo,False,False,2-4h,8h+
+153,22,Masculino,Pós-graduação,Bangladesh,4.3,Facebook,Sim,7.3,5.0,Negativo,False,False,4-6h,6-8h
+154,21,Feminino,Pós-graduação,Índia,4.8,Instagram,Sim,4.8,6.0,Negativo,False,True,4-6h,4-6h
+155,19,Masculino,Graduação,Nepal,3.5,TikTok,Não,8.5,7.0,Positivo,False,False,2-4h,8h+
+156,20,Feminino,Graduação,Paquistão,4.2,Instagram,Sim,7.4,5.0,Negativo,False,False,4-6h,6-8h
+157,22,Masculino,Pós-graduação,Sri Lanka,4.7,Facebook,Sim,4.7,6.0,Negativo,False,True,4-6h,4-6h
+158,21,Feminino,Pós-graduação,Maldivas,3.4,Instagram,Não,8.6,8.0,Positivo,False,False,2-4h,8h+
+159,19,Masculino,Graduação,Bangladesh,4.1,TikTok,Sim,7.5,5.0,Negativo,False,False,4-6h,6-8h
+160,20,Feminino,Graduação,Índia,4.6,Instagram,Sim,4.6,6.0,Negativo,False,True,4-6h,4-6h
+161,19,Feminino,Graduação,Bangladesh,5.3,Instagram,Sim,6.1,5.0,Negativo,True,False,4-6h,6-8h
+162,21,Masculino,Pós-graduação,Índia,4.8,Facebook,Não,7.2,7.0,Negativo,False,False,4-6h,6-8h
+163,20,Feminino,Graduação,Nepal,5.5,TikTok,Sim,5.9,6.0,Negativo,True,False,4-6h,4-6h
+164,22,Masculino,Pós-graduação,Paquistão,4.7,Instagram,Sim,6.3,5.0,Negativo,False,False,4-6h,6-8h
+165,19,Feminino,Graduação,Sri Lanka,5.1,Facebook,Não,7.0,7.0,Positivo,True,False,4-6h,6-8h
+166,21,Masculino,Pós-graduação,Maldivas,5.4,TikTok,Sim,6.0,6.0,Negativo,True,False,4-6h,4-6h
+167,20,Feminino,Graduação,Bangladesh,4.9,Instagram,Sim,6.4,5.0,Negativo,False,False,4-6h,6-8h
+168,22,Masculino,Pós-graduação,Índia,5.2,Facebook,Não,7.1,7.0,Negativo,True,False,4-6h,6-8h
+169,19,Feminino,Graduação,Nepal,5.6,TikTok,Sim,5.8,6.0,Negativo,True,False,4-6h,4-6h
+170,21,Masculino,Pós-graduação,Paquistão,4.6,Instagram,Sim,6.5,5.0,Negativo,False,False,4-6h,6-8h
+171,20,Feminino,Graduação,Sri Lanka,5.0,Facebook,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+172,22,Masculino,Pós-graduação,Maldivas,5.3,TikTok,Sim,5.7,6.0,Negativo,True,False,4-6h,4-6h
+173,19,Feminino,Graduação,Bangladesh,4.8,Instagram,Sim,6.6,5.0,Negativo,False,False,4-6h,6-8h
+174,21,Masculino,Pós-graduação,Índia,5.1,Facebook,Não,7.4,7.0,Negativo,True,False,4-6h,6-8h
+175,20,Feminino,Graduação,Nepal,5.7,TikTok,Sim,5.6,6.0,Negativo,True,False,4-6h,4-6h
+176,22,Masculino,Pós-graduação,Paquistão,4.5,Instagram,Sim,6.7,5.0,Negativo,False,False,4-6h,6-8h
+177,19,Feminino,Graduação,Sri Lanka,4.9,Facebook,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+178,21,Masculino,Pós-graduação,Maldivas,5.2,TikTok,Sim,5.5,6.0,Negativo,True,False,4-6h,4-6h
+179,20,Feminino,Graduação,Bangladesh,4.7,Instagram,Sim,6.8,5.0,Negativo,False,False,4-6h,6-8h
+180,22,Masculino,Pós-graduação,Índia,5.0,Facebook,Não,7.6,7.0,Negativo,False,False,4-6h,6-8h
+181,19,Feminino,Graduação,Nepal,5.8,TikTok,Sim,5.4,6.0,Negativo,True,False,4-6h,4-6h
+182,21,Masculino,Pós-graduação,Paquistão,4.4,Instagram,Sim,6.9,5.0,Negativo,False,False,4-6h,6-8h
+183,20,Feminino,Graduação,Sri Lanka,4.8,Facebook,Não,7.7,7.0,Positivo,False,False,4-6h,6-8h
+184,22,Masculino,Pós-graduação,Maldivas,5.1,TikTok,Sim,5.3,6.0,Negativo,True,False,4-6h,4-6h
+185,19,Feminino,Graduação,Bangladesh,4.6,Instagram,Sim,7.0,5.0,Negativo,False,False,4-6h,6-8h
+186,21,Masculino,Pós-graduação,Índia,4.9,Facebook,Não,7.8,7.0,Negativo,False,False,4-6h,6-8h
+187,20,Feminino,Graduação,Nepal,5.9,TikTok,Sim,5.2,6.0,Negativo,True,False,4-6h,4-6h
+188,22,Masculino,Pós-graduação,Paquistão,4.3,Instagram,Sim,7.1,5.0,Negativo,False,False,4-6h,6-8h
+189,19,Feminino,Graduação,Sri Lanka,4.7,Facebook,Não,7.9,7.0,Positivo,False,False,4-6h,6-8h
+190,21,Masculino,Pós-graduação,Maldivas,5.0,TikTok,Sim,5.1,6.0,Negativo,False,False,4-6h,4-6h
+191,20,Feminino,Graduação,Bangladesh,4.5,Instagram,Sim,7.2,5.0,Negativo,False,False,4-6h,6-8h
+192,22,Masculino,Pós-graduação,Índia,4.8,Facebook,Não,8.0,7.0,Negativo,False,False,4-6h,6-8h
+193,19,Feminino,Graduação,Nepal,6.0,TikTok,Sim,5.0,6.0,Negativo,True,False,4-6h,4-6h
+194,21,Masculino,Pós-graduação,Paquistão,4.2,Instagram,Sim,7.3,5.0,Negativo,False,False,4-6h,6-8h
+195,20,Feminino,Graduação,Sri Lanka,4.6,Facebook,Não,8.1,7.0,Positivo,False,False,4-6h,8h+
+196,22,Masculino,Pós-graduação,Maldivas,4.9,TikTok,Sim,4.9,6.0,Negativo,False,True,4-6h,4-6h
+197,19,Feminino,Graduação,Bangladesh,4.4,Instagram,Sim,7.4,5.0,Negativo,False,False,4-6h,6-8h
+198,21,Masculino,Pós-graduação,Índia,4.7,Facebook,Não,8.2,7.0,Negativo,False,False,4-6h,8h+
+199,20,Feminino,Graduação,Nepal,6.1,TikTok,Sim,4.8,6.0,Negativo,True,True,6-8h,4-6h
+200,22,Masculino,Pós-graduação,Paquistão,4.1,Instagram,Sim,7.5,5.0,Negativo,False,False,4-6h,6-8h
+201,19,Feminino,Graduação,Sri Lanka,4.5,Facebook,Não,8.3,7.0,Positivo,False,False,4-6h,8h+
+202,21,Masculino,Pós-graduação,Maldivas,4.8,TikTok,Sim,4.7,6.0,Negativo,False,True,4-6h,4-6h
+203,20,Feminino,Graduação,Bangladesh,4.3,Instagram,Sim,7.6,5.0,Negativo,False,False,4-6h,6-8h
+204,22,Masculino,Pós-graduação,Índia,4.6,Facebook,Não,8.4,7.0,Negativo,False,False,4-6h,8h+
+205,19,Feminino,Graduação,Nepal,6.2,TikTok,Sim,4.6,6.0,Negativo,True,True,6-8h,4-6h
+206,21,Masculino,Pós-graduação,Paquistão,4.0,Instagram,Sim,7.7,5.0,Negativo,False,False,2-4h,6-8h
+207,20,Feminino,Graduação,Sri Lanka,4.4,Facebook,Não,8.5,7.0,Positivo,False,False,4-6h,8h+
+208,22,Masculino,Pós-graduação,Maldivas,4.7,TikTok,Sim,4.5,6.0,Negativo,False,True,4-6h,4-6h
+209,19,Feminino,Graduação,Bangladesh,4.2,Instagram,Sim,7.8,5.0,Negativo,False,False,4-6h,6-8h
+210,21,Masculino,Pós-graduação,Índia,4.5,Facebook,Não,8.6,7.0,Negativo,False,False,4-6h,8h+
+211,20,Feminino,Graduação,Nepal,6.3,TikTok,Sim,4.4,6.0,Negativo,True,True,6-8h,4-6h
+212,22,Masculino,Pós-graduação,Paquistão,3.9,Instagram,Sim,7.9,5.0,Negativo,False,False,2-4h,6-8h
+213,19,Feminino,Graduação,Sri Lanka,4.3,Facebook,Não,8.7,7.0,Positivo,False,False,4-6h,8h+
+214,21,Masculino,Pós-graduação,Maldivas,4.6,TikTok,Sim,4.3,6.0,Negativo,False,True,4-6h,4-6h
+215,20,Feminino,Graduação,Bangladesh,4.1,Instagram,Sim,8.0,5.0,Negativo,False,False,4-6h,6-8h
+216,22,Masculino,Pós-graduação,Índia,4.4,Facebook,Não,8.8,7.0,Negativo,False,False,4-6h,8h+
+217,19,Feminino,Graduação,Nepal,6.4,TikTok,Sim,4.2,6.0,Negativo,True,True,6-8h,4-6h
+218,21,Masculino,Pós-graduação,Paquistão,3.8,Instagram,Sim,8.1,5.0,Negativo,False,False,2-4h,8h+
+219,20,Feminino,Graduação,Sri Lanka,4.2,Facebook,Não,8.9,7.0,Positivo,False,False,4-6h,8h+
+220,22,Masculino,Pós-graduação,Maldivas,4.5,TikTok,Sim,4.1,6.0,Negativo,False,True,4-6h,4-6h
+221,19,Feminino,Graduação,EUA,6.5,Instagram,Sim,6.0,5.0,Negativo,True,False,6-8h,4-6h
+222,21,Masculino,Pós-graduação,Reino Unido,5.8,TikTok,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+223,20,Feminino,Graduação,Austrália,4.5,Instagram,Não,7.5,8.0,Positivo,False,False,4-6h,6-8h
+224,22,Masculino,Pós-graduação,Alemanha,4.2,Facebook,Não,7.8,7.0,Positivo,False,False,4-6h,6-8h
+225,19,Feminino,Graduação,Japão,3.8,LINE,Não,7.9,8.0,Neutro,False,False,2-4h,6-8h
+226,21,Masculino,Pós-graduação,Itália,5.5,Instagram,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+227,20,Feminino,Graduação,Coréia do Sul,5.2,KakaoTalk,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+228,22,Masculino,Pós-graduação,Rússia,4.8,VKontakte,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+229,19,Feminino,Graduação,EUA,7.0,TikTok,Sim,5.8,4.0,Negativo,True,False,6-8h,4-6h
+230,21,Masculino,Pós-graduação,Reino Unido,5.5,Instagram,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+231,20,Feminino,Graduação,Austrália,4.7,Facebook,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+232,22,Masculino,Pós-graduação,Alemanha,4.0,Instagram,Não,7.9,8.0,Positivo,False,False,2-4h,6-8h
+233,19,Feminino,Graduação,Japão,3.5,LINE,Não,8.0,8.0,Neutro,False,False,2-4h,6-8h
+234,21,Masculino,Pós-graduação,Itália,5.7,TikTok,Sim,6.5,5.0,Negativo,True,False,4-6h,6-8h
+235,20,Feminino,Graduação,Coréia do Sul,5.0,KakaoTalk,Sim,6.8,6.0,Negativo,False,False,4-6h,6-8h
+236,22,Masculino,Pós-graduação,Rússia,4.5,VKontakte,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+237,19,Feminino,Graduação,EUA,6.8,Instagram,Sim,5.9,4.0,Negativo,True,False,6-8h,4-6h
+238,21,Masculino,Pós-graduação,Reino Unido,5.6,Facebook,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+239,20,Feminino,Graduação,Austrália,4.6,Instagram,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+240,22,Masculino,Pós-graduação,Alemanha,4.1,Facebook,Não,7.7,8.0,Positivo,False,False,4-6h,6-8h
+241,19,Feminino,Graduação,Japão,3.7,LINE,Não,7.8,8.0,Neutro,False,False,2-4h,6-8h
+242,21,Masculino,Pós-graduação,Itália,5.4,Instagram,Sim,6.7,5.0,Negativo,True,False,4-6h,6-8h
+243,20,Feminino,Graduação,Coréia do Sul,5.1,KakaoTalk,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+244,22,Masculino,Pós-graduação,Rússia,4.7,VKontakte,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+245,19,Feminino,Graduação,EUA,6.9,TikTok,Sim,5.7,4.0,Negativo,True,False,6-8h,4-6h
+246,21,Masculino,Pós-graduação,Reino Unido,5.7,Instagram,Sim,6.4,6.0,Negativo,True,False,4-6h,6-8h
+247,20,Feminino,Graduação,Austrália,4.8,Facebook,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+248,22,Masculino,Pós-graduação,Alemanha,3.9,Instagram,Não,7.8,8.0,Positivo,False,False,2-4h,6-8h
+249,19,Feminino,Graduação,Japão,3.6,LINE,Não,8.1,8.0,Neutro,False,False,2-4h,8h+
+250,21,Masculino,Pós-graduação,Itália,5.6,TikTok,Sim,6.6,5.0,Negativo,True,False,4-6h,6-8h
+251,20,Feminino,Graduação,Coréia do Sul,4.9,KakaoTalk,Sim,6.9,6.0,Negativo,False,False,4-6h,6-8h
+252,22,Masculino,Pós-graduação,Rússia,4.6,VKontakte,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+253,19,Feminino,Graduação,EUA,6.7,Instagram,Sim,5.8,4.0,Negativo,True,False,6-8h,4-6h
+254,21,Masculino,Pós-graduação,Reino Unido,5.4,Facebook,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+255,20,Feminino,Graduação,Austrália,4.4,Instagram,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+256,22,Masculino,Pós-graduação,Alemanha,4.0,Facebook,Não,7.6,8.0,Positivo,False,False,2-4h,6-8h
+257,19,Feminino,Graduação,Japão,3.4,LINE,Não,8.2,8.0,Neutro,False,False,2-4h,8h+
+258,21,Masculino,Pós-graduação,Itália,5.3,Instagram,Sim,6.8,5.0,Negativo,True,False,4-6h,6-8h
+259,20,Feminino,Graduação,Coréia do Sul,5.0,KakaoTalk,Sim,6.7,6.0,Negativo,False,False,4-6h,6-8h
+260,22,Masculino,Pós-graduação,Rússia,4.4,VKontakte,Não,7.6,7.0,Positivo,False,False,4-6h,6-8h
+261,19,Feminino,Graduação,EUA,6.6,TikTok,Sim,5.6,4.0,Negativo,True,False,6-8h,4-6h
+262,21,Masculino,Pós-graduação,Reino Unido,5.3,Instagram,Sim,6.3,6.0,Negativo,True,False,4-6h,6-8h
+263,20,Feminino,Graduação,Austrália,4.3,Facebook,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+264,22,Masculino,Pós-graduação,Alemanha,3.8,Instagram,Não,7.7,8.0,Positivo,False,False,2-4h,6-8h
+265,19,Feminino,Graduação,Japão,3.3,LINE,Não,8.3,8.0,Neutro,False,False,2-4h,8h+
+266,21,Masculino,Pós-graduação,Itália,5.2,TikTok,Sim,6.9,5.0,Negativo,True,False,4-6h,6-8h
+267,20,Feminino,Graduação,Coréia do Sul,4.8,KakaoTalk,Sim,7.0,6.0,Negativo,False,False,4-6h,6-8h
+268,22,Masculino,Pós-graduação,Rússia,4.3,VKontakte,Não,7.7,7.0,Positivo,False,False,4-6h,6-8h
+269,19,Feminino,Graduação,EUA,6.4,Instagram,Sim,5.7,4.0,Negativo,True,False,6-8h,4-6h
+270,21,Masculino,Pós-graduação,Reino Unido,5.2,Facebook,Sim,6.4,6.0,Negativo,True,False,4-6h,6-8h
+271,20,Feminino,Graduação,Austrália,4.5,Instagram,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+272,22,Masculino,Pós-graduação,Alemanha,3.7,Facebook,Não,7.8,8.0,Positivo,False,False,2-4h,6-8h
+273,19,Feminino,Graduação,Japão,3.2,LINE,Não,8.4,8.0,Neutro,False,False,2-4h,8h+
+274,21,Masculino,Pós-graduação,Itália,5.4,Instagram,Sim,6.7,5.0,Negativo,True,False,4-6h,6-8h
+275,20,Feminino,Graduação,Coréia do Sul,4.7,KakaoTalk,Sim,7.1,6.0,Negativo,False,False,4-6h,6-8h
+276,22,Masculino,Pós-graduação,Rússia,4.2,VKontakte,Não,7.8,7.0,Positivo,False,False,4-6h,6-8h
+277,19,Feminino,Graduação,EUA,6.6,TikTok,Sim,5.5,4.0,Negativo,True,False,6-8h,4-6h
+278,21,Masculino,Pós-graduação,Reino Unido,5.1,Instagram,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+279,20,Feminino,Graduação,Austrália,4.4,Facebook,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+280,22,Masculino,Pós-graduação,Alemanha,3.6,Instagram,Não,7.9,8.0,Positivo,False,False,2-4h,6-8h
+281,19,Feminino,Graduação,Japão,3.1,LINE,Não,8.5,8.0,Neutro,False,False,2-4h,8h+
+282,21,Masculino,Pós-graduação,Itália,5.3,TikTok,Sim,6.8,5.0,Negativo,True,False,4-6h,6-8h
+283,20,Feminino,Graduação,Coréia do Sul,4.6,KakaoTalk,Sim,7.2,6.0,Negativo,False,False,4-6h,6-8h
+284,22,Masculino,Pós-graduação,Rússia,4.1,VKontakte,Não,7.9,7.0,Positivo,False,False,4-6h,6-8h
+285,19,Feminino,Graduação,EUA,6.7,Instagram,Sim,5.4,4.0,Negativo,True,False,6-8h,4-6h
+286,21,Masculino,Pós-graduação,Reino Unido,5.0,Facebook,Sim,6.6,6.0,Negativo,False,False,4-6h,6-8h
+287,20,Feminino,Graduação,Austrália,4.3,Instagram,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+288,22,Masculino,Pós-graduação,Alemanha,3.5,Facebook,Não,8.0,8.0,Positivo,False,False,2-4h,6-8h
+289,19,Feminino,Graduação,Japão,3.0,LINE,Não,8.6,8.0,Neutro,False,False,2-4h,8h+
+290,21,Masculino,Pós-graduação,Itália,5.2,Instagram,Sim,6.9,5.0,Negativo,True,False,4-6h,6-8h
+291,20,Feminino,Graduação,Coréia do Sul,4.5,KakaoTalk,Sim,7.3,6.0,Negativo,False,False,4-6h,6-8h
+292,22,Masculino,Pós-graduação,Rússia,4.0,VKontakte,Não,8.0,7.0,Positivo,False,False,2-4h,6-8h
+293,19,Feminino,Graduação,EUA,6.8,TikTok,Sim,5.3,4.0,Negativo,True,False,6-8h,4-6h
+294,21,Masculino,Pós-graduação,Reino Unido,4.9,Instagram,Sim,6.7,6.0,Negativo,False,False,4-6h,6-8h
+295,20,Feminino,Graduação,Austrália,4.2,Facebook,Não,7.6,7.0,Positivo,False,False,4-6h,6-8h
+296,22,Masculino,Pós-graduação,Alemanha,3.4,Instagram,Não,8.1,8.0,Positivo,False,False,2-4h,8h+
+297,19,Feminino,Graduação,Japão,2.9,LINE,Não,8.7,8.0,Neutro,False,False,2-4h,8h+
+298,21,Masculino,Pós-graduação,Itália,5.1,TikTok,Sim,7.0,5.0,Negativo,True,False,4-6h,6-8h
+299,20,Feminino,Graduação,Coréia do Sul,4.4,KakaoTalk,Sim,7.4,6.0,Negativo,False,False,4-6h,6-8h
+300,22,Masculino,Pós-graduação,Rússia,3.9,VKontakte,Não,8.1,7.0,Positivo,False,False,2-4h,8h+
+301,19,Feminino,Graduação,EUA,6.9,Instagram,Sim,5.2,4.0,Negativo,True,False,6-8h,4-6h
+302,21,Masculino,Pós-graduação,Reino Unido,4.8,Facebook,Sim,6.8,6.0,Negativo,False,False,4-6h,6-8h
+303,20,Feminino,Graduação,Austrália,4.1,Instagram,Não,7.7,7.0,Positivo,False,False,4-6h,6-8h
+304,22,Masculino,Pós-graduação,Alemanha,3.3,Facebook,Não,8.2,8.0,Positivo,False,False,2-4h,8h+
+305,19,Feminino,Graduação,Japão,2.8,LINE,Não,8.8,8.0,Neutro,False,False,2-4h,8h+
+306,21,Masculino,Pós-graduação,Itália,5.0,Instagram,Sim,7.1,5.0,Negativo,False,False,4-6h,6-8h
+307,20,Feminino,Graduação,Coréia do Sul,4.3,KakaoTalk,Sim,7.5,6.0,Negativo,False,False,4-6h,6-8h
+308,22,Masculino,Pós-graduação,Rússia,3.8,VKontakte,Não,8.2,7.0,Positivo,False,False,2-4h,8h+
+309,19,Feminino,Graduação,EUA,7.0,TikTok,Sim,5.1,4.0,Negativo,True,False,6-8h,4-6h
+310,21,Masculino,Pós-graduação,Reino Unido,4.7,Instagram,Sim,6.9,6.0,Negativo,False,False,4-6h,6-8h
+311,20,Feminino,Graduação,Austrália,4.0,Facebook,Não,7.8,7.0,Positivo,False,False,2-4h,6-8h
+312,22,Masculino,Pós-graduação,Alemanha,3.2,Instagram,Não,8.3,8.0,Positivo,False,False,2-4h,8h+
+313,19,Feminino,Graduação,Japão,2.7,LINE,Não,8.9,8.0,Neutro,False,False,2-4h,8h+
+314,21,Masculino,Pós-graduação,Itália,4.9,TikTok,Sim,7.2,5.0,Negativo,False,False,4-6h,6-8h
+315,20,Feminino,Graduação,Coréia do Sul,4.2,KakaoTalk,Sim,7.6,6.0,Negativo,False,False,4-6h,6-8h
+316,22,Masculino,Pós-graduação,Rússia,3.7,VKontakte,Não,8.3,7.0,Positivo,False,False,2-4h,8h+
+317,19,Feminino,Graduação,EUA,7.1,Instagram,Sim,5.0,4.0,Negativo,True,False,6-8h,4-6h
+318,21,Masculino,Pós-graduação,Reino Unido,4.6,Facebook,Sim,7.0,6.0,Negativo,False,False,4-6h,6-8h
+319,20,Feminino,Graduação,Austrália,3.9,Instagram,Não,7.9,7.0,Positivo,False,False,2-4h,6-8h
+320,22,Masculino,Pós-graduação,Alemanha,3.1,Facebook,Não,8.4,8.0,Positivo,False,False,2-4h,8h+
+321,19,Feminino,Graduação,Espanha,5.2,Instagram,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+322,21,Masculino,Pós-graduação,Dinamarca,4.1,Facebook,Não,7.8,8.0,Positivo,False,False,4-6h,6-8h
+323,20,Feminino,Graduação,Irlanda,5.0,Instagram,Sim,7.0,7.0,Negativo,False,False,4-6h,6-8h
+324,22,Masculino,Pós-graduação,Índia,5.8,WhatsApp,Sim,6.5,5.0,Negativo,True,False,4-6h,6-8h
+325,19,Feminino,Graduação,Suíça,4.0,Instagram,Não,7.9,8.0,Positivo,False,False,2-4h,6-8h
+326,21,Masculino,Pós-graduação,Peru,5.5,Instagram,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+327,20,Feminino,Graduação,EUA,6.8,TikTok,Sim,5.5,5.0,Negativo,True,False,6-8h,4-6h
+328,22,Masculino,Pós-graduação,México,5.6,WhatsApp,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+329,19,Feminino,Graduação,França,4.5,Instagram,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+330,21,Masculino,Pós-graduação,Canadá,5.3,Instagram,Sim,6.9,6.0,Negativo,True,False,4-6h,6-8h
+331,20,Feminino,Graduação,Espanha,5.1,TikTok,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+332,22,Masculino,Pós-graduação,Dinamarca,3.9,Facebook,Não,7.9,8.0,Positivo,False,False,2-4h,6-8h
+333,19,Feminino,Graduação,Irlanda,4.8,Instagram,Sim,7.1,7.0,Negativo,False,False,4-6h,6-8h
+334,21,Masculino,Pós-graduação,Índia,5.9,WhatsApp,Sim,6.4,5.0,Negativo,True,False,4-6h,6-8h
+335,20,Feminino,Graduação,Suíça,3.8,Instagram,Não,8.0,8.0,Positivo,False,False,2-4h,6-8h
+336,22,Masculino,Pós-graduação,Peru,5.4,TikTok,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+337,19,Feminino,Graduação,EUA,6.9,Instagram,Sim,5.4,5.0,Negativo,True,False,6-8h,4-6h
+338,21,Masculino,Pós-graduação,México,5.7,WhatsApp,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+339,20,Feminino,Graduação,França,4.4,Instagram,Não,7.6,7.0,Positivo,False,False,4-6h,6-8h
+340,22,Masculino,Pós-graduação,Canadá,5.2,TikTok,Sim,7.0,6.0,Negativo,True,False,4-6h,6-8h
+341,19,Feminino,Graduação,Espanha,5.0,Instagram,Sim,6.9,6.0,Negativo,False,False,4-6h,6-8h
+342,21,Masculino,Pós-graduação,Dinamarca,3.8,Facebook,Não,8.0,8.0,Positivo,False,False,2-4h,6-8h
+343,20,Feminino,Graduação,Irlanda,4.7,TikTok,Sim,7.2,7.0,Negativo,False,False,4-6h,6-8h
+344,22,Masculino,Pós-graduação,Índia,6.0,WhatsApp,Sim,6.3,5.0,Negativo,True,False,4-6h,6-8h
+345,19,Feminino,Graduação,Suíça,3.7,Instagram,Não,8.1,8.0,Positivo,False,False,2-4h,8h+
+346,21,Masculino,Pós-graduação,Peru,5.3,Instagram,Sim,6.9,6.0,Negativo,True,False,4-6h,6-8h
+347,20,Feminino,Graduação,EUA,7.0,TikTok,Sim,5.3,5.0,Negativo,True,False,6-8h,4-6h
+348,22,Masculino,Pós-graduação,México,5.8,WhatsApp,Sim,6.4,6.0,Negativo,True,False,4-6h,6-8h
+349,19,Feminino,Graduação,França,4.3,Instagram,Não,7.7,7.0,Positivo,False,False,4-6h,6-8h
+350,21,Masculino,Pós-graduação,Canadá,5.1,Instagram,Sim,7.1,6.0,Negativo,True,False,4-6h,6-8h
+351,20,Feminino,Graduação,Espanha,4.9,TikTok,Sim,7.0,6.0,Negativo,False,False,4-6h,6-8h
+352,22,Masculino,Pós-graduação,Dinamarca,3.7,Facebook,Não,8.1,8.0,Positivo,False,False,2-4h,8h+
+353,19,Feminino,Graduação,Irlanda,4.6,Instagram,Sim,7.3,7.0,Negativo,False,False,4-6h,6-8h
+354,21,Masculino,Pós-graduação,Índia,6.1,WhatsApp,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+355,20,Feminino,Graduação,Suíça,3.6,Instagram,Não,8.2,8.0,Positivo,False,False,2-4h,8h+
+356,22,Masculino,Pós-graduação,Peru,5.2,TikTok,Sim,7.0,6.0,Negativo,True,False,4-6h,6-8h
+357,19,Feminino,Graduação,EUA,7.1,Instagram,Sim,5.2,5.0,Negativo,True,False,6-8h,4-6h
+358,21,Masculino,Pós-graduação,México,5.9,WhatsApp,Sim,6.3,6.0,Negativo,True,False,4-6h,6-8h
+359,20,Feminino,Graduação,França,4.2,Instagram,Não,7.8,7.0,Positivo,False,False,4-6h,6-8h
+360,22,Masculino,Pós-graduação,Canadá,5.0,TikTok,Sim,7.2,6.0,Negativo,False,False,4-6h,6-8h
+361,19,Feminino,Graduação,Espanha,4.8,Instagram,Sim,7.1,6.0,Negativo,False,False,4-6h,6-8h
+362,21,Masculino,Pós-graduação,Dinamarca,3.6,Facebook,Não,8.2,8.0,Positivo,False,False,2-4h,8h+
+363,20,Feminino,Graduação,Irlanda,4.5,TikTok,Sim,7.4,7.0,Negativo,False,False,4-6h,6-8h
+364,22,Masculino,Pós-graduação,Índia,6.2,WhatsApp,Sim,6.1,5.0,Negativo,True,False,6-8h,6-8h
+365,19,Feminino,Graduação,Suíça,3.5,Instagram,Não,8.3,8.0,Positivo,False,False,2-4h,8h+
+366,21,Masculino,Pós-graduação,Peru,5.1,Instagram,Sim,7.1,6.0,Negativo,True,False,4-6h,6-8h
+367,20,Feminino,Graduação,EUA,7.2,TikTok,Sim,5.1,5.0,Negativo,True,False,6-8h,4-6h
+368,22,Masculino,Pós-graduação,México,6.0,WhatsApp,Sim,6.2,6.0,Negativo,True,False,4-6h,6-8h
+369,19,Feminino,Graduação,França,4.1,Instagram,Não,7.9,7.0,Positivo,False,False,4-6h,6-8h
+370,21,Masculino,Pós-graduação,Canadá,4.9,Instagram,Sim,7.3,6.0,Negativo,False,False,4-6h,6-8h
+371,20,Feminino,Graduação,Espanha,4.7,TikTok,Sim,7.2,6.0,Negativo,False,False,4-6h,6-8h
+372,22,Masculino,Pós-graduação,Dinamarca,3.5,Facebook,Não,8.3,8.0,Positivo,False,False,2-4h,8h+
+373,19,Feminino,Graduação,Irlanda,4.4,Instagram,Sim,7.5,7.0,Negativo,False,False,4-6h,6-8h
+374,21,Masculino,Pós-graduação,Índia,6.3,WhatsApp,Sim,6.0,5.0,Negativo,True,False,6-8h,4-6h
+375,20,Feminino,Graduação,Suíça,3.4,Instagram,Não,8.4,8.0,Positivo,False,False,2-4h,8h+
+376,22,Masculino,Pós-graduação,Peru,5.0,TikTok,Sim,7.2,6.0,Negativo,False,False,4-6h,6-8h
+377,19,Feminino,Graduação,EUA,7.3,Instagram,Sim,5.0,5.0,Negativo,True,False,6-8h,4-6h
+378,21,Masculino,Pós-graduação,México,6.1,WhatsApp,Sim,6.1,6.0,Negativo,True,False,6-8h,6-8h
+379,20,Feminino,Graduação,França,4.0,Instagram,Não,8.0,7.0,Positivo,False,False,2-4h,6-8h
+380,22,Masculino,Pós-graduação,Canadá,4.8,TikTok,Sim,7.4,6.0,Negativo,False,False,4-6h,6-8h
+381,19,Feminino,Graduação,Espanha,4.6,Instagram,Sim,7.3,6.0,Negativo,False,False,4-6h,6-8h
+382,21,Masculino,Pós-graduação,Dinamarca,3.4,Facebook,Não,8.4,8.0,Positivo,False,False,2-4h,8h+
+383,20,Feminino,Graduação,Irlanda,4.3,TikTok,Sim,7.6,7.0,Negativo,False,False,4-6h,6-8h
+384,22,Masculino,Pós-graduação,Índia,6.4,WhatsApp,Sim,5.9,5.0,Negativo,True,False,6-8h,4-6h
+385,19,Feminino,Graduação,Suíça,3.3,Instagram,Não,8.5,8.0,Positivo,False,False,2-4h,8h+
+386,21,Masculino,Pós-graduação,Peru,4.9,Instagram,Sim,7.3,6.0,Negativo,False,False,4-6h,6-8h
+387,20,Feminino,Graduação,EUA,7.4,TikTok,Sim,4.9,5.0,Negativo,True,True,6-8h,4-6h
+388,22,Masculino,Pós-graduação,México,6.2,WhatsApp,Sim,6.0,6.0,Negativo,True,False,6-8h,4-6h
+389,19,Feminino,Graduação,França,3.9,Instagram,Não,8.1,7.0,Positivo,False,False,2-4h,8h+
+390,21,Masculino,Pós-graduação,Canadá,4.7,Instagram,Sim,7.5,6.0,Negativo,False,False,4-6h,6-8h
+391,20,Feminino,Graduação,Espanha,4.5,TikTok,Sim,7.4,6.0,Negativo,False,False,4-6h,6-8h
+392,22,Masculino,Pós-graduação,Dinamarca,3.3,Facebook,Não,8.5,8.0,Positivo,False,False,2-4h,8h+
+393,19,Feminino,Graduação,Irlanda,4.2,Instagram,Sim,7.7,7.0,Negativo,False,False,4-6h,6-8h
+394,21,Masculino,Pós-graduação,Índia,6.5,WhatsApp,Sim,5.8,5.0,Negativo,True,False,6-8h,4-6h
+395,20,Feminino,Graduação,Suíça,3.2,Instagram,Não,8.6,8.0,Positivo,False,False,2-4h,8h+
+396,22,Masculino,Pós-graduação,Peru,4.8,TikTok,Sim,7.4,6.0,Negativo,False,False,4-6h,6-8h
+397,19,Feminino,Graduação,EUA,7.5,Instagram,Sim,4.8,5.0,Negativo,True,True,6-8h,4-6h
+398,21,Masculino,Pós-graduação,México,6.3,WhatsApp,Sim,5.9,6.0,Negativo,True,False,6-8h,4-6h
+399,20,Feminino,Graduação,França,3.8,Instagram,Não,8.2,7.0,Positivo,False,False,2-4h,8h+
+400,22,Masculino,Pós-graduação,Canadá,4.6,TikTok,Sim,7.6,6.0,Negativo,False,False,4-6h,6-8h
+401,19,Feminino,Graduação,Espanha,4.4,Instagram,Sim,7.5,6.0,Negativo,False,False,4-6h,6-8h
+402,21,Masculino,Pós-graduação,Dinamarca,3.2,Facebook,Não,8.6,8.0,Positivo,False,False,2-4h,8h+
+403,20,Feminino,Graduação,Irlanda,4.1,TikTok,Sim,7.8,7.0,Negativo,False,False,4-6h,6-8h
+404,22,Masculino,Pós-graduação,Índia,6.6,WhatsApp,Sim,5.7,5.0,Negativo,True,False,6-8h,4-6h
+405,19,Feminino,Graduação,Suíça,3.1,Instagram,Não,8.7,8.0,Positivo,False,False,2-4h,8h+
+406,21,Masculino,Pós-graduação,Peru,4.7,Instagram,Sim,7.5,6.0,Negativo,False,False,4-6h,6-8h
+407,20,Feminino,Graduação,EUA,7.6,TikTok,Sim,4.7,5.0,Negativo,True,True,6-8h,4-6h
+408,22,Masculino,Pós-graduação,México,6.4,WhatsApp,Sim,5.8,6.0,Negativo,True,False,6-8h,4-6h
+409,19,Feminino,Graduação,França,3.7,Instagram,Não,8.3,7.0,Positivo,False,False,2-4h,8h+
+410,21,Masculino,Pós-graduação,Canadá,4.5,Instagram,Sim,7.7,6.0,Negativo,False,False,4-6h,6-8h
+411,20,Feminino,Graduação,Espanha,4.3,TikTok,Sim,7.6,6.0,Negativo,False,False,4-6h,6-8h
+412,22,Masculino,Pós-graduação,Dinamarca,3.1,Facebook,Não,8.7,8.0,Positivo,False,False,2-4h,8h+
+413,19,Feminino,Graduação,Irlanda,4.0,Instagram,Sim,7.9,7.0,Negativo,False,False,2-4h,6-8h
+414,21,Masculino,Pós-graduação,Índia,6.7,WhatsApp,Sim,5.6,5.0,Negativo,True,False,6-8h,4-6h
+415,20,Feminino,Graduação,Suíça,3.0,Instagram,Não,8.8,8.0,Positivo,False,False,2-4h,8h+
+416,22,Masculino,Pós-graduação,Peru,4.6,TikTok,Sim,7.6,6.0,Negativo,False,False,4-6h,6-8h
+417,19,Feminino,Graduação,EUA,7.7,Instagram,Sim,4.6,5.0,Negativo,True,True,6-8h,4-6h
+418,21,Masculino,Pós-graduação,México,6.5,WhatsApp,Sim,5.7,6.0,Negativo,True,False,6-8h,4-6h
+419,20,Feminino,Graduação,França,3.6,Instagram,Não,8.4,7.0,Positivo,False,False,2-4h,8h+
+420,22,Masculino,Pós-graduação,Canadá,4.4,TikTok,Sim,7.8,6.0,Negativo,False,False,4-6h,6-8h
+421,19,Feminino,Graduação,Espanha,4.2,Instagram,Sim,7.7,6.0,Negativo,False,False,4-6h,6-8h
+422,21,Masculino,Pós-graduação,Dinamarca,3.0,Facebook,Não,8.8,8.0,Positivo,False,False,2-4h,8h+
+423,20,Feminino,Graduação,Irlanda,3.9,TikTok,Sim,8.0,7.0,Negativo,False,False,2-4h,6-8h
+424,22,Masculino,Pós-graduação,Índia,6.8,WhatsApp,Sim,5.5,5.0,Negativo,True,False,6-8h,4-6h
+425,19,Feminino,Graduação,Suíça,2.9,Instagram,Não,8.9,8.0,Positivo,False,False,2-4h,8h+
+426,21,Masculino,Pós-graduação,Peru,4.5,Instagram,Sim,7.7,6.0,Negativo,False,False,4-6h,6-8h
+427,20,Feminino,Graduação,EUA,7.8,TikTok,Sim,4.5,5.0,Negativo,True,True,6-8h,4-6h
+428,22,Masculino,Pós-graduação,México,6.6,WhatsApp,Sim,5.6,6.0,Negativo,True,False,6-8h,4-6h
+429,19,Feminino,Graduação,França,3.5,Instagram,Não,8.5,7.0,Positivo,False,False,2-4h,8h+
+430,21,Masculino,Pós-graduação,Canadá,4.3,Instagram,Sim,7.9,6.0,Negativo,False,False,4-6h,6-8h
+431,20,Feminino,Graduação,Espanha,4.1,TikTok,Sim,7.8,6.0,Negativo,False,False,4-6h,6-8h
+432,22,Masculino,Pós-graduação,Dinamarca,2.9,Facebook,Não,8.9,8.0,Positivo,False,False,2-4h,8h+
+433,19,Feminino,Graduação,Irlanda,3.8,Instagram,Sim,8.1,7.0,Negativo,False,False,2-4h,8h+
+434,21,Masculino,Pós-graduação,Índia,6.9,WhatsApp,Sim,5.4,5.0,Negativo,True,False,6-8h,4-6h
+435,20,Feminino,Graduação,Suíça,2.8,Instagram,Não,9.0,8.0,Positivo,False,False,2-4h,8h+
+436,22,Masculino,Pós-graduação,Peru,4.4,TikTok,Sim,7.8,6.0,Negativo,False,False,4-6h,6-8h
+437,19,Feminino,Graduação,EUA,7.9,Instagram,Sim,4.4,5.0,Negativo,True,True,6-8h,4-6h
+438,21,Masculino,Pós-graduação,México,6.7,WhatsApp,Sim,5.5,6.0,Negativo,True,False,6-8h,4-6h
+439,20,Feminino,Graduação,França,3.4,Instagram,Não,8.6,7.0,Positivo,False,False,2-4h,8h+
+440,22,Masculino,Pós-graduação,Canadá,4.2,TikTok,Sim,8.0,6.0,Negativo,False,False,4-6h,6-8h
+441,19,Feminino,Graduação,Espanha,4.0,Instagram,Sim,7.9,6.0,Negativo,False,False,2-4h,6-8h
+442,21,Masculino,Pós-graduação,Dinamarca,2.8,Facebook,Não,9.0,8.0,Positivo,False,False,2-4h,8h+
+443,20,Feminino,Graduação,Irlanda,3.7,TikTok,Sim,8.2,7.0,Negativo,False,False,2-4h,8h+
+444,22,Masculino,Pós-graduação,Índia,7.0,WhatsApp,Sim,5.3,5.0,Negativo,True,False,6-8h,4-6h
+445,19,Feminino,Graduação,Suíça,2.7,Instagram,Não,9.1,8.0,Positivo,False,False,2-4h,8h+
+446,21,Masculino,Pós-graduação,Peru,4.3,Instagram,Sim,7.9,6.0,Negativo,False,False,4-6h,6-8h
+447,20,Feminino,Graduação,EUA,8.0,TikTok,Sim,4.3,5.0,Negativo,True,True,6-8h,4-6h
+448,22,Masculino,Pós-graduação,México,6.8,WhatsApp,Sim,5.4,6.0,Negativo,True,False,6-8h,4-6h
+449,19,Feminino,Graduação,França,3.3,Instagram,Não,8.7,7.0,Positivo,False,False,2-4h,8h+
+450,21,Masculino,Pós-graduação,Canadá,4.1,Instagram,Sim,8.1,6.0,Negativo,False,False,4-6h,8h+
+451,20,Feminino,Graduação,Espanha,3.9,TikTok,Sim,8.0,6.0,Negativo,False,False,2-4h,6-8h
+452,22,Masculino,Pós-graduação,Dinamarca,2.7,Facebook,Não,9.1,8.0,Positivo,False,False,2-4h,8h+
+453,19,Feminino,Graduação,Irlanda,3.6,Instagram,Sim,8.3,7.0,Negativo,False,False,2-4h,8h+
+454,21,Masculino,Pós-graduação,Índia,7.1,WhatsApp,Sim,5.2,5.0,Negativo,True,False,6-8h,4-6h
+455,20,Feminino,Graduação,Suíça,2.6,Instagram,Não,9.2,8.0,Positivo,False,False,2-4h,8h+
+456,22,Masculino,Pós-graduação,Peru,4.2,TikTok,Sim,8.0,6.0,Negativo,False,False,4-6h,6-8h
+457,19,Feminino,Graduação,EUA,8.1,Instagram,Sim,4.2,5.0,Negativo,True,True,8h+,4-6h
+458,21,Masculino,Pós-graduação,México,6.9,WhatsApp,Sim,5.3,6.0,Negativo,True,False,6-8h,4-6h
+459,20,Feminino,Graduação,França,3.2,Instagram,Não,8.8,7.0,Positivo,False,False,2-4h,8h+
+460,22,Masculino,Pós-graduação,Canadá,4.0,TikTok,Sim,8.2,6.0,Negativo,False,False,2-4h,8h+
+461,19,Feminino,Graduação,Espanha,3.8,Instagram,Sim,8.1,6.0,Negativo,False,False,2-4h,8h+
+462,21,Masculino,Pós-graduação,Dinamarca,2.6,Facebook,Não,9.2,8.0,Positivo,False,False,2-4h,8h+
+463,20,Feminino,Graduação,Irlanda,3.5,TikTok,Sim,8.4,7.0,Negativo,False,False,2-4h,8h+
+464,22,Masculino,Pós-graduação,Índia,7.2,WhatsApp,Sim,5.1,5.0,Negativo,True,False,6-8h,4-6h
+465,19,Feminino,Graduação,Suíça,2.5,Instagram,Não,9.3,8.0,Positivo,False,False,2-4h,8h+
+466,21,Masculino,Pós-graduação,Peru,4.1,Instagram,Sim,8.1,6.0,Negativo,False,False,4-6h,8h+
+467,20,Feminino,Graduação,EUA,8.2,TikTok,Sim,4.1,5.0,Negativo,True,True,8h+,4-6h
+468,22,Masculino,Pós-graduação,México,7.0,WhatsApp,Sim,5.2,6.0,Negativo,True,False,6-8h,4-6h
+469,19,Feminino,Graduação,França,3.1,Instagram,Não,8.9,7.0,Positivo,False,False,2-4h,8h+
+470,21,Masculino,Pós-graduação,Canadá,3.9,Instagram,Sim,8.3,6.0,Negativo,False,False,2-4h,8h+
+471,20,Feminino,Graduação,Espanha,3.7,TikTok,Sim,8.2,6.0,Negativo,False,False,2-4h,8h+
+472,22,Masculino,Pós-graduação,Dinamarca,2.5,Facebook,Não,9.3,8.0,Positivo,False,False,2-4h,8h+
+473,19,Feminino,Graduação,Irlanda,3.4,Instagram,Sim,8.5,7.0,Negativo,False,False,2-4h,8h+
+474,21,Masculino,Pós-graduação,Índia,7.3,WhatsApp,Sim,5.0,5.0,Negativo,True,False,6-8h,4-6h
+475,20,Feminino,Graduação,Suíça,2.4,Instagram,Não,9.4,8.0,Positivo,False,False,2-4h,8h+
+476,22,Masculino,Pós-graduação,Peru,4.0,TikTok,Sim,8.2,6.0,Negativo,False,False,2-4h,8h+
+477,19,Feminino,Graduação,EUA,8.3,Instagram,Sim,4.0,5.0,Negativo,True,True,8h+,<4h
+478,21,Masculino,Pós-graduação,México,7.1,WhatsApp,Sim,5.1,6.0,Negativo,True,False,6-8h,4-6h
+479,20,Feminino,Graduação,França,3.0,Instagram,Não,9.0,7.0,Positivo,False,False,2-4h,8h+
+480,22,Masculino,Pós-graduação,Canadá,3.8,TikTok,Sim,8.4,6.0,Negativo,False,False,2-4h,8h+
+481,19,Feminino,Graduação,Espanha,3.6,Instagram,Sim,8.3,6.0,Negativo,False,False,2-4h,8h+
+482,21,Masculino,Pós-graduação,Dinamarca,2.4,Facebook,Não,9.4,8.0,Positivo,False,False,2-4h,8h+
+483,20,Feminino,Graduação,Irlanda,3.3,TikTok,Sim,8.6,7.0,Negativo,False,False,2-4h,8h+
+484,22,Masculino,Pós-graduação,Índia,7.4,WhatsApp,Sim,4.9,5.0,Negativo,True,True,6-8h,4-6h
+485,19,Feminino,Graduação,Suíça,2.3,Instagram,Não,9.5,8.0,Positivo,False,False,2-4h,8h+
+486,21,Masculino,Pós-graduação,Peru,3.9,Instagram,Sim,8.3,6.0,Negativo,False,False,2-4h,8h+
+487,20,Feminino,Graduação,EUA,8.4,TikTok,Sim,3.9,5.0,Negativo,True,True,8h+,<4h
+488,22,Masculino,Pós-graduação,México,7.2,WhatsApp,Sim,5.0,6.0,Negativo,True,False,6-8h,4-6h
+489,19,Feminino,Graduação,França,2.9,Instagram,Não,9.1,7.0,Positivo,False,False,2-4h,8h+
+490,21,Masculino,Pós-graduação,Canadá,3.7,Instagram,Sim,8.5,6.0,Negativo,False,False,2-4h,8h+
+491,20,Feminino,Graduação,Espanha,3.5,TikTok,Sim,8.4,6.0,Negativo,False,False,2-4h,8h+
+492,22,Masculino,Pós-graduação,Dinamarca,2.3,Facebook,Não,9.5,8.0,Positivo,False,False,2-4h,8h+
+493,19,Feminino,Graduação,Irlanda,3.2,Instagram,Sim,8.7,7.0,Negativo,False,False,2-4h,8h+
+494,21,Masculino,Pós-graduação,Índia,7.5,WhatsApp,Sim,4.8,5.0,Negativo,True,True,6-8h,4-6h
+495,20,Feminino,Graduação,Suíça,2.2,Instagram,Não,9.6,8.0,Positivo,False,False,2-4h,8h+
+496,22,Masculino,Pós-graduação,Peru,3.8,TikTok,Sim,8.4,6.0,Negativo,False,False,2-4h,8h+
+497,19,Feminino,Graduação,EUA,8.5,Instagram,Sim,3.8,5.0,Negativo,True,True,8h+,<4h
+498,21,Masculino,Pós-graduação,México,7.3,WhatsApp,Sim,4.9,6.0,Negativo,True,True,6-8h,4-6h
+499,20,Feminino,Graduação,França,2.8,Instagram,Não,9.2,7.0,Positivo,False,False,2-4h,8h+
+500,22,Masculino,Pós-graduação,Canadá,3.6,TikTok,Sim,8.6,6.0,Negativo,False,False,2-4h,8h+
+501,19,Feminino,Graduação,Brasil,6.2,WhatsApp,Sim,6.3,6.0,Negativo,True,False,6-8h,6-8h
+502,21,Masculino,Pós-graduação,China,4.5,WeChat,Não,7.8,7.0,Positivo,False,False,4-6h,6-8h
+503,20,Feminino,Graduação,Holanda,3.8,Instagram,Não,8.2,8.0,Positivo,False,False,2-4h,8h+
+504,22,Masculino,Pós-graduação,Nova Zelândia,4.7,Instagram,Sim,7.5,7.0,Negativo,False,False,4-6h,6-8h
+505,19,Feminino,Graduação,Cingapura,5.1,TikTok,Sim,7.0,6.0,Negativo,True,False,4-6h,6-8h
+506,21,Masculino,Pós-graduação,Malásia,5.5,WhatsApp,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+507,20,Feminino,Graduação,Emirados Árabes Unidos,6.5,Instagram,Sim,6.5,5.0,Negativo,True,False,6-8h,6-8h
+508,22,Masculino,Pós-graduação,Polônia,4.2,Facebook,Não,7.9,7.0,Positivo,False,False,4-6h,6-8h
+509,19,Feminino,Graduação,Índia,6.8,WhatsApp,Sim,6.0,5.0,Negativo,True,False,6-8h,4-6h
+510,21,Masculino,Pós-graduação,Canadá,4.8,Instagram,Sim,7.4,7.0,Negativo,False,False,4-6h,6-8h
+511,20,Feminino,Graduação,Brasil,6.1,Instagram,Sim,6.4,6.0,Negativo,True,False,6-8h,6-8h
+512,22,Masculino,Pós-graduação,China,4.4,WeChat,Não,7.9,7.0,Positivo,False,False,4-6h,6-8h
+513,19,Feminino,Graduação,Holanda,3.7,TikTok,Não,8.3,8.0,Positivo,False,False,2-4h,8h+
+514,21,Masculino,Pós-graduação,Nova Zelândia,4.6,Instagram,Sim,7.6,7.0,Negativo,False,False,4-6h,6-8h
+515,20,Feminino,Graduação,Cingapura,5.2,TikTok,Sim,6.9,6.0,Negativo,True,False,4-6h,6-8h
+516,22,Masculino,Pós-graduação,Malásia,5.6,WhatsApp,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+517,19,Feminino,Graduação,Emirados Árabes Unidos,6.6,Instagram,Sim,6.4,5.0,Negativo,True,False,6-8h,6-8h
+518,21,Masculino,Pós-graduação,Polônia,4.1,Facebook,Não,8.0,7.0,Positivo,False,False,4-6h,6-8h
+519,20,Feminino,Graduação,Índia,6.9,WhatsApp,Sim,5.9,5.0,Negativo,True,False,6-8h,4-6h
+520,22,Masculino,Pós-graduação,Canadá,4.7,TikTok,Sim,7.5,7.0,Negativo,False,False,4-6h,6-8h
+521,19,Feminino,Graduação,Brasil,6.0,WhatsApp,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+522,21,Masculino,Pós-graduação,China,4.3,WeChat,Não,8.0,7.0,Positivo,False,False,4-6h,6-8h
+523,20,Feminino,Graduação,Holanda,3.6,Instagram,Não,8.4,8.0,Positivo,False,False,2-4h,8h+
+524,22,Masculino,Pós-graduação,Nova Zelândia,4.5,Facebook,Sim,7.7,7.0,Negativo,False,False,4-6h,6-8h
+525,19,Feminino,Graduação,Cingapura,5.3,TikTok,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+526,21,Masculino,Pós-graduação,Malásia,5.7,WhatsApp,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+527,20,Feminino,Graduação,Emirados Árabes Unidos,6.7,Instagram,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+528,22,Masculino,Pós-graduação,Polônia,4.0,Facebook,Não,8.1,7.0,Positivo,False,False,2-4h,8h+
+529,19,Feminino,Graduação,Índia,7.0,WhatsApp,Sim,5.8,5.0,Negativo,True,False,6-8h,4-6h
+530,21,Masculino,Pós-graduação,Canadá,4.6,Instagram,Sim,7.6,7.0,Negativo,False,False,4-6h,6-8h
+531,20,Feminino,Graduação,Brasil,5.9,TikTok,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+532,22,Masculino,Pós-graduação,China,4.2,WeChat,Não,8.1,7.0,Positivo,False,False,4-6h,8h+
+533,19,Feminino,Graduação,Holanda,3.5,Instagram,Não,8.5,8.0,Positivo,False,False,2-4h,8h+
+534,21,Masculino,Pós-graduação,Nova Zelândia,4.4,Facebook,Sim,7.8,7.0,Negativo,False,False,4-6h,6-8h
+535,20,Feminino,Graduação,Cingapura,5.4,TikTok,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+536,22,Masculino,Pós-graduação,Malásia,5.8,WhatsApp,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+537,19,Feminino,Graduação,Emirados Árabes Unidos,6.8,Instagram,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+538,21,Masculino,Pós-graduação,Polônia,3.9,Facebook,Não,8.2,7.0,Positivo,False,False,2-4h,8h+
+539,20,Feminino,Graduação,Índia,7.1,WhatsApp,Sim,5.7,5.0,Negativo,True,False,6-8h,4-6h
+540,22,Masculino,Pós-graduação,Canadá,4.5,TikTok,Sim,7.7,7.0,Negativo,False,False,4-6h,6-8h
+541,19,Feminino,Graduação,Brasil,5.8,WhatsApp,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+542,21,Masculino,Pós-graduação,China,4.1,WeChat,Não,8.2,7.0,Positivo,False,False,4-6h,8h+
+543,20,Feminino,Graduação,Holanda,3.4,Instagram,Não,8.6,8.0,Positivo,False,False,2-4h,8h+
+544,22,Masculino,Pós-graduação,Nova Zelândia,4.3,Instagram,Sim,7.9,7.0,Negativo,False,False,4-6h,6-8h
+545,19,Feminino,Graduação,Cingapura,5.5,TikTok,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+546,21,Masculino,Pós-graduação,Malásia,5.9,WhatsApp,Sim,6.4,6.0,Negativo,True,False,4-6h,6-8h
+547,20,Feminino,Graduação,Emirados Árabes Unidos,6.9,Instagram,Sim,6.1,5.0,Negativo,True,False,6-8h,6-8h
+548,22,Masculino,Pós-graduação,Polônia,3.8,Facebook,Não,8.3,7.0,Positivo,False,False,2-4h,8h+
+549,19,Feminino,Graduação,Índia,7.2,WhatsApp,Sim,5.6,5.0,Negativo,True,False,6-8h,4-6h
+550,21,Masculino,Pós-graduação,Canadá,4.4,Instagram,Sim,7.8,7.0,Negativo,False,False,4-6h,6-8h
+551,20,Feminino,Graduação,Brasil,5.7,TikTok,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+552,22,Masculino,Pós-graduação,China,4.0,WeChat,Não,8.3,7.0,Positivo,False,False,2-4h,8h+
+553,19,Feminino,Graduação,Holanda,3.3,Instagram,Não,8.7,8.0,Positivo,False,False,2-4h,8h+
+554,21,Masculino,Pós-graduação,Nova Zelândia,4.2,Facebook,Sim,8.0,7.0,Negativo,False,False,4-6h,6-8h
+555,20,Feminino,Graduação,Cingapura,5.6,TikTok,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+556,22,Masculino,Pós-graduação,Malásia,6.0,WhatsApp,Sim,6.3,6.0,Negativo,True,False,4-6h,6-8h
+557,19,Feminino,Graduação,Emirados Árabes Unidos,7.0,Instagram,Sim,6.0,5.0,Negativo,True,False,6-8h,4-6h
+558,21,Masculino,Pós-graduação,Polônia,3.7,Facebook,Não,8.4,7.0,Positivo,False,False,2-4h,8h+
+559,20,Feminino,Graduação,Índia,7.3,WhatsApp,Sim,5.5,5.0,Negativo,True,False,6-8h,4-6h
+560,22,Masculino,Pós-graduação,Canadá,4.3,TikTok,Sim,7.9,7.0,Negativo,False,False,4-6h,6-8h
+561,19,Feminino,Graduação,Brasil,5.6,WhatsApp,Sim,6.9,6.0,Negativo,True,False,4-6h,6-8h
+562,21,Masculino,Pós-graduação,China,3.9,WeChat,Não,8.4,7.0,Positivo,False,False,2-4h,8h+
+563,20,Feminino,Graduação,Holanda,3.2,Instagram,Não,8.8,8.0,Positivo,False,False,2-4h,8h+
+564,22,Masculino,Pós-graduação,Nova Zelândia,4.1,Instagram,Sim,8.1,7.0,Negativo,False,False,4-6h,8h+
+565,19,Feminino,Graduação,Cingapura,5.7,TikTok,Sim,6.4,6.0,Negativo,True,False,4-6h,6-8h
+566,21,Masculino,Pós-graduação,Malásia,6.1,WhatsApp,Sim,6.2,6.0,Negativo,True,False,6-8h,6-8h
+567,20,Feminino,Graduação,Emirados Árabes Unidos,7.1,Instagram,Sim,5.9,5.0,Negativo,True,False,6-8h,4-6h
+568,22,Masculino,Pós-graduação,Polônia,3.6,Facebook,Não,8.5,7.0,Positivo,False,False,2-4h,8h+
+569,19,Feminino,Graduação,Índia,7.4,WhatsApp,Sim,5.4,5.0,Negativo,True,False,6-8h,4-6h
+570,21,Masculino,Pós-graduação,Canadá,4.2,Instagram,Sim,8.0,7.0,Negativo,False,False,4-6h,6-8h
+571,20,Feminino,Graduação,Espanha,6.1,Instagram,Sim,7.2,5.0,Negativo,True,False,6-8h,6-8h
+572,23,Masculino,Pós-graduação,Dinamarca,3.8,Twitter,Não,7.8,8.0,Positivo,False,False,2-4h,6-8h
+573,19,Feminino,Graduação,Irlanda,5.5,TikTok,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+574,22,Masculino,Pós-graduação,Índia,7.2,Facebook,Sim,5.9,4.0,Negativo,True,False,6-8h,4-6h
+575,21,Feminino,Graduação,Suíça,4.2,Instagram,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+576,24,Masculino,Pós-graduação,Peru,6.8,TikTok,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+577,20,Feminino,Graduação,EUA,5.9,Instagram,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+578,22,Masculino,Pós-graduação,México,6.5,Facebook,Sim,6.1,5.0,Negativo,True,False,6-8h,6-8h
+579,19,Feminino,Graduação,França,4.7,Twitter,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+580,23,Masculino,Pós-graduação,Canadá,5.2,Instagram,Sim,7.0,6.0,Negativo,True,False,4-6h,6-8h
+581,21,Feminino,Graduação,Reino Unido,6.3,TikTok,Sim,6.4,5.0,Negativo,True,False,6-8h,6-8h
+582,24,Masculino,Pós-graduação,Itália,4.9,Facebook,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+583,20,Feminino,Graduação,Rússia,6.7,Instagram,Sim,6.0,5.0,Negativo,True,False,6-8h,4-6h
+584,22,Masculino,Pós-graduação,China,5.8,WeChat,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+585,19,Feminino,Graduação,Japão,4.5,Twitter,Não,7.6,8.0,Positivo,False,False,4-6h,6-8h
+586,23,Masculino,Pós-graduação,Polônia,6.4,Facebook,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+587,21,Feminino,Graduação,Finlândia,4.1,Instagram,Não,7.7,7.0,Positivo,False,False,4-6h,6-8h
+588,24,Masculino,Pós-graduação,Espanha,6.6,TikTok,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+589,20,Feminino,Graduação,Dinamarca,4.4,Instagram,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+590,22,Masculino,Pós-graduação,Irlanda,5.7,Twitter,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+591,19,Feminino,Graduação,Índia,7.0,Instagram,Sim,5.8,4.0,Negativo,True,False,6-8h,4-6h
+592,23,Masculino,Pós-graduação,Suíça,4.3,Facebook,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+593,21,Feminino,Graduação,Peru,6.9,TikTok,Sim,6.1,5.0,Negativo,True,False,6-8h,6-8h
+594,24,Masculino,Pós-graduação,EUA,5.6,Instagram,Sim,6.9,6.0,Negativo,True,False,4-6h,6-8h
+595,20,Feminino,Graduação,México,6.2,Facebook,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+596,21,Masculino,Graduação,França,5.8,Instagram,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+597,23,Feminino,Pós-graduação,Canadá,4.9,TikTok,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+598,20,Masculino,Graduação,Reino Unido,6.4,Facebook,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+599,22,Feminino,Pós-graduação,Itália,5.1,Twitter,Não,7.1,7.0,Positivo,True,False,4-6h,6-8h
+600,19,Masculino,Graduação,Rússia,6.7,Instagram,Sim,6.0,4.0,Negativo,True,False,6-8h,4-6h
+601,24,Feminino,Pós-graduação,China,5.5,WeChat,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+602,21,Masculino,Graduação,Japão,4.3,Twitter,Não,7.6,8.0,Positivo,False,False,4-6h,6-8h
+603,23,Feminino,Pós-graduação,Polônia,6.2,Instagram,Sim,6.4,5.0,Negativo,True,False,6-8h,6-8h
+604,20,Masculino,Graduação,Finlândia,4.5,Facebook,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+605,22,Feminino,Pós-graduação,Espanha,6.3,TikTok,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+606,19,Masculino,Graduação,Dinamarca,4.7,Instagram,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+607,24,Feminino,Pós-graduação,Irlanda,5.9,Twitter,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+608,21,Masculino,Graduação,Índia,7.1,Facebook,Sim,5.7,4.0,Negativo,True,False,6-8h,4-6h
+609,23,Feminino,Pós-graduação,Suíça,4.4,Instagram,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+610,20,Masculino,Graduação,Peru,6.6,TikTok,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+611,22,Feminino,Pós-graduação,EUA,5.4,Instagram,Sim,6.9,6.0,Negativo,True,False,4-6h,6-8h
+612,19,Masculino,Graduação,México,6.5,Facebook,Sim,6.1,5.0,Negativo,True,False,6-8h,6-8h
+613,24,Feminino,Pós-graduação,França,4.8,Twitter,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+614,21,Masculino,Graduação,Canadá,5.7,Instagram,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+615,23,Feminino,Pós-graduação,Reino Unido,6.1,TikTok,Sim,6.4,5.0,Negativo,True,False,6-8h,6-8h
+616,20,Masculino,Graduação,Itália,4.6,Facebook,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+617,22,Feminino,Pós-graduação,Rússia,6.8,Instagram,Sim,5.9,4.0,Negativo,True,False,6-8h,4-6h
+618,19,Masculino,Graduação,China,5.6,WeChat,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+619,24,Feminino,Pós-graduação,Japão,4.2,Twitter,Não,7.5,8.0,Positivo,False,False,4-6h,6-8h
+620,21,Masculino,Graduação,Polônia,6.3,TikTok,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+621,23,Feminino,Pós-graduação,Finlândia,4.4,Instagram,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+622,20,Masculino,Graduação,Espanha,6.5,Facebook,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+623,22,Feminino,Pós-graduação,Dinamarca,4.6,Twitter,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+624,19,Masculino,Graduação,Irlanda,5.8,Instagram,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+625,24,Feminino,Pós-graduação,Índia,7.0,TikTok,Sim,5.8,4.0,Negativo,True,False,6-8h,4-6h
+626,21,Masculino,Graduação,Suíça,4.5,Facebook,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+627,23,Feminino,Pós-graduação,Peru,6.7,Instagram,Sim,6.1,5.0,Negativo,True,False,6-8h,6-8h
+628,20,Masculino,Graduação,EUA,5.5,Twitter,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+629,22,Feminino,Pós-graduação,México,6.4,Facebook,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+630,19,Masculino,Graduação,França,4.7,Instagram,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+631,24,Feminino,Pós-graduação,Canadá,5.6,TikTok,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+632,21,Masculino,Graduação,Reino Unido,6.2,Facebook,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+633,23,Feminino,Pós-graduação,Itália,4.8,Twitter,Não,7.1,7.0,Positivo,False,False,4-6h,6-8h
+634,20,Masculino,Graduação,Rússia,6.9,Instagram,Sim,5.9,4.0,Negativo,True,False,6-8h,4-6h
+635,22,Feminino,Pós-graduação,China,5.7,WeChat,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+636,19,Masculino,Graduação,Japão,4.4,Twitter,Não,7.4,8.0,Positivo,False,False,4-6h,6-8h
+637,24,Feminino,Pós-graduação,Polônia,6.1,TikTok,Sim,6.4,5.0,Negativo,True,False,6-8h,6-8h
+638,21,Masculino,Graduação,Finlândia,4.3,Instagram,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+639,23,Feminino,Pós-graduação,Espanha,6.4,Facebook,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+640,20,Masculino,Graduação,Dinamarca,4.5,Twitter,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+641,22,Feminino,Pós-graduação,Irlanda,5.9,Instagram,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+642,19,Masculino,Graduação,Índia,7.2,TikTok,Sim,5.7,4.0,Negativo,True,False,6-8h,4-6h
+643,24,Feminino,Pós-graduação,Suíça,4.6,Facebook,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+644,21,Masculino,Graduação,Peru,6.8,Instagram,Sim,6.0,5.0,Negativo,True,False,6-8h,4-6h
+645,23,Feminino,Pós-graduação,EUA,5.3,Twitter,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+646,22,Masculino,Pós-graduação,México,6.3,Facebook,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+647,20,Feminino,Graduação,França,4.8,Instagram,Não,7.1,7.0,Positivo,False,False,4-6h,6-8h
+648,23,Masculino,Pós-graduação,Canadá,5.7,TikTok,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+649,21,Feminino,Graduação,Reino Unido,6.2,Twitter,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+650,24,Masculino,Pós-graduação,Itália,4.7,Facebook,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+651,19,Feminino,Graduação,Rússia,6.8,Instagram,Sim,5.9,4.0,Negativo,True,False,6-8h,4-6h
+652,22,Masculino,Pós-graduação,China,5.6,WeChat,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+653,20,Feminino,Graduação,Japão,4.3,Twitter,Não,7.5,8.0,Positivo,False,False,4-6h,6-8h
+654,23,Masculino,Pós-graduação,Polônia,6.2,TikTok,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+655,21,Feminino,Graduação,Finlândia,4.4,Instagram,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+656,24,Masculino,Pós-graduação,Espanha,6.5,Facebook,Sim,6.1,5.0,Negativo,True,False,6-8h,6-8h
+657,19,Feminino,Graduação,Dinamarca,4.6,Twitter,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+658,22,Masculino,Pós-graduação,Irlanda,5.8,Instagram,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+659,20,Feminino,Graduação,Índia,7.1,TikTok,Sim,5.8,4.0,Negativo,True,False,6-8h,4-6h
+660,23,Masculino,Pós-graduação,Suíça,4.5,Facebook,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+661,21,Feminino,Graduação,Peru,6.7,Instagram,Sim,6.0,5.0,Negativo,True,False,6-8h,4-6h
+662,24,Masculino,Pós-graduação,EUA,5.4,Twitter,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+663,19,Feminino,Graduação,México,6.4,TikTok,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+664,22,Masculino,Pós-graduação,França,4.7,Facebook,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+665,20,Feminino,Graduação,Canadá,5.6,Instagram,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+666,23,Masculino,Pós-graduação,Reino Unido,6.3,Twitter,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+667,21,Feminino,Graduação,Itália,4.8,TikTok,Não,7.1,7.0,Positivo,False,False,4-6h,6-8h
+668,24,Masculino,Pós-graduação,Rússia,6.9,Instagram,Sim,5.9,4.0,Negativo,True,False,6-8h,4-6h
+669,19,Feminino,Graduação,China,5.7,WeChat,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+670,22,Masculino,Pós-graduação,Japão,4.4,Twitter,Não,7.4,8.0,Positivo,False,False,4-6h,6-8h
+671,20,Feminino,Graduação,Polônia,6.1,Facebook,Sim,6.4,5.0,Negativo,True,False,6-8h,6-8h
+672,23,Masculino,Pós-graduação,Finlândia,4.3,Instagram,Não,7.5,7.0,Positivo,False,False,4-6h,6-8h
+673,21,Feminino,Graduação,Espanha,6.4,TikTok,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+674,24,Masculino,Pós-graduação,Dinamarca,4.5,Twitter,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+675,19,Feminino,Graduação,Irlanda,5.9,Instagram,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+676,22,Masculino,Pós-graduação,Índia,7.2,Facebook,Sim,5.7,4.0,Negativo,True,False,6-8h,4-6h
+677,20,Feminino,Graduação,Suíça,4.6,TikTok,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+678,23,Masculino,Pós-graduação,Peru,6.8,Instagram,Sim,6.0,5.0,Negativo,True,False,6-8h,4-6h
+679,21,Feminino,Graduação,EUA,5.3,Twitter,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+680,24,Masculino,Pós-graduação,México,6.2,Facebook,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+681,19,Feminino,Graduação,França,4.7,Instagram,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+682,22,Masculino,Pós-graduação,Canadá,5.8,TikTok,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+683,20,Feminino,Graduação,Reino Unido,6.1,Twitter,Sim,6.4,5.0,Negativo,True,False,6-8h,6-8h
+684,23,Masculino,Pós-graduação,Itália,4.8,Facebook,Não,7.1,7.0,Positivo,False,False,4-6h,6-8h
+685,21,Feminino,Graduação,Rússia,6.7,Instagram,Sim,6.0,4.0,Negativo,True,False,6-8h,4-6h
+686,24,Masculino,Pós-graduação,China,5.5,WeChat,Sim,6.8,6.0,Negativo,True,False,4-6h,6-8h
+687,19,Feminino,Graduação,Japão,4.2,Twitter,Não,7.5,8.0,Positivo,False,False,4-6h,6-8h
+688,22,Masculino,Pós-graduação,Polônia,6.3,TikTok,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+689,20,Feminino,Graduação,Finlândia,4.4,Instagram,Não,7.4,7.0,Positivo,False,False,4-6h,6-8h
+690,23,Masculino,Pós-graduação,Espanha,6.5,Facebook,Sim,6.1,5.0,Negativo,True,False,6-8h,6-8h
+691,21,Feminino,Graduação,Dinamarca,4.6,Twitter,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+692,24,Masculino,Pós-graduação,Irlanda,5.9,Instagram,Sim,6.5,6.0,Negativo,True,False,4-6h,6-8h
+693,19,Feminino,Graduação,Índia,7.0,TikTok,Sim,5.8,4.0,Negativo,True,False,6-8h,4-6h
+694,22,Masculino,Pós-graduação,Suíça,4.5,Facebook,Não,7.3,7.0,Positivo,False,False,4-6h,6-8h
+695,20,Feminino,Graduação,Peru,6.6,Instagram,Sim,6.1,5.0,Negativo,True,False,6-8h,6-8h
+696,23,Masculino,Pós-graduação,EUA,5.5,Twitter,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+697,21,Feminino,Graduação,México,6.3,TikTok,Sim,6.2,5.0,Negativo,True,False,6-8h,6-8h
+698,24,Masculino,Pós-graduação,França,4.8,Facebook,Não,7.1,7.0,Positivo,False,False,4-6h,6-8h
+699,19,Feminino,Graduação,Canadá,5.7,Instagram,Sim,6.6,6.0,Negativo,True,False,4-6h,6-8h
+700,22,Masculino,Pós-graduação,Reino Unido,6.2,Twitter,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
+701,20,Feminino,Graduação,Itália,4.7,TikTok,Não,7.2,7.0,Positivo,False,False,4-6h,6-8h
+702,23,Masculino,Pós-graduação,Rússia,6.8,Instagram,Sim,5.9,4.0,Negativo,True,False,6-8h,4-6h
+703,21,Feminino,Graduação,China,5.6,WeChat,Sim,6.7,6.0,Negativo,True,False,4-6h,6-8h
+704,24,Masculino,Pós-graduação,Japão,4.3,Twitter,Não,7.5,8.0,Positivo,False,False,4-6h,6-8h
+705,19,Feminino,Graduação,Polônia,6.2,Facebook,Sim,6.3,5.0,Negativo,True,False,6-8h,6-8h
